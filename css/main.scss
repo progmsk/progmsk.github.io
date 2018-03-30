@@ -1,4 +1,4 @@
----
+color: ---
 ---
 
 @charset "utf-8";
@@ -49,6 +49,6 @@ a {
   color: $link-color;
   
   &:visited {
-    $link-color/2;
+    color: $link-color/2;
   }
 }
