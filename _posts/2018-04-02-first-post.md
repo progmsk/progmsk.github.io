@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Тестовая запись
@@ -10,4 +9,3 @@ category: service
 <!--more-->
 
 Создали тестовую запись в категории **service**.
-
