@@ -1,6 +1,8 @@
 lang: ru-RU
 encoding: utf-8
+
 url: http://prog.msk.ru
+
 permalink: pretty
 highlighter: rouge
 markdown: kramdown
