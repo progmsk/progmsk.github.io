@@ -14,5 +14,3 @@ gems:
 paginate: 10
 paginate_path: "/:num"
 
-feed:
-  path: feed.atom
