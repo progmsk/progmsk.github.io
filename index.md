@@ -10,7 +10,21 @@ excerpt: Тяжела и неказиста жизнь простого прог
 Ниша «посидеть и поговорить» оказалась незаполненной.
 Этот пробел требует немедленной ликвидации, которой мы и занимаемся.
 
-{% for post in site.posts %}
+{% for post in paginator.posts %}
   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
   {{ post.excerpt }}
 {% endfor %}
+
+<ul>
+  {% if paginator.previous_page %}
+    <li><a href="{{ paginator.previous_page_path }}" class="previous">Назад</a></li>
+  {% else %}
+    <li>Назад</li>
+  {% endif %}
+    <li>Страница {{ paginator.page }} из {{ paginator.total_pages }}</li>
+  {% if paginator.next_page %}
+    <li><a href="{{ paginator.next_page_path }}" class="next">Вперёд</a></li>
+  {% else %}
+    <li class="next">Вперёд</li>
+  {% endif %}
+</ul>
