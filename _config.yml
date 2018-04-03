@@ -1,7 +1,12 @@
 lang: ru-RU
 encoding: utf-8
-url: http://progmsk.github.io
+url: http://prog.msk.ru
 permalink: pretty
 highlighter: rouge
 markdown: kramdown
 
+gems:
+  - jekyll-paginate
+
+paginate: 10
+paginate_path: "/:num"
