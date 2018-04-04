@@ -1,0 +1,25 @@
+---
+layout: article
+title: Блог клуба программистов
+---
+<h1>Блог клуба программистов</h1>
+{% for post in paginator.posts %}
+  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+  {{ post.excerpt }}
+{% endfor %}
+
+{% if paginator.total_pages > 1 %}
+<ul>
+  {% if paginator.previous_page %}
+    <li><a href="{{ paginator.previous_page_path }}">Назад</a></li>
+  {% else %}
+    <li>Назад</li>
+  {% endif %}
+    <li>Страница {{ paginator.page }} из {{ paginator.total_pages }}</li>
+  {% if paginator.next_page %}
+    <li><a href="{{ paginator.next_page_path }}">Вперёд</a></li>
+  {% else %}
+    <li class="next">Вперёд</li>
+  {% endif %}
+</ul>
+{% endif %}
