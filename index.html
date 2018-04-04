@@ -4,33 +4,33 @@ title: Московский клуб программистов
 excerpt: Тяжела и неказиста жизнь простого программиста
 ---
 
-Как выяснилось, в Москве есть большая потребность в неформальных встречах программистов,
-без привязки к конкретным технологиям и языкам.
+<p>Как выяснилось, в Москве есть большая потребность в неформальных встречах программистов,
+без привязки к конкретным технологиям и языкам.</p>
 
-Ниша «посидеть и поговорить» оказалась незаполненной.
-Этот пробел требует немедленной ликвидации, которой мы и занимаемся.
+<p>Ниша «посидеть и поговорить» оказалась незаполненной.
+Этот пробел требует немедленной ликвидации, которой мы и занимаемся.</p>
 
 [Блог клуба программистов](blog).
 
 <div id="posts">
 </div>
 <script>
-			window.onload = function() {
-				var request = new XMLHttpRequest();
-				request.open('POST', 'https://api.meetup.com/2/events?offset=0&group_urlname=progmsk&status=upcoming,past', true);
-				request.setRequestHeader('Content-Type', 'application/json');
-				request.setRequestHeader('Accept', 'application/json');
-				request.responseType = 'json';
-				request.onload = function(data) {
-					if (data.target.status >= 200 && data.target.status < 300) {
-						showMeetups(data.target.response.result);
-					}
-				};
+window.onload = function() {
+  var request = new XMLHttpRequest();
+  request.open('POST', 'https://api.meetup.com/2/events?offset=0&amp;group_urlname=progmsk&amp;status=upcoming,past', true);
+  request.setRequestHeader('Content-Type', 'application/json');
+  request.setRequestHeader('Accept', 'application/json');
+  request.responseType = 'json';
+  request.onload = function(data) {
+    if (data.target.status >= 200 && data.target.status < 300) {
+      showMeetups(data.target.response.result);
+    }
+  };
 
-				request.send();
+  request.send();
 
-				function showMeetups(meetups) {
-					console.log(meetups);
-				}
-			}
+  function showMeetups(meetups) {
+    console.log(meetups);
+  }
+}
 </script>
