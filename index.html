@@ -15,22 +15,49 @@ excerpt: Тяжела и неказиста жизнь простого прог
 <div id="posts">
 </div>
 <script>
-window.onload = function() {
-  var request = new XMLHttpRequest();
-  request.open('POST', 'https://api.meetup.com/2/events?offset=0&amp;group_urlname=progmsk&amp;status=upcoming,past', true);
-  request.setRequestHeader('Content-Type', 'application/json');
-  request.setRequestHeader('Accept', 'application/json');
-  request.responseType = 'json';
-  request.onload = function(data) {
-    if (data.target.status >= 200 && data.target.status < 300) {
-      showMeetups(data.target.response.result);
+  window.onload = function() {
+    var request = new XMLHttpRequest();
+    request.open('GET', 'http://markshevchenko.pro/feed.xml', true);
+    request.onload = function(data) {
+      if (data.target.status >= 200 && data.target.status < 300) {
+        var feed = data.target.responseXML;
+        var entries = feed.getElementsByTagName('entry');
+        showPosts(entries);
+      }
+    };
+
+    request.send();
+
+    function showPosts(entries) {
+      for (var i = 0; i < entries.length; i++) {
+        var entry = parseEntry(entries[i]);
+
+        var header = document.createElement('h2');
+        header.innerHTML = `<a href='${entry.href}'>${entry.title}</a>`;
+        document.getElementById('posts').appendChild(header);
+
+        var date = document.createElement('p', { class: 'date' });
+        date.innerText = entry.published.toLocaleString();
+        document.getElementById('posts').appendChild(date);
+
+        var author = document.createElement('p', { class: 'author' });
+        author.innerText = entry.author;
+        document.getElementById('posts').appendChild(author);
+
+        var summary = document.createElement('p');
+        summary.innerText = entry.summary;
+        document.getElementById('posts').appendChild(summary);
+      }
     }
-  };
 
-  request.send();
-
-  function showMeetups(meetups) {
-    console.log(meetups);
+    function parseEntry(entry) {
+      return {
+        title: entry.getElementsByTagName('link')[0].getAttribute('title'),
+        href: entry.getElementsByTagName('link')[0].getAttribute('href'),
+        published: new Date(entry.getElementsByTagName('published')[0].innerHTML),
+        author: entry.getElementsByTagName('name')[0].innerHTML,
+        summary: entry.getElementsByTagName('summary')[0].innerHTML
+      };
+    }
   }
-}
 </script>
