@@ -12,3 +12,25 @@ excerpt: Тяжела и неказиста жизнь простого прог
 
 [Блог клуба программистов](blog).
 
+<div id="posts">
+</div>
+<script>
+			window.onload = function() {
+				var request = new XMLHttpRequest();
+				request.open('POST', 'https://api.meetup.com/2/events?offset=0&group_urlname=progmsk&status=upcoming,past', true);
+				request.setRequestHeader('Content-Type', 'application/json');
+				request.setRequestHeader('Accept', 'application/json');
+				request.responseType = 'json';
+				request.onload = function(data) {
+					if (data.target.status >= 200 && data.target.status < 300) {
+						showMeetups(data.target.response.result);
+					}
+				};
+
+				request.send();
+
+				function showMeetups(meetups) {
+					console.log(meetups);
+				}
+			}
+</script>
