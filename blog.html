@@ -2,7 +2,6 @@
 layout: article
 title: Блог клуба программистов
 ---
-<h1>Блог клуба программистов</h1>
 {% for post in paginator.posts %}
   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
   {{ post.excerpt }}
