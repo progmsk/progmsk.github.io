@@ -16,56 +16,72 @@ excerpt: Тяжела и неказиста жизнь простого прог
 </div>
 
 <script>
-  window.onload = function() {
+  window.addEventListener('load', function() {
     var request = new XMLHttpRequest();
     request.open('GET', 'http://markshevchenko.pro/feed.xml', true);
     request.onload = function(data) {
       if (data.target.status >= 200 && data.target.status < 300) {
         var feed = data.target.responseXML;
-        var entries = feed.getElementsByTagName('entry');
-        makeHtml(entries);
+        var entries = feed.querySelectorAll('entry');
+        for (var i = 0; i < entries.length; i++) {
+          var post = parsePost(entries[i]);
+          appendPost(post);
+        }
       }
     };
 
     request.send();
 
-    function makeHtml(entries) {
-      for (var i = 0; i < entries.length; i++) {
-        var entry = parseEntry(entries[i]);
-
-        var titleLink = document.createElement('a');
-        titleLink.setAttribute('href', entry.href);
-        titleLink.appendChild(document.createTextNode(entry.title));
-						
-        var title = document.createElement('h2');
-        title.appendChild(titleLink);
-
-        var date = document.createElement('p');
-        date.setAttribute('class', 'date');
-        date.appendChild(document.createTextNode(entry.published.toLocaleString()));
-
-        var author = document.createElement('p');
-        author.setAttribute('class', 'author');
-        author.appendChild(document.createTextNode(entry.author));
-
-        var summary = document.createElement('p');
-        summary.appendChild(document.createTextNode(entry.summary));
-
-        document.getElementById('posts').appendChild(title);
-        document.getElementById('posts').appendChild(date);
-        document.getElementById('posts').appendChild(author);
-        document.getElementById('posts').appendChild(summary);
-      }
-    }
-
-    function parseEntry(entry) {
+    function parsePost(entry) {
       return {
-        title: entry.getElementsByTagName('link')[0].getAttribute('title'),
-        href: entry.getElementsByTagName('link')[0].getAttribute('href'),
-        published: new Date(entry.getElementsByTagName('published')[0].innerHTML),
-        author: entry.getElementsByTagName('name')[0].innerHTML,
-        summary: entry.getElementsByTagName('summary')[0].innerHTML
+        title: getAttribute(entry, 'link', 'title'),
+        href: getAttribute(entry, 'link', 'href'),
+        published: getTextContent(entry, 'published'),
+        author: getTextContent(entry, 'author > name'),
+        summary: getTextContent(entry, 'summary')
       };
     }
-  }
+
+    function getAttribute(entry, selector, attributeName) {
+      var element = entry.querySelector(selector);
+
+      return (element == null) ? null : element.getAttribute(attributeName);
+    }
+
+    function getTextContent(entry, selector) {
+      var element = entry.querySelector(selector);
+
+      return (element == null) ? null : element.textContent;
+    }
+
+    function appendPost(post) {
+      appendHeaderLink(post.title, post.href);
+      
+      appendParagraph(post.published, 'date');
+      appendParagraph(post.author, 'author');
+      appendParagraph(post.summary);
+    }
+
+    function appendHeaderLink(title, href) {
+      var a = document.createElement('a');
+      a.setAttribute('href', href);
+      a.appendChild(document.createTextNode(title));
+      
+      var h2 = document.createElement('h2');
+      h2.appendChild(a);
+
+      document.getElementById('posts').appendChild(h2);
+    }
+
+    function appendParagraph(text, className) {
+      if (text == null)
+        return;
+
+      var p = document.createElement('p');
+      p.setAttribute('class', className);
+      p.appendChild(document.createTextNode(text));
+
+      document.getElementById('posts').appendChild(p);
+    }
+  });
 </script>
