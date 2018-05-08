@@ -41,14 +41,7 @@ dl, dd, ol, ul, figure {
   padding: 0;
 }
 
-body {
-  padding-bottom:60px;
-  padding-top:50px;
-  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-  font-size: 14px;
-  line-height: 1.42857143;
-color: #555;
-}
+
 
 h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
@@ -73,4 +66,16 @@ a {
   &:visited {
     color: $link-color/2;
   }
+}
+
+
+
+
+/*post stuff*/
+
+time {
+    border-radius: 2px;
+    color: #999;
+    text-transform: uppercase;
+    font-size: .85em;
 }
