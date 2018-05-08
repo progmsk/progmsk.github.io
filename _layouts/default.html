@@ -10,6 +10,26 @@
     {% feed_meta %}
   </head>
   <body>
-    {{ content }}
+    <div class="container">
+      <div class="row no-gutters">
+        <a class="col-3" href="/"><img src="/img/dilbert.jpg" style="width: 100%; height: auto" /></a>
+        <div class="col-9 text-center">Московский клуб программистов</div>
+      </div>
+      <div class="row">
+        <nav class="col-12 col-lg-3">
+          <ul class="nav nav-fill flex-column">
+            <li class="nav-item">
+              <a class="nav-link" href="/syndication/">Блоги</a>            
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/results/">Результаты</a>
+            </li>
+          </ul>
+        </nav>
+        <main class="col-12 col-lg-9">
+          {{ content }}
+        </main>
+      </div>
+    </div>
   </body>
 </html>
