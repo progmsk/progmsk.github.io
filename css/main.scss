@@ -79,3 +79,17 @@ time {
     text-transform: uppercase;
     font-size: .85em;
 }
+
+
+/*blog stuff */
+.blog-short{
+  border-bottom:1px solid #ddd;
+  padding-bottom:30px;
+  display: table;
+
+}
+.blog-short .excerpt{
+  min-height:100px;
+}
+.margin10{margin-bottom:10px; margin-right:10px;}
+
