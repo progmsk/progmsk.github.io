@@ -10,7 +10,7 @@ excerpt: Чем иногда занимаются программисты-эк�
 
 Нина Кузнецова рассказала нам о том, можно ли это исправить.
 
-<iframe style="width: 100%; height: auto" src="https://www.youtube.com/embed/IEcxTJ_gja8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe style="width: 100%" src="https://www.youtube.com/embed/IEcxTJ_gja8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Вячеслав Мацнев анонсировал [митап по учёту времени](https://www.meetup.com/time-management-moscow).
 

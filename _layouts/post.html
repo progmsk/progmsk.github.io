@@ -4,11 +4,11 @@ layout: default
 <h2 class="page-title">{{ page.title }}</h2>
 <div class="post-metadata">
   <p>
-    <span class="fa fa-calendar"></span>
+    <i class="fa fa-calendar"></i>
     <time>{{ page.date | date:'%A, %B %d, %Y'}}</time>
   </p>
   <p>
-    <span class="fa fa-tag"></span>
+    <i class="fa fa-tag"></i>
     {% for tag in page.tags %}
       <span class="label label-tag">{{tag}}</span>
     {% endfor %}
