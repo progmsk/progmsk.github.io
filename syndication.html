@@ -78,7 +78,7 @@ window.addEventListener('load', function() {
 		div.setAttribute('class', 'post');
 		appendHeaderLink(div, post.title, post.href);
 		
-		appendParagraph(div, post.published, 'post-date');
+		appendParagraph(div, post.published.toLocaleDateString('ru-RU'), 'post-date');
 		appendParagraph(div, post.author, 'post-author');
 		appendImage(div, post.image, 'post-image');
 		appendParagraph(div, post.summary);
