@@ -1,39 +1,43 @@
-
-
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang }}">
-   {% include head.html %}
-   <body>
-      {% include header.html %}
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1"> 
+        <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+        <title>{% if page.title %}{{ page.title | escape }}{% else %}}{{ site.title | escape }}{% endif %}</title>
+
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.0/css/bootstrap.min.css" rel="stylesheet">
+        <link media="all" href="//netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="{{ "/assets/main.css" | prepend: site.baseurl }}">
+
+        {% feed_meta %}
+    </head>
+    <body>
+      {% include navigation.html %}
       <div class="container">
-         <div class="py-5">
-            <div class="row">
-               <nav class="col-12 col-lg-3">
-                  <ul class="nav nav-fill flex-column">
-                     <li class="nav-item">
-                        <a href="/"><img src="/assets/logo.jpeg" style="width: 100%; height: auto"></a>
-                     </li>
-                     <li class="nav-item">
-                        <a class="nav-link" href="/syndication/">Блоги</a>            
-                     </li>
-                     <li class="nav-item">
-                        <a class="nav-link" href="/posts-list-results/">Результаты</a>
-                     </li>
-                     <li class="nav-item">
-                        <a class="nav-link" href="/posts-list-test/">Тест</a>
-                     </li>
-                  </ul>
-               </nav>
-               <main class="col-12 col-lg-9">
-                  {{ content }}
-               </main>
+        <div class="py-5">
+          <div class="row">
+            <div class="col-12 col-lg-3">
+              <a href="/"><img src="/assets/logo.jpeg" style="width: 100%; height: auto"></a>
             </div>
-         </div>
+            <main class="col-12 col-lg-9">
+              {{ content }}
+            </main>
+          </div>
+        </div>
       </div>
-      {% include footer.html%}
+      <div class="py-5 border-top">
+        <div class="container">
+          <div class="row">
+            <p class="col-12 text-right">
+              &copy; Московский Клуб Программистов, 2015&ndash;2018</a>
+            </p>
+          </div>
+        </div>
+      </div>
       <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-      <script src="//netdna.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
+      <script src="//netdna.bootstrapcdn.com/bootstrap/4.2.0/js/bootstrap.min.js"></script>
       <script src="{{ "/assets/js/site.js" | prepend: site.baseurl }}"></script>
    </body>
 </html>
-
