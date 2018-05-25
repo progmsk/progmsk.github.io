@@ -1,0 +1,25 @@
+/*blog stuff */
+.blog-short{
+  border-bottom:1px solid #ddd;
+  padding-bottom:30px;
+  display: table;
+
+}
+.blog-short .excerpt{
+  min-height:100px;
+}
+.margin10{margin-bottom:10px; margin-right:10px;}
+
+
+/*experiemnt */
+
+
+.blog-excerpt a {
+	color: #6c757d !important;
+  display: block !important;
+}
+
+
+.bg-purple {
+    background-color: var(--purple);
+}
