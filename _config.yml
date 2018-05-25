@@ -1,12 +1,10 @@
 lang: ru-RU
 encoding: utf-8
 
-# Site settings
 url: http://prog.msk.ru
 title: Московский клуб программистов
 
 
-# Build settings
 permalink: pretty
 highlighter: rouge
 markdown: kramdown
@@ -18,19 +16,9 @@ gems:
   - jekyll-feed
 
 paginate: 10
-paginate_path: "blog/:num"
+paginate_path: "results/:num"
 
-excerpt_separator: <!--Дальше-->
 exclude: ['README.md']
 
-
-# CSS settings
 sass:
   style: compressed
-
-
-
-
-
-
-
