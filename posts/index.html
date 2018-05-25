@@ -1,0 +1,29 @@
+---
+layout: page
+title: Результаты
+excerpt: Конспекты, презентации, видео со встреч клуба программистов
+---
+
+<h1>Результаты</h1>
+
+{% for post in paginator.posts %}
+  <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+  <p class="date">{{ post.date | date: "%d-%m-%Y" }}</p>
+  <p>{{ post.excerpt | strip_html | normalize_whitespace | escape }}</p>
+{% endfor %}
+
+<div id="relations">
+  <ul>
+    {% if paginator.previous_page %}
+      <li><a href="{{ paginator.previous_page_path }}" class="previous">Назад</a></li>
+    {% else %}
+      <li>Назад</li>
+    {% endif %}
+      <li>Страница {{ paginator.page }} из {{ paginator.total_pages }}</li>
+    {% if paginator.next_page %}
+      <li><a href="{{ paginator.next_page_path }}" class="next">Вперёд</a></li>
+    {% else %}
+      <li class="next">Вперёд</li>
+    {% endif %}
+  </ul>
+</div>
