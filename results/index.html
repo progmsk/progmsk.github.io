@@ -15,6 +15,9 @@ excerpt: Конспекты, презентации, видео со встре�
     {% endfor %}
   </p>
   {% endif %}
+  {% if post.image %}
+  <img class="post-image" src="{{ post.image }}" alt="{{ post.title }}" />
+  {% endif %}
   <p>{{ post.excerpt | strip_html | normalize_whitespace | escape }}</p>
 </div>
 {% endfor %}
