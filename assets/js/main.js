@@ -1,6 +1,6 @@
 $(function() {
-  $('.post-date').prepend('<span class="fa fa-calendar"></span>');
-  $('.post.tags').prepend('<span class="fa fa-tags"></span>');
+  $('.blog-post-date').prepend('<span class="fa fa-calendar"></span>');
+  $('.blog-post-tags').prepend('<span class="fa fa-tags"></span>');
   
   $videos = $('iframe[src^="https://www.youtube.com"]');
   $content = $('#content');

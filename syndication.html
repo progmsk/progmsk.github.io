@@ -4,7 +4,7 @@ title: Блоги наших программистов
 excerpt: Сборная солянка вредных советов
 ---
 
-<div id="posts">
+<div id="syndication">
 </div>
 
 <script>
@@ -67,7 +67,7 @@ window.addEventListener('load', function() {
 	}
 
 	function appendPosts(posts) {
-		var parent = document.getElementById('posts');
+		var parent = document.getElementById('syndication');
 
 		for (var i = 0; i < posts.length; i++)
 			appendPost(parent, posts[i]);
@@ -75,23 +75,23 @@ window.addEventListener('load', function() {
 
 	function appendPost(parent, post) {
 		var div = document.createElement('div');
-		div.setAttribute('class', 'post clearfix');
-		appendHeaderLink(div, post.title, post.href);
+		div.setAttribute('class', 'syndication-post clearfix');
 		
+		appendTitleLink(div, post.title, post.href);
 		appendDate(div, post.published);
-		appendImage(div, post.image, 'post-image');
+		appendImage(div, post.image);
 		appendParagraph(div, post.summary);
 
 		parent.appendChild(div);
 	}
 
-	function appendHeaderLink(parent, title, href) {
+	function appendTitleLink(parent, title, href) {
 		var link = document.createElement('a');
 		link.setAttribute('href', href);
 		link.appendChild(document.createTextNode(title));
 		
 		var header = document.createElement('h2');
-		header.setAttribute('class', 'post-title');
+		header.setAttribute('class', 'syndication-post-title');
 		header.appendChild(link);
 
 		parent.appendChild(header);
@@ -102,7 +102,7 @@ window.addEventListener('load', function() {
 		calendar.setAttribute('class', 'fa fa-calendar');
 
 		var p = document.createElement('p');
-		p.setAttribute('class', 'post-date');
+		p.setAttribute('class', 'syndication-post-date');
 		p.appendChild(calendar);
 		p.appendChild(document.createTextNode(date.toLocaleDateString('ru-RU')));
 
@@ -110,7 +110,7 @@ window.addEventListener('load', function() {
 
     }
 
-	function appendParagraph(parent, text, className) {
+	function appendParagraph(parent, text) {
 		if (text == null)
 			return;
 
@@ -121,13 +121,13 @@ window.addEventListener('load', function() {
 		parent.appendChild(p);
 	}
 
-	function appendImage(parent, src, className) {
+	function appendImage(parent, src) {
 		if (src == null)
 			return;
 
 		var img = document.createElement('img');
 		img.setAttribute('src', src);
-		img.setAttribute('class', className);
+		img.setAttribute('class', 'syndication-post-image');
 
 		parent.appendChild(img);
 	}

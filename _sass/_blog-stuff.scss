@@ -22,13 +22,14 @@
   background-color: var(--purple);
 }
 
-.post-image {
+.syndication-post-image,
+.blog-post-image {
   float: left;
   height: 4em;
   width: auto;
   margin: 8px 16px 16px 0;
 }
 
-span.fa {
+.fa {
   margin-right: 4px;
 }
