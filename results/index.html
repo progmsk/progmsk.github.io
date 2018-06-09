@@ -2,9 +2,6 @@
 layout: page
 title: Результаты
 excerpt: Конспекты, презентации, видео со встреч клуба программистов
-scripts:
-  - main
-  - results
 ---
 
 <div class="blog">
@@ -40,3 +37,6 @@ scripts:
 {% else %}
 Вперёд
 {% endif %}
+
+<script defer src="{{ "/assets/results.js" | prepend: site.baseurl }}"></script>
+
