@@ -22,3 +22,11 @@ exclude: ['README.md']
 
 sass:
   style: compressed
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'pages'
+    values:
+      scripts: ['main']
