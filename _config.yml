@@ -29,4 +29,5 @@ defaults:
       path: ''
       type: 'pages'
     values:
-      scripts: ['main']
+      scripts:
+        - main
