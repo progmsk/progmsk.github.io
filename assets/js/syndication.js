@@ -21,7 +21,7 @@ $(function() {
 
         var posts = entries.map(makeHtmlPostFromEntry);
         $('#syndication').append(posts);
-    });
+    }, 'jsonp');
 
     function makeHtmlPostFromEntry(entry) {
         var result = $('<div class="syndication-post clearfix"></div>');
