@@ -20,7 +20,7 @@ $(function() {
                           .sort(function(a, b) { return b.published.localeCompare(a.published) });
 
         var posts = entries.map(makeHtmlPostFromEntry);
-        $('#posts').append(posts);
+        $('#syndication').append(posts);
     });
 
     function makeHtmlPostFromEntry(entry) {
