@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2018-02-01 19:00:00
+image: "https://secure.meetupstatic.com/photos/event/5/a/b/8/highres_467723224.jpeg"
 title: Публичные выступления и критерии качества работы
 excerpt: Чем иногда занимаются программисты-экстраверты
 ---
