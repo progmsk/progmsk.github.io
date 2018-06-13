@@ -31,7 +31,7 @@ $(function() {
         result.append('<p class="syndication-post-date"><span class="fa fa-calendar"></span>' + new Date(entry.published).toLocaleDateString('ru-RU') + '</p>');
 
         if (entry.thumbnail)
-            result.append('<img class="post-image" src="' + entry.thumbnail.url + '" alt="' + (entry.title.content || entry.title) + '" />');
+            result.append('<img class="syndication-post-image" src="' + entry.thumbnail.url + '" alt="' + (entry.title.content || entry.title) + '" />');
 
         var summary = getSummary(entry);
         if (summary)
