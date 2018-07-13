@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2018-04-26 19:00:00
-images: "https://secure.meetupstatic.com/photos/event/5/3/a/3/highres_470121411.jpeg"
+image: "https://secure.meetupstatic.com/photos/event/5/3/a/3/highres_470121411.jpeg"
 title: Как нанимать программистов, как валидировать качество их работы
 excerpt: Обсудили и записали на видео способы управления удалёнными программистами.
 ---

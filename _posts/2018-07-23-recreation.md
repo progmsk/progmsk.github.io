@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2018-07-12 19:00:00
-images: "https://secure.meetupstatic.com/photos/event/9/a/2/7/highres_472659463.jpeg"
+image: "https://secure.meetupstatic.com/photos/event/9/a/2/7/highres_472659463.jpeg"
 title: Способы восстановления слабых программистских сил
 excerpt: Почему то долго говорили про генераторы в JavaScript, потом быстро обсудили, как отдыхать.
 ---
