@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2018-07-12 19:00:00
+date: 2018-08-09 19:00:00
 image: "https://secure.meetupstatic.com/photos/event/6/5/f/3/highres_473246099.jpeg"
 title: Организация процесса разработки, встреча №1
 excerpt: Обмен информацией, качество кода, оченка задач
