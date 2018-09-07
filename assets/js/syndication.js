@@ -42,13 +42,13 @@ $(function() {
 
     function getSummary(entry) {
         var summary = (entry.summary || {}).content || entry.summary || (entry.content || {}).content || entry.content;
-        if (summary) {
-        if (summary.startsWith('<'))
-            summary = $(summary);
-        else
-            summary = $('<p>' + summary + '</p>');
+        if (summary && typeof summary == 'string') {
+            if (summary.startsWith('<'))
+                summary = $(summary);
+            else
+                summary = $('<p>' + summary + '</p>');
 
-        for (var i = 0; i < summary.length; i++) {
+            for (var i = 0; i < summary.length; i++) {
                 if (summary[i].tagName == 'P')
                     return summary[i].textContent;
             }
