@@ -18,3 +18,4 @@ excerpt: Что почитать, чтобы не уволили.
 1. Ч. Петцольд [Читая Тьюринга](https://www.litres.ru/charlz-petcold/chitaem-turinga-puteshestvie-po-istoricheskoy-state-turinga-o-vychislimosti-i-mashinah-turinga-22998586/)
 1. Р. Душкин [Квантовые вычисления и функциональное программирование](https://www.ozon.ru/context/detail/id/31507650/)
 1. Р. Душкин [Математика и криптография](https://www.ozon.ru/context/detail/id/140538565/)
+1. С. Протасов [Давайте объясню, или зачем программисту математика](http://sprotasov.ru/math_book.html)
