@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1"> 
+    <meta name="description" content="landing">
+    <title>Московский клуб программистов</title>
+    <style>
+    body {
+      font-family: "Trebuchet MS", Helvetica, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    h1 {
+      font-size: 36pt;
+      font-weight: normal;
+      color: 
+    }
+
+    h1 > em {
+      font-style: normal;
+      letter-spacing: 2.6pt;
+    }
+
+    h2 {
+      font-size: 24pt;
+      font-weight: normal;
+    }
+
+    p {
+      font-size: 16pt;
+      line-height: 144%;
+    }
+
+    a,
+    a:hover {
+      color: #000000;
+    }
+
+    section {
+      width: 100%;
+      margin: 0;
+      padding: 64pt 0;
+    }
+
+    section:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+
+    .container {
+      width: 61.80%;
+      margin: 0 auto;
+      min-width: 742px;
+      max-width: 988px;
+    }
+
+    .video {
+      position: relative;
+      padding-bottom: 56.25%;
+      padding-top: 25px;
+      height: 0;
+    }
+
+    .video > iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
+
+    .alternate {
+      background-color: #DDEEEE;
+    }
+
+    .footer,
+    .footer a,
+    .footer a:hover {
+      color: #DDEEEE;
+      background-color: #000000;
+    }
+
+    .row {
+      padding: 0;
+      margin: 0;
+      border: 0;
+      box-sizing: content-block;
+      width: 100%;
+      display: block;
+    }
+
+    .col-6 {
+      padding: 0;
+      margin: 0;
+      border: 0;
+      box-sizing: content-block;
+      width: 48%;
+      display: inline-block;
+    }
+
+    .col-4 {
+      padding: 0;
+      margin: 0;
+      border: 0;
+      box-sizing: content-block;
+      width: 33%;
+      display: inline-block;
+    }
+
+    @media screen and (max-width: 1024px) {
+      .container {
+        width: 100%;
+        margin: 0;
+        min-width: 0;
+        max-width: none;
+      }
+    }
+
+    #light1,
+    #light2 {
+      color: white;
+      text-shadow: 1px 1px 2px black;
+    }
+
+    #light1 {
+      background-image: url('assets/img/light1.jpeg');
+      background-attachment: fixed;
+      background-size: cover;
+    }
+
+    #light2 {
+      background-image: url('assets/img/light2.jpeg');
+      background-attachment: fixed;
+      background-size: cover;
+    }
+    </style>
+  </head>
+  <body>
+
+    <section>
+      <div class="container">
+        <h1><img src="assets/img/dilbert.jpeg" style="width: 196px; height: auto; float: left; margin: 0 28px 28px 0" />Московский клуб<br />
+        <em>программистов</em></h1>
+      </div>
+    </section>
+
+    <section id="light1">
+      <div class="container">
+        <h2>Народная молва считает программистов молчаливыми</h2>
+        <p>Сами мы думаем, что это типичное заблуждение. Программисты любят поговорить, просто темы наших разговоров не совсем обычны.
+        Дайте нам слушателя, который знает, что значит <em>инкапсуляция</em>&nbsp;&mdash; и вы не найдёте ораторов красноречивее.</p>
+      </div>
+    </section>
+
+    <section>
+      <div class="container">
+        <h2>Другое дело, что инкапсуляция мало кому интересна</h2>
+        <p><img src="assets/img/section-2.png" style="width: 240px; height: auto; float: left; margin: 0 32px 32px 0" />
+        Сколько раз, говоря друзьям о работе, мы замечали <em>тот самый</em> стеклянный взгляд.
+        Сколько раз, болтая о <em>комбинаторной сложности</em>, вводили человека в кататонию.
+        И страшно представить, сколько раз заставляли краснеть юных дев, невзначай упомянув <em>О-большое</em>.</p>
+        <p>Конечно, нас можно выпускать к обычным людям, просто надо соблюдать меры предосторожности. В первую
+        очередь нам надо дать выговориться.</p>
+      </div>
+    </section>
+
+    <section class="alternate">
+      <div class="container">
+        <h2>Для этого мы придумали Клуб программистов</h2>
+        <p>Наши встречи проходят каждые две недели.
+        <img src="assets/img/section-3.png" style="width: 240px; height: auto; float: right; margin: 0 0 32px 32px" /></p>
+        <p>Обычно мы &laquo;заседаем&raquo; три часа и за это время успеваем обсудить две темы. Говорим про абстракции,
+        про ползучую прагматику, про собеседования, про поиск работы, про управление коллективом. Такие мы разносторонние.</p>
+      </div>
+    </section>
+
+    <section id="light2">
+      <div class="container">
+        <h2>А ещё</h2>
+        <p>Делимся опытом. Ищем единомышленников. Узнаём новости смежных фронтов. Нарабатываем навык выступлений.
+        Делаем совместные проекты.</p>
+        <p>Одно из приоритетных направлений&nbsp;&mdash; обучение молодёжи.</p>
+      </div>
+    </section>
+
+    <section>
+      <div class="container">
+        <h2>Наши встречи бесплатные, но есть одно &laquo;но&raquo;</h2>
+        <p><img src="assets/img/checkpoint.png" style="width: 180px; height: auto; float: left; margin: 2px 32px 30px 0" />
+        Обычно мы собираемся в антикафе <a href="https://chpoint.ru/">CheckPoint</a> на Мясницкой, где
+        каждый участник оплачивает своё собственное пребывание. Первый час стоит 180 рублей,
+        каждый следующий&nbsp;&mdash; 120, и наши три часа обходятся в 420 рублей.</p>
+        <p>За эти деньги в антикафе заваривают чай в чайниках и готовят кофе в машинах. Ещё там есть какао и печенье.</p>
+      </div>
+    </section>
+
+    <section class="alternate">
+      <div class="container">
+        <h2>Помощь клубу</h2>
+        <p>
+        <img src="assets/img/section-6.png" style="width: 240px; height: auto; float: right; margin: 0 0 32px 32px" />
+        Несколько раз площадку нам предоставляли дружественные компании, но это были разовые
+        акции. Мы ищем спонсора, который может выделить нам помещение для постоянных встреч.
+        </p>
+        <p>Мы собираемся каждые <em>две недели</em> по <em>четвергам с 19 до 22</em>. Будем благодарны за <em>кулер</em>
+        или <em>чайник</em>. Чай, кофе, чашки и печенье будем приносить с собой.</p>
+        <p>На встречу клуба могут прийти до <em>30 человек</em>,
+        обычно нас вдвое меньше. Пригодятся и <em>проектор</em> и <em>доска с маркерами</em>.</p>
+        <p>Желательно, недалеко от центра. Желательно, недалеко от метро.</p>
+      </div>
+    </section>
+
+    <section>
+      <div class="container">
+        <h2>Бесплатные встречи&nbsp;&mdash; для студентов и школьников.</h2>
+        <p>Можете помочь с помещением? Напишите, пожалуйста, нашим организаторам!</p>
+        <div class="row">
+          <div class="col-6">
+            <img src="assets/img/markshevchenko.png" style="width: 120px; height: auto" />
+            <p><a href="tg://resolve?domain=markshevchenko"><img src="https://img.icons8.com/color/50/000000/telegram-app.png" style="width: 48px; height: auto; position: relative; top: 6px" /> Марк Шевченко</a></p>
+          </div>
+          <div class="col-6">
+            <img src="assets/img/astynax.png" style="width: 120px; height: auto" />
+            <p><a href="tg://resolve?domain=astynax"><img src="https://img.icons8.com/color/50/000000/telegram-app.png" style="width: 48px; height: auto; position: relative; top: 6px" /> Алексей Пирогов</a></p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="alternate">
+      <div class="container">
+        <h2>Клуб в цифрах</h2>
+        <p><img src="assets/img/section-7.png" style="width: 240px; height: auto; float: left; margin: 0 32px 32px 0" />
+        За <strong>3 года</strong><br />
+        объединили <strong>2500 человек</strong><br />
+        провели <strong>70 встреч</strong><br />
+        выпили <strong>500 литров кофе</strong><br />
+        обсудили <strong>100 тем</strong>
+        </p>
+      </div>
+    </section>
+
+    <section>
+      <div class="container">
+        <h2>Лучше один раз увидеть</h2>
+        <p>Смотрите.</p>
+        <div class="video">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/UYaqTu3UHcE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+      </div>
+    </section>
+
+    <section class="alternate">
+      <div class="container">
+        <h2>Записаться на встречу</h2>
+        <p>
+        <img src="assets/img/meetup.png" style="width: 240px; height: auto; float: right; margin: 0 0 32px 32px" />
+        Мы организуем наши встречи на площадке <a href="https://www.meetup.com/ru-RU/progmsk/">meetup.com</a>.
+        Записаться на следующую встречу можно там.
+        </p>
+      </div>
+    </section>
+
+    <section class="footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-4">
+            <p><a href="blogs/">Блоги</a></p>
+          </div>
+          <div class="col-4">
+            <p><a href="result/">Отчёты</a></p>
+          </div>
+          <div class="col-4">
+            <p><a href="https://t.me/joinchat/D-WYkEqYZCftRzt8fqapHw">Чатик в телеграме</a></p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </body>
+</html>
