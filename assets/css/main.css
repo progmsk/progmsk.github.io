@@ -62,3 +62,38 @@ footer a:hover {
   background-attachment: fixed;
   background-size: cover;
 }
+
+.syndication-post,
+.blog-post {
+  margin: 0 0 1em 0;
+}
+
+.syndication-post-title,
+.blog-post-title: {
+  margin: 0;
+}
+
+.syndication-post-author {
+  font-size: 80%;
+  font-weight: bold;
+  margin: 0;
+}
+
+.syndication-post-date,
+.blog-post-date {
+  font-size: 80%;
+  margin: 0;
+}
+
+.syndication-post-summary,
+.blog-post-summary {
+  margin: 1em 0;
+}
+
+.syndication-post-image,
+.blog-post-image {
+  float: left;
+  margin: 0 1em 1em 0;
+  width: auto;
+  height: 4em;
+}
