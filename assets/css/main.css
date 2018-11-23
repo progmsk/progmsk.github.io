@@ -52,13 +52,13 @@ footer a:hover {
 }
 
 #light1 {
-  background-image: url('assets/img/light1.jpeg');
+  background-image: url('/assets/img/light1.jpeg');
   background-attachment: fixed;
   background-size: cover;
 }
 
 #light2 {
-  background-image: url('assets/img/light2.jpeg');
+  background-image: url('/assets/img/light2.jpeg');
   background-attachment: fixed;
   background-size: cover;
 }
