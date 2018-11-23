@@ -16,7 +16,7 @@ gems:
   - jekyll-feed
 
 paginate: 10
-paginate_path: "results/:num"
+paginate_path: "results/:num/"
 
 exclude: ['README.md']
 
