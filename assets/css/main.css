@@ -2,6 +2,10 @@ body {
   font-size: 144%;
 }
 
+article {
+  min-height: 24em;
+}
+
 a,
 a:hover {
   color: #000000;
@@ -100,6 +104,8 @@ footer a:hover {
   top: 0.5em;
 }
 
-article {
-  min-height: 24em;
+#waiting {
+  position: absolute;
+  left: 50%;
+  top: 50%;
 }
