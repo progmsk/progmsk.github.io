@@ -96,4 +96,10 @@ footer a:hover {
   margin: 0 1em 1em 0;
   width: auto;
   height: 4em;
+  position: relative;
+  top: 0.5em;
+}
+
+article {
+  min-height: 24em;
 }
