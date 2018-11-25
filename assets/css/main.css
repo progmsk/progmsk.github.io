@@ -107,11 +107,11 @@ footer a:hover {
 #waiting {
   position: absolute;
   width: 24em;
-  height: 4em;
+  height: 6em;
   left: 50%;
   top: 50%;
   margin-left: -12em; 
-  margin-top: -2em;
+  margin-top: -3em;
   border: 1px solid black;
   background-color: #DDEEEE;
 }
