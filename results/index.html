@@ -24,27 +24,29 @@ excerpt: Конспекты, презентации, видео со встре�
   {% endfor %}
 </div>
 
-<ul class="pagination text-center">
-  {% if paginator.previous_page %}
-  <li class="page-item"><a href="{{ paginator.previous_page_path }}" class="page-link">Назад</a></li>
-  {% else %}
-  <li class="page-item disabled"><a href="{{ paginator.previous_page_path }}" class="page-link">Назад</a></li>
-  {% endif %}
-
-  {% for page in (1..paginator.total_pages) %}
-    {% if page == paginator.page %}
-  <li class="page-item active"><a href="{{ site.paginate_path | relative_url | replace: ':num', page }}" class="page-link">{{ page }}</a></li>
+<nav>
+  <ul class="pagination justify-content-center">
+    {% if paginator.previous_page %}
+    <li class="page-item"><a href="{{ paginator.previous_page_path }}" class="page-link">Назад</a></li>
     {% else %}
-  <li class="page-item"><a href="{{ site.paginate_path | relative_url | replace: ':num', page }}" class="page-link">{{ page }}</a></li>
+    <li class="page-item disabled"><a href="{{ paginator.previous_page_path }}" class="page-link">Назад</a></li>
     {% endif %}
-  {% endfor %}
 
-  {% if paginator.next_page %}
-  <li class="page-item"><a href="{{ paginator.next_page_path }}" class="page-link">Вперёд</a></li>
-  {% else %}
-  <li class="page-item disabled"><a href="{{ paginator.next_page_path }}" class="page-link">Вперёд</a></li>
-  {% endif %}
-</ul>
+    {% for page in (1..paginator.total_pages) %}
+      {% if page == paginator.page %}
+    <li class="page-item active"><a href="{{ site.paginate_path | relative_url | replace: ':num', page }}" class="page-link">{{ page }}</a></li>
+      {% else %}
+    <li class="page-item"><a href="{{ site.paginate_path | relative_url | replace: ':num', page }}" class="page-link">{{ page }}</a></li>
+      {% endif %}
+    {% endfor %}
+
+    {% if paginator.next_page %}
+    <li class="page-item"><a href="{{ paginator.next_page_path }}" class="page-link">Вперёд</a></li>
+    {% else %}
+    <li class="page-item disabled"><a href="{{ paginator.next_page_path }}" class="page-link">Вперёд</a></li>
+    {% endif %}
+  </ul>
+</nav>
 
 <script defer src="{{ "/assets/js/results.js" | prepend: site.baseurl }}"></script>
 
