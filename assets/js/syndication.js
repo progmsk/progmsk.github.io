@@ -21,6 +21,7 @@ $(function() {
 
         var posts = entries.map(makeHtmlPostFromEntry);
         $('#syndication').append(posts);
+        $('#waiting').hide();
     }, 'jsonp');
 
     function makeHtmlPostFromEntry(entry) {
