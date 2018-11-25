@@ -106,10 +106,11 @@ footer a:hover {
 
 #waiting {
   position: absolute;
-  width: 64px;
-  height: 64px;
+  width: 16em;
+  height: 4em;
   left: 50%;
   top: 50%;
-  margin-left: -32px; 
-  margin-top: -32px;
+  margin-left: -8em; 
+  margin-top: -2em;
+  border: 1px solid black;
 }
