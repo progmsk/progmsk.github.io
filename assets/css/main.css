@@ -13,8 +13,8 @@ a:hover {
 }
 
 blockquote {
+  margin-left: 2em;
   font-style: italic;
-  margin-right: 2em;
 }
 
 .py-7 {
