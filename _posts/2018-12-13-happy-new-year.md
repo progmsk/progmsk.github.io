@@ -8,21 +8,21 @@ excerpt: Собрались в пивной, потом пошли в карао
 
 ### Фотографии
 
-![Караоке &laquo;David Bowi&raquo;](https://secure.meetupstatic.com/photos/event/3/7/e/3/highres_477194307.jpeg)
+![Караоке &laquo;David Bowi&raquo;](https://secure.meetupstatic.com/photos/event/3/7/e/3/highres_477194307.jpeg){: .w-100}
 
-![Караоке &laquo;David Bowi&raquo;](https://secure.meetupstatic.com/photos/event/3/7/e/4/highres_477194308.jpeg)
+![Караоке &laquo;David Bowi&raquo;](https://secure.meetupstatic.com/photos/event/3/7/e/4/highres_477194308.jpeg){: .w-100}
 
-![Караоке &laquo;David Bowi&raquo;](https://secure.meetupstatic.com/photos/event/3/7/e/5/highres_477194309.jpeg)
+![Караоке &laquo;David Bowi&raquo;](https://secure.meetupstatic.com/photos/event/3/7/e/5/highres_477194309.jpeg){: .w-100}
 
-![Караоке &laquo;David Bowi&raquo;](https://secure.meetupstatic.com/photos/event/3/7/e/6/highres_477194310.jpeg)
+![Караоке &laquo;David Bowi&raquo;](https://secure.meetupstatic.com/photos/event/3/7/e/6/highres_477194310.jpeg){: .w-100}
 
-![Караоке &laquo;David Bowi&raquo;](https://secure.meetupstatic.com/photos/event/3/7/e/7/highres_477194311.jpeg)
+![Караоке &laquo;David Bowi&raquo;](https://secure.meetupstatic.com/photos/event/3/7/e/7/highres_477194311.jpeg){: .w-100}
 
-![Караоке &laquo;David Bowi&raquo;](https://secure.meetupstatic.com/photos/event/3/7/e/a/highres_477194314.jpeg)
+![Караоке &laquo;David Bowi&raquo;](https://secure.meetupstatic.com/photos/event/3/7/e/a/highres_477194314.jpeg){: .w-100}
 
-![Караоке &laquo;David Bowi&raquo;](https://secure.meetupstatic.com/photos/event/3/7/e/b/highres_477194315.jpeg)
+![Караоке &laquo;David Bowi&raquo;](https://secure.meetupstatic.com/photos/event/3/7/e/b/highres_477194315.jpeg){: .w-100}
 
-![Караоке &laquo;David Bowi&raquo;](https://secure.meetupstatic.com/photos/event/3/7/e/d/highres_477194317.jpeg)
+![Караоке &laquo;David Bowi&raquo;](https://secure.meetupstatic.com/photos/event/3/7/e/d/highres_477194317.jpeg){: .w-100}
 
 ### Видео
 
