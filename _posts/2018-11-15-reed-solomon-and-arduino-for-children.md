@@ -9,3 +9,7 @@ excerpt: Лекция Булата Зиганшина о быстрой реал
 Содержаниже своей лекции Булат опубликовал в виде [статьи](https://github.com/Bulat-Ziganshin/FastECC/blob/master/ReedSolomonFFT-ru.md).
 
 Айнур рассказал об устройствах компании [iArduino](https://iarduino.ru/). Фотографии доступны на сайте [meetup.com](https://www.meetup.com/ru-RU/progmsk/photos/29447383/476375179/).
+
+Видеообзор набора &laquo;Метро.Базовый&raquo;:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qppxiBvoYAI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
