@@ -26,8 +26,14 @@ excerpt: Собрались в пивной, потом пошли в карао
 
 ### Видео
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OnuaYtNOwKE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/OnuaYtNOwKE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rHfaIqokbH4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/rHfaIqokbH4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T4PdG-u98Zg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/T4PdG-u98Zg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
