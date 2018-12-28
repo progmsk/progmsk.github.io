@@ -8,5 +8,6 @@ layout: default
   {% if page.tags | length %}
   <p class="post-tags">{% for tag in page.tags %}<span class="label label-tag">{{ tag }}</span>{% endfor %}</p>
   {% endif %}
+  <p><a href="/results/">Результаты</a> &raquo; {{ page.title | escape }}</p>
   {{ content }}
 </article>
