@@ -40,6 +40,7 @@ $(function() {
     }
 
     function makeHtmlPostFromEntry(entry) {
+        console.log(entry);
         var result = $('<div class="syndication-post clearfix" data-published="' + entry.pubDate + '"></div>');
 
         result.append('<h2 class="syndication-post-title"><a href="' + entry.link + '">' + entry.title + '</a></h2>');
