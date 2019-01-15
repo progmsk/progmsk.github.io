@@ -10,7 +10,7 @@ $(function() {
         $.get('https://api.rss2json.com/v1/api.json?' + $.param({ rss_url: blogUris[i] }), function (data) {
             var entries = data.items;
 
-            var posts = $('#syndication > div.syndication-post');
+            var posts = $('#syndication').children();
             var newPosts = entries.map(makeHtmlPostFromEntry);
             $.merge(posts, newPosts);
 
