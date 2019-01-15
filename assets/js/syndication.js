@@ -6,27 +6,27 @@ $(function() {
         'https://dev.to/feed/sobolevn',
     ];
 
+    var posts = [];
+
+    $.ajaxSetup({ timeout: 2000 });
+
     for (var i = 0; i < blogUris.length; i++) {
         $.get('https://api.rss2json.com/v1/api.json?' + $.param({ rss_url: blogUris[i] }), function (data) {
-            var entries = data.items;
+            $.merge(posts, data.items.map(makeHtmlPostFromEntry));
 
-            var posts = $('#syndication').children();
-            var newPosts = entries.map(makeHtmlPostFromEntry);
-            $.merge(posts, newPosts);
-
-            posts.sort(function (a, b) {
-                var dateA = new Date(a[0].dataset.published);
-                var dateB = new Date(b[0].dataset.published);
-
-                return dateA - dateB;
-            });
-
-            $('#syndication').empty();
-
-            for (var j = 0; j < posts.length; j++)
-                $('#syndication').append(posts[j]);
-
-            $('#waiting').hide();
+            if (i == blogUris.length - 1) {
+                posts.sort(function (a, b) {
+                    var dateA = new Date(a[0].dataset.published);
+                    var dateB = new Date(b[0].dataset.published);
+    
+                    return dateA - dateB;
+                });
+    
+                for (var j = 0; j < posts.length; j++)
+                    $('#syndication').append(posts[j]);
+    
+                $('#waiting').hide();
+            }
         }, 'json');
     }
 
