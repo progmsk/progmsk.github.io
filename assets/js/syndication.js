@@ -10,13 +10,13 @@ $(function() {
         $.get('https://api.rss2json.com/v1/api.json?' + $.param({ rss_url: blogUris[i] }), function (data) {
             var entries = data.items;
 
-            var posts = $('#syndication').children();
+            var posts = $('#syndication');
             var newPosts = entries.map(makeHtmlPostFromEntry);
             $.merge(posts, newPosts);
 
             posts.sort(function (a, b) {
-                var dateA = new Date(a.data('published'));
-                var dateB = new Date(b.data('published'));
+                var dateA = new Date(a.dataset.published);
+                var dateB = new Date(b.dataset.published);
 
                 return dateA - dateB;
             });
@@ -28,7 +28,7 @@ $(function() {
     }
 
     function makeHtmlPostFromEntry(entry) {
-        var result = $('<div class="syndication-post clearfix"></div>');
+        var result = $('<div class="syndication-post clearfix" data-published="' + entry.pubDate + '"></div>');
 
         result.append('<h2 class="syndication-post-title"><a href="' + entry.link + '">' + entry.title + '</a></h2>');
         result.append('<p class="syndication-post-author">' + entry.author + '</p>');
@@ -39,8 +39,6 @@ $(function() {
 
         if (entry.description)
             result.append('<p class="post-summary">' + entry.description + '</p>');
-
-        result.data('published', entry.pubDate);
 
         return result;
     }
