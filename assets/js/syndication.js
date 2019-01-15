@@ -13,7 +13,7 @@ $(function() {
         $.ajax({
             url: 'https://api.rss2json.com/v1/api.json?' + $.param({ rss_url: blogUris[i] }),
             type: 'GET',
-            timeout: 1000,
+            timeout: 3000,
             dataType: 'json',
             success: function (data) {
                 $.merge(posts, data.items.map(makeHtmlPostFromEntry));
