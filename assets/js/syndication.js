@@ -21,7 +21,10 @@ $(function() {
                 return dateA - dateB;
             });
 
-            $('#syndication').append(posts);
+            $('#syndication').empty();
+
+            for (var j = 0; j < posts.length; j++)
+                $('#syndication').append(posts[j]);
 
             $('#waiting').hide();
         }, 'json');
