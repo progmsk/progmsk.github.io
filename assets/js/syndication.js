@@ -50,10 +50,26 @@ $(function() {
         if (entry.thumbnail)
             result.append('<img class="syndication-post-image" src="' + entry.thumbnail + '" alt="' + entry.title + '" />');
 
-        if (entry.description)
-            result.append('<p class="post-summary">' + entry.description + '</p>');
+        result.append('<p class="post-summary">' + getSummary(entry) + '</p>');
 
         return result;
+    }
+
+    function getSummary(entry) {
+        var summary = (entry || {}).description;
+        if (summary && typeof summary == 'string') {
+            if (summary.trim().startsWith('<'))
+                summary = $(summary);
+            else
+                summary = $('<p>' + summary + '</p>');
+
+            for (var i = 0; i < summary.length; i++) {
+                if (summary[i].tagName == 'P')
+                    return summary[i].textContent;
+            }
+        }
+
+        return null;
     }
 });
   
