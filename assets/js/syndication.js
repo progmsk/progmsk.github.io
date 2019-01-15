@@ -24,7 +24,7 @@ $(function() {
                         var dateA = new Date(a[0].dataset.published);
                         var dateB = new Date(b[0].dataset.published);
         
-                        return dateA - dateB;
+                        return dateB - dateA;
                     });
         
                     for (var j = 0; j < posts.length; j++)
