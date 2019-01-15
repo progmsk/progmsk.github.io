@@ -1,8 +1,16 @@
 $(function() {
-    $.get('http://www.rssmix.com/u/8307748/rss.xml', function(data) {
-        console.log(data);
+    var yqlBaseUri = 'http://query.yahooapis.com/v1/public/yql';
+    var blogUris = [
+        'http://markshevchenko.pro/feed.xml',
+        'https://xenidev.github.io/feed.xml',
+        'https://medium.com/feed/wemake-services',
+        'https://dev.to/feed/sobolevn',
+    ];
+
+    $.get('https://api.rss2json.com/v1/api.json?rss_url=http%3A%2F%2Fmarkshevchenko.pro%2Ffeed.xml', function(data) {
+        console.log(data);    
         /*
-        var feed = data.query.results.feed;
+    var feed = data.query.results.feed;
         if (!Array.isArray(feed))
             feed = [ feed ];
 
@@ -13,7 +21,7 @@ $(function() {
         $('#syndication').append(posts);
         $('#waiting').hide();
         */
-    }, 'xml');
+    }, 'json');
 
     function makeHtmlPostFromEntry(entry) {
         var result = $('<div class="syndication-post clearfix"></div>');
