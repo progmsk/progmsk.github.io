@@ -36,8 +36,7 @@ $(function() {
             error: function () {
                 blogRead++;
             }
-        })
-        $.get(, , 'json');
+        });
     }
 
     function makeHtmlPostFromEntry(entry) {
