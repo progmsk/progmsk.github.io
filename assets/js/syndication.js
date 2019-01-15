@@ -15,8 +15,8 @@ $(function() {
             $.merge(posts, newPosts);
 
             posts.sort(function (a, b) {
-                var dateA = new Date(a.dataset.published);
-                var dateB = new Date(b.dataset.published);
+                var dateA = new Date(a[0].dataset.published);
+                var dateB = new Date(b[0].dataset.published);
 
                 return dateA - dateB;
             });
