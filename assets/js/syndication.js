@@ -1,17 +1,7 @@
 $(function() {
-    var yqlBaseUri = 'http://query.yahooapis.com/v1/public/yql';
-    var blogUris = [
-        'http://markshevchenko.pro/feed.xml',
-        'https://xenidev.github.io/feed.xml',
-        'https://medium.com/feed/wemake-services',
-        'https://dev.to/feed/sobolevn',
-    ];
-
-    var quotedUris = blogUris.map(function(uri) { return "'" + uri + "'" });
-
-    var query = "select * from feednormalizer where url in (" + quotedUris.join(',') + ") and output='atom_1.0'";
-
-    $.get(yqlBaseUri + '?' + $.param({ q: query, format: 'json' }), function(data) {
+    $.get('http://www.rssmix.com/u/8307748/rss.xml', function(data) {
+        console.log(data);
+        /*
         var feed = data.query.results.feed;
         if (!Array.isArray(feed))
             feed = [ feed ];
@@ -22,7 +12,8 @@ $(function() {
         var posts = entries.map(makeHtmlPostFromEntry);
         $('#syndication').append(posts);
         $('#waiting').hide();
-    }, 'jsonp');
+        */
+    }, 'xml');
 
     function makeHtmlPostFromEntry(entry) {
         var result = $('<div class="syndication-post clearfix"></div>');
