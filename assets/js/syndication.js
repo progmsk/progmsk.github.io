@@ -7,7 +7,7 @@ $(function() {
     ];
 
     for (var i = 0; i < blogUris.length; i++) {
-        $.get('https://api.rss2json.com/v1/api.json?' + $.param({ name: 'rss_url', value: blogUris[i] }), function (data) {
+        $.get('https://api.rss2json.com/v1/api.json?' + $.param({ rss_url: blogUris[i] }), function (data) {
             var entries = data.items;
 
             var posts = $('#syndication').children();
