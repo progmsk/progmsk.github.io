@@ -7,27 +7,37 @@ $(function() {
     ];
 
     var posts = [];
-
-    $.ajaxSetup({ timeout: 2000 });
+    var blogRead = 1;
 
     for (var i = 0; i < blogUris.length; i++) {
-        $.get('https://api.rss2json.com/v1/api.json?' + $.param({ rss_url: blogUris[i] }), function (data) {
-            $.merge(posts, data.items.map(makeHtmlPostFromEntry));
-
-            if (i == blogUris.length - 1) {
-                posts.sort(function (a, b) {
-                    var dateA = new Date(a[0].dataset.published);
-                    var dateB = new Date(b[0].dataset.published);
+        $.ajax({
+            url: 'https://api.rss2json.com/v1/api.json?' + $.param({ rss_url: blogUris[i] }),
+            type: 'GET',
+            timeout: 1000,
+            dataType: 'json',
+            success: function (data) {
+                $.merge(posts, data.items.map(makeHtmlPostFromEntry));
+                blogRead++;
     
-                    return dateA - dateB;
-                });
-    
-                for (var j = 0; j < posts.length; j++)
-                    $('#syndication').append(posts[j]);
-    
-                $('#waiting').hide();
+                if (blogRead == blogUris.length) {
+                    posts.sort(function (a, b) {
+                        var dateA = new Date(a[0].dataset.published);
+                        var dateB = new Date(b[0].dataset.published);
+        
+                        return dateA - dateB;
+                    });
+        
+                    for (var j = 0; j < posts.length; j++)
+                        $('#syndication').append(posts[j]);
+        
+                    $('#waiting').hide();
+                }
+            },
+            error: function () {
+                blogRead++;
             }
-        }, 'json');
+        })
+        $.get(, , 'json');
     }
 
     function makeHtmlPostFromEntry(entry) {
