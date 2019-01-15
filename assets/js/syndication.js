@@ -7,7 +7,7 @@ $(function() {
     ];
 
     var posts = [];
-    var blogRead = 1;
+    var blogRead = 0;
 
     for (var i = 0; i < blogUris.length; i++) {
         $.ajax({
@@ -40,7 +40,6 @@ $(function() {
     }
 
     function makeHtmlPostFromEntry(entry) {
-        console.log(entry);
         var result = $('<div class="syndication-post clearfix" data-published="' + entry.pubDate + '"></div>');
 
         result.append('<h2 class="syndication-post-title"><a href="' + entry.link + '">' + entry.title + '</a></h2>');
