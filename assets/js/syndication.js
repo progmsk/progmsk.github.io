@@ -2,8 +2,7 @@ $(function() {
     var blogUris = [
         'http://markshevchenko.pro/feed.xml',
         'https://xenidev.github.io/feed.xml',
-        'https://medium.com/feed/wemake-services',
-        'https://dev.to/feed/sobolevn',
+        'https://sobolevn.me/feed.xml',
     ];
 
     var posts = [];
