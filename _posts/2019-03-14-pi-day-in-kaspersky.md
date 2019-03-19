@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-03-14 19:00:00
-image: "https://secure.meetupstatic.com/photos/event/2/0/2/8/highres_478208232.jpeg"
+image: "https://secure.meetupstatic.com/photos/event/7/7/a/7/highres_479190631.jpeg"
 title: День π в Касперском
 excerpt: "C++, функциональное программирование, и операционной системы, которую сейчас разрабатывают в Лаборатории Касперского."
 ---
@@ -15,3 +15,25 @@ excerpt: "C++, функциональное программирование, и
 <p class="video">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/snw6FtIl0LA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
+
+### Фото
+
+![Встреча в Лаборатории Касперского](https://secure.meetupstatic.com/photos/event/3/d/0/a/highres_479475626.jpeg){: .w-100}
+
+![Встреча в Лаборатории Касперского](https://secure.meetupstatic.com/photos/event/3/d/0/c/highres_479475628.jpeg){: .w-100}
+
+![Встреча в Лаборатории Касперского](https://secure.meetupstatic.com/photos/event/3/d/0/e/highres_479475630.jpeg){: .w-100}
+
+![Встреча в Лаборатории Касперского](https://secure.meetupstatic.com/photos/event/3/d/1/f/highres_479475647.jpeg){: .w-100}
+
+![Встреча в Лаборатории Касперского](https://secure.meetupstatic.com/photos/event/3/d/2/c/highres_479475660.jpeg){: .w-100}
+
+![Встреча в Лаборатории Касперского](https://secure.meetupstatic.com/photos/event/3/d/3/2/highres_479475666.jpeg){: .w-100}
+
+![Встреча в Лаборатории Касперского](https://secure.meetupstatic.com/photos/event/3/f/7/e/highres_479476254.jpeg){: .w-100}
+
+![Встреча в Лаборатории Касперского](https://secure.meetupstatic.com/photos/event/3/f/8/1/highres_479476257.jpeg){: .w-100}
+
+![Встреча в Лаборатории Касперского](https://secure.meetupstatic.com/photos/event/3/f/8/3/highres_479476259.jpeg){: .w-100}
+
+
