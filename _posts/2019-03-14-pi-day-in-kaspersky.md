@@ -36,4 +36,30 @@ excerpt: "C++, функциональное программирование, и
 
 ![Встреча в Лаборатории Касперского](https://secure.meetupstatic.com/photos/event/3/f/8/3/highres_479476259.jpeg){: .w-100}
 
+![Встреча в Лаборатории Касперского](https://secure.meetupstatic.com/photos/event/4/a/2/c/highres_479658988.jpeg){: .w-100}
 
+![Встреча в Лаборатории Касперского](https://secure.meetupstatic.com/photos/event/4/a/2/d/highres_479658989.jpeg){: .w-100}
+
+![Встреча в Лаборатории Касперского](https://secure.meetupstatic.com/photos/event/4/a/2/e/highres_479658990.jpeg){: .w-100}
+
+![Встреча в Лаборатории Касперского](https://secure.meetupstatic.com/photos/event/4/a/2/f/highres_479658991.jpeg){: .w-100}
+
+![Встреча в Лаборатории Касперского](https://secure.meetupstatic.com/photos/event/4/a/3/1/highres_479658993.jpeg){: .w-100}
+
+![Встреча в Лаборатории Касперского](https://secure.meetupstatic.com/photos/event/4/a/3/2/highres_479658994.jpeg){: .w-100}
+
+![Встреча в Лаборатории Касперского](https://secure.meetupstatic.com/photos/event/4/a/3/3/highres_479658995.jpeg){: .w-100}
+
+![Встреча в Лаборатории Касперского](https://secure.meetupstatic.com/photos/event/4/a/3/4/highres_479658996.jpeg){: .w-100}
+
+![Встреча в Лаборатории Касперского](https://secure.meetupstatic.com/photos/event/4/a/3/5/highres_479658997.jpeg){: .w-100}
+
+![Встреча в Лаборатории Касперского](https://secure.meetupstatic.com/photos/event/4/a/4/4/highres_479659012.jpeg){: .w-100}
+
+![Встреча в Лаборатории Касперского](https://secure.meetupstatic.com/photos/event/4/a/4/5/highres_479659013.jpeg){: .w-100}
+
+![Встреча в Лаборатории Касперского](https://secure.meetupstatic.com/photos/event/4/a/4/6/highres_479659014.jpeg){: .w-100}
+
+![Встреча в Лаборатории Касперского](https://secure.meetupstatic.com/photos/event/4/a/4/7/highres_479659015.jpeg){: .w-100}
+
+![Встреча в Лаборатории Касперского](https://secure.meetupstatic.com/photos/event/4/a/4/8/highres_479659016.jpeg){: .w-100}
