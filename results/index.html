@@ -35,6 +35,8 @@ excerpt: Конспекты, презентации, видео со встре�
     {% for page in (1..paginator.total_pages) %}
       {% if page == paginator.page %}
     <li class="page-item active"><a href="{{ site.paginate_path | relative_url | replace: ':num', page }}" class="page-link">{{ page }}</a></li>
+      {% elif page == 1 %}
+    <li class="page-item"><a href="{{ paginator.previous_page_path | relative_url }}" class="page-link">{{ page }}</a></li>
       {% else %}
     <li class="page-item"><a href="{{ site.paginate_path | relative_url | replace: ':num', page }}" class="page-link">{{ page }}</a></li>
       {% endif %}
