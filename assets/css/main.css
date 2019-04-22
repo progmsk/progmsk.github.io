@@ -40,7 +40,8 @@ blockquote {
   background-color: #DDEEEE;
 }
 
-.alternate-alternate {
+.alternate-alternate,
+.alternate-alternate a {
   color: #DDEEEE;
   background-color: #333399;
 }
