@@ -40,6 +40,10 @@ blockquote {
   background-color: #DDEEEE;
 }
 
+.alternate-alternate {
+  background-color: #EEDDEE;
+}
+
 footer,
 footer a,
 footer a:hover {
