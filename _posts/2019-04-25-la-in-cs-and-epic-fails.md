@@ -47,7 +47,7 @@ excerpt: "Доклад Павла Иванова и модерируемая г�
 1. [Онлайн-курс &laquo;Генетика&raquo;](https://openedu.ru/course/msu/GENETICS/). Немного прикладного применения.
 1. [Онлайн-курс по машинному обучению](https://github.com/Yorko/mlcourse.ai/wiki/About-the-course-(in-Russian)). Приложения линейной алгебры.
 
-Вилео от Евгения Агибалова о генетическом программировании.
+Видео от Евгения Агибалова о генетическом программировании.
 
 <div class="video">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/4YKFw2KZA5o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
