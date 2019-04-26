@@ -44,8 +44,13 @@ excerpt: "Доклад Павла Иванова и модерируемая г�
 1. [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](http://vmls-book.stanford.edu/). Стенфордский учебник по курсу линейной алгебры.
 1. [When Life is Linear](https://www.amazon.com/When-Linear-Anneli-Mathematical-Library/dp/0883856492). Ещё один учебник, на этот раз бумажный. Кажется, где-то в Google лежит в PDF.
 1. [Элементарный учебник алгебраического анализа и исчсисления бесконечно малых](http://www.mathesis.ru/book/cesaro1/). Учебник 1913 года, как ни странно, всё ещё актуальный.
-1. <iframe width="560" height="315" src="https://www.youtube.com/embed/snw6FtIl0LA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{: .video}
 1. [Онлайн-курс &laquo;Генетика&raquo;](https://openedu.ru/course/msu/GENETICS/). Немного прикладного применения.
 1. [Онлайн-курс по машинному обучению](https://github.com/Yorko/mlcourse.ai/wiki/About-the-course-(in-Russian)). Приложения линейной алгебры.
+
+Вилео от Евгения Агибалова о генетическом программировании.
+
+<div class="video">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/snw6FtIl0LA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Мы проводим свои встречи на территории компании Leroi Merlin на Шаболовке. Приглашаем вас, если вас прёт от программирования; если вам есть, чем поделиться с коллегами; если вас интересует профессиональный рост.
