@@ -128,3 +128,10 @@ footer a:hover {
   border: 1px solid black;
   background-color: #DDEEEE;
 }
+
+#blog-load-error {
+  display: none;
+  border: 1px solid black;
+  background-color: #DDEEEE;
+  padding: .5rem 1rem;
+}
