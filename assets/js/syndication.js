@@ -7,6 +7,7 @@ $(function() {
 
     var posts = [];
     var blogRead = 0;
+    var blogError = 0;
 
     for (var i = 0; i < blogUris.length; i++) {
         $.ajax({
@@ -16,24 +17,29 @@ $(function() {
             dataType: 'json',
             success: function (data) {
                 $.merge(posts, data.items.map(makeHtmlPostFromEntry));
+            },
+            error: function () {
+                blogError++;
+            },
+            complete: function() {
                 blogRead++;
-    
-                if (blogRead == blogUris.length) {
+                if (blogRead === blogUris.length) {
                     posts.sort(function (a, b) {
                         var dateA = new Date(a[0].dataset.published);
                         var dateB = new Date(b[0].dataset.published);
-        
+
                         return dateB - dateA;
                     });
-        
+
                     for (var j = 0; j < posts.length; j++)
                         $('#syndication').append(posts[j]);
-        
+
                     $('#waiting').hide();
+
+                    if (blogError > 0) {
+                        $('#blog-load-error').show();
+                    }
                 }
-            },
-            error: function () {
-                blogRead++;
             }
         });
     }
