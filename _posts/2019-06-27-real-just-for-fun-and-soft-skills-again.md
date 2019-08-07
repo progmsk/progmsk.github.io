@@ -34,6 +34,8 @@ excerpt: "Рассказы Андрея Зиновьева и Андрея Ме�
 
 [Сайт проекта](https://airwatch.andmed.org/airwatch/index)
 
+[Слайды](https://airwatch.andmed.org/airwatch/pub/presentation/)
+
 [Программа Airwatch в Apple Store](https://apps.apple.com/app/id1458144886)
 
 ![Airwatch](https://secure.meetupstatic.com/photos/event/7/7/1/f/highres_482730495.jpeg){: .w-100}
