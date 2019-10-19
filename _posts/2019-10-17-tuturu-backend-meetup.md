@@ -2,7 +2,7 @@
 layout: post
 date: 2019-10-17 19:00:00
 image: "https://secure.meetupstatic.com/photos/event/2/0/a/8/highres_485588360.jpeg"
-title: Бэкент-митап в гостях у Туту.ру
+title: Бэкенд-митап в гостях у Туту.ру
 excerpt: "Доклады про PHP, паттерны, микросервисы, Casbin и домашних проект на Go и Swift."
 ---
 
