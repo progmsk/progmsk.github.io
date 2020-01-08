@@ -22,6 +22,8 @@ excerpt: "Доклады о практике программистского п
 
 Екатерина Козина рассказала о малоизвестных параметрах git, и о том, как с их помощью создавать новые полезные команды.
 
+Презентация доклада в формате PDF доступна [здесь](/downloads/advanced-git.pdf)
+
 <p class="video">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/GrPkMhZ_C9w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
