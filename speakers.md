@@ -48,7 +48,7 @@ excerpt: Докладчики, их доклады, слайды и видео.
 * Сокеты «под капотом». [![pdf](assets/img/pdf-icon-64.png)](http://prog.msk.ru/downloads/sockets-under-bonnet.pdf)
 
 
-## Колодей Дарья
+## Колодзей Дарья
 *Соавтор курса [Учите Питон](http://pythontutor.ru/)*
 
 https://vk.com/d.kolodzey
@@ -104,6 +104,6 @@ https://vk.com/d.kolodzey
 * Сглаживание треков GPS на F#. [![youtube](assets/img/youtube-icon-64.png)](https://youtu.be/BDVCNNs02b8) [![homesite](assets/img/hyperlink-icon-64.png)](http://markshevchenko.pro/articles/fsharp-gps-tracks-filtration/) 
 * IT-сообщество своими руками. [![youtube](assets/img/youtube-icon-64.png)](https://youtu.be/igV9dcVuwqo)
 * Стартапы: мифы и реальность. [![youtube](assets/img/youtube-icon-64.png)](https://youtu.be/syNNWFJvsz8) [![pdf](assets/img/pdf-icon-64.png)](http://markshevchenko.pro/download/startups-myths-and-reality.pdf)
-* Командообразование. [![homesite](assets/img/hyperlink-icon-64.png)](http://markshevchenko.pro/presentations/team-building/)
+* Командообразование. [![youtube](assets/img/youtube-icon-64.png)](https://youtu.be/1WcjGH1uERw) [![homesite](assets/img/hyperlink-icon-64.png)](http://markshevchenko.pro/presentations/team-building/)
 * Логгирование. [![homesite](assets/img/hyperlink-icon-64.png)](http://markshevchenko.pro/2017/09/28/logging/)
 * Микросервисы в Azure. [![google drive](assets/img/google-drive-icon-64.png)](https://docs.google.com/document/d/1SEoK-1oiEI4wNmw3uWBMUxSjMh6VxnQ7v-zfngbRCi8/)
