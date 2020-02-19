@@ -86,18 +86,18 @@ excerpt: Версия для true-hardcore-programmers.
 
 По вопросам сотрудничества можно писать любому из организаторов.
 
-* Марк Шевченко, [@markshevchenko](tg://resolve?domain=markshevchenko).
-* Алексей Пирогов, [@astynax](tg://resolve?domain=astynax).
-* Нина Пакшина, [ninakou](tg://resolve?domain=ninakou).
+* Марк Шевченко, <a href="tg://resolve?domain=markshevchenko">@markshevchenko</a>.
+* Алексей Пирогов, <a href="tg://resolve?domain=astynax">@astynax</a>.
+* Нина Пакшина, <a href="tg://resolve?domain=ninakou">@ninakou</a>.
 
 ## Клуб в цифрах
 
 За <strong>4 года</strong><br />
-объединили <strong>3500 человек</strong><br />
-провели <strong>100 встреч</strong><br />
-выпили <strong>1200 литров кофе</strong><br />
-обсудили <strong>220 тем</strong><br />
-исписали <strong>35 фломастеров</strong>
+— объединили <strong>3500 человек</strong><br />
+— провели <strong>100 встреч</strong><br />
+— выпили <strong>1200 литров кофе</strong><br />
+— обсудили <strong>220 тем</strong><br />
+— исписали <strong>35 фломастеров</strong>
 
 ## Расписание встреч и запись
 
