@@ -9,3 +9,7 @@ excerpt: "Будучи в целом людьми рациональными, п
 31 октября в этом году пришлось как раз на четверг. На *наш* четверг. Мы решили поделиться странными и мистическими историями из жизни программистов.
 
 Вторую половину встречи мы посвятили компьютерной литературе. Кто как часто читает, бумага или планшет, книга или статья.
+
+<p class="video">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/UT0IGKLb7Kw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
