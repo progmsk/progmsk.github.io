@@ -10,7 +10,7 @@ excerpt: "Поговорили о том, что ожидает нас в бли
 
 Екатерина Козина, backend-программистки из [itway](http://www.itway.company/), рассказала о machine learning и о новостях в этой сфере.
 
-[Слайлы](/downloads/machine-learning.pdf).
+[Слайды](/downloads/machine-learning.pdf).
 
 <p class="video">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/pgwnDcKua_M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -18,7 +18,7 @@ excerpt: "Поговорили о том, что ожидает нас в бли
 
 Крайнов Алексей, frontend-разработчик, дал общее представление о компонентах, рассказал, как с ними работать из разных фреймворков и подсказал инструментарий, который облегчает работу.
 
-[Слайлы](/downloads/components.pdf).
+[Слайды](/downloads/components.pdf).
 
 <p class="video">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/6HbJ-_NZPfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -26,7 +26,7 @@ excerpt: "Поговорили о том, что ожидает нас в бли
 
 Кузнецова Юлия, frontend-разработчик из [Московской биржи](https://www.moex.com/), поведала о том, что нас ждёт на ниве Single Page Applications.
 
-[Слайлы](/downloads/spa.pdf).
+[Слайды](/downloads/spa.pdf).
 
 <p class="video">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/-gw8XNxGNyA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
