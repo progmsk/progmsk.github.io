@@ -8,115 +8,12 @@
         <meta name="yandex-verification" content="782d995c127ba2df" />
         <title>Московский Клуб Программистов</title>
         <style>
-            body {
-                margin: 0;
-                padding: 0;
-                font-family: Arial, Helvetica, sans-serif;
-                background: url(assets/img/header-background.png) repeat-x;
-            }
-
-            header,
-            main,
-            footer {
-                width: 1280px;
-                margin: 0 auto;
-                display: grid;
-                grid-template-columns: 256px 1024px;
-            }
-
-            #logo {
-                height: 256px;
-                width: 256px;
-                background: url(assets/img/logo.png);
-            }
-
-            header > h1 {
-                font-weight: lighter;
-                font-size: 38px;
-                text-align: center;
-                align-self: end;
-                letter-spacing: 0.1em;
-            }
-
-            main > nav {
-                font-weight: lighter;
-                font-size: 22pt;
-                letter-spacing: 0.1em;
-                padding: 36px 0;
-            }
-
-            main > nav > ul {
-                list-style-type: none;
-                margin: 0;
-                padding: 0;
-            }
-
-            main > nav > ul > li {
-                margin-bottom: 0.8em;
-            }
-
-            main > nav > ul > li > a,
-            main > nav > ul > li > a:visited,
-            main > nav > ul > li > a:hover {
-                padding: 0 0 0 56px;
-                text-decoration: none;
-            }
-
-            main > nav > ul > li > a,
-            main > nav > ul > li > a:visited {
-                background: url(assets/img/menu-bullet.png) no-repeat 22px 12px;
-                color: black;
-            }
-
-            main > nav > ul > li > a.current,
-            main > nav > ul > li > a:hover {
-                background: url(assets/img/menu-bullet-highlight.png) no-repeat 22px 12px;
-                color: red;
-            }
-
-            a {
-                color: red;
-            }
-
-            a:visited {
-                color: darkred;
-            }
-
-            main > article {
-                padding: 0 12px;
-            }
-
-            main > article > h2 {
-                font-weight: lighter;
-                font-size: 22pt;
-                margin: 36px 0 12px 0;
-                clear: both;
-            }
-
-            main > article > p,
-            main > article > ul > li {
-                font-size: 16pt;
-                line-height: 1.76;
-                margin: 0 0 0.8em 0;
-            }
-
-            main > article > ul {
-                margin-top: 0;
-                margin-bottom: 0;
-            }
-
-            .figure {
-                width: 200px;
-                height: 200px;
-                float: right;
-                margin: 0 0 24px 48px;
-            }
         </style>
     </head>
     <body>
         <header>
-            <a href="" id="logo"></a>
-            <h1>Московский Клуб Программистов</h1>
+            <a id="logo" href=""></a>
+            <h1 id="title">Московский Клуб Программистов</h1>
         </header>
         <main>
             <nav>
@@ -141,16 +38,16 @@
                 <p>Но эти темы важные.</p>
 
                 <h2>Мы придумали Клуб программистов</h2>
-                <img src="assets/img/section-3.png" class="figure" />
+                <img src="assets/img/meetup.png" class="figure" />
                 <p>Чтобы у нас было место для неформального общения. Несколько месяцев мы экспериментировали
                 с форматом и остановились на том, что собираемся <em>каждые две недели по четвергам</em>.
                 Встреча длится <em>три часа</em>, и за это время мы обсуждаем <em>две темы</em>.</p>
+                <p>На сайте <a href="https://www.meetup.com/ru-RU/progmsk/">Meetup</a> можно узнать, когда
+                состоится следующая встреча и зарегистрироваться.</p>
 
                 <h2>Наши встречи бесплатные</h2>
-                <p>Раньше мы собирались в антикафе <a href="https://chpoint.ru/">CheckPoint</a>, и каждый
-                платил за себя. В марте 2019 года компания <a href="https://leroymerlin.ru/">Леруа Мерлен</a>
-                пригласила нас проводить встречи в офисе на Шаболовке, и сейчас мы пользуемся этим любезным приглашением.
-                Наши встречи теперь бесплатные без всяких &laquo;но&raquo;.</p>
+                <p>С марта 2019 года мы собираемя в офисе <a href="https://leroymerlin.ru/">Леруа Мерлен</a>
+                на Шаболовке. Благодаря им, наши встречи бесплатные без всяких &laquo;но&raquo;.</p>
                 <p>Чтобы не заблудиться, запомните <a href="/how-to-find">как нас найти на территории Леруа Мерлен</a>.</p>
 
                 <h2>Клуб в цифрах</h2>
@@ -164,7 +61,11 @@
             </article>
         </main>
         <footer>
-
+            <ul>
+                <li><a id="meetup" href="https://www.meetup.com/ru-RU/progmsk/">Meetup</a></li>
+                <li><a id="telegram" href="https://t.me/progmsk">Telegram</a></li>
+                <li><a id="youtube" href="https://www.youtube.com/channel/UCsVt9EN6QJv0Q7qiYoxSEjw">YouTube</a></li>
+            </ul>
         </footer>
     </body>
 </html>

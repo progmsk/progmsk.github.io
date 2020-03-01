@@ -10,39 +10,33 @@
     {% if jekyll.environment == 'production' %}
     {% include google-analytics.html %}
     {% endif %}
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-    <link rel="stylesheet" media="all" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ '/assets/css/index.css' | prepend: site.baseurl }}">
     {% feed_meta %}
   </head>
   <body>
-    {{ content }}
-
-    <footer class="py-7">
-      <div class="container">
-        <div class="row">
-          <div class="col-6 col-md-3 text-center">
-            <p><strong><a href="{{ "/syndication/" | prepend: site.baseurl }}">Блоги</a></strong><br />
-            наших программистов</p>
-          </div>
-          <div class="col-6 col-md-3 text-center">
-            <p><strong><a href="{{ "/results/" | prepend: site.baseurl }}">Отчёты</a></strong><br />
-            о прошедших встречах</p>
-          </div>
-          <div class="col-6 col-md-3 text-center">
-            <p><strong><a href="http://t.me/progmsk">Telegram</a></strong><br />
-            где надо соблюдать <a href="{{ "/coc/" | prepend: site.baseurl }}">правила</a></p>
-          </div>
-          <div class="col-6 col-md-3 text-center">
-            <p><strong><a href="https://www.meetup.com/ru-RU/progmsk/">meetup.com</a></strong><br />
-            для организации</p>
-          </div>
-        </div>
-      </div>
+    <header>
+      <a id="logo" href=""></a>
+      <h1 id="title">Московский Клуб Программистов</h1>
+    </header>
+    <main>
+      <nav>
+        <ul>
+          <li><a href="/results/">Летопись</a></li>
+          <li><a href="/speakers/">Доклады</a></li>
+          <li><a href="/coc/">Правила</a></li>
+          <li><a href="/contacts/">Контакты</a></li>
+        </ul>
+      </nav>
+      <article>
+      {{ content }}
+      </article>
+    </main>
+    <footer>
+      <ul>
+        <li><a id="meetup" href="https://www.meetup.com/ru-RU/progmsk/">Meetup</a></li>
+        <li><a id="telegram" href="https://t.me/progmsk">Telegram</a></li>
+        <li><a id="youtube" href="https://www.youtube.com/channel/UCsVt9EN6QJv0Q7qiYoxSEjw">YouTube</a></li>
+      </ul>
     </footer>
-
-    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
   </body>
 </html>
