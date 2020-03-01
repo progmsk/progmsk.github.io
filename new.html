@@ -11,7 +11,8 @@
             body {
                 margin: 0;
                 padding: 0;
-                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                font-family: Arial, Helvetica, sans-serif;
+                background: url(assets/img/header-background.png) repeat-x;
             }
 
             header,
@@ -19,25 +20,116 @@
             footer {
                 width: 1280px;
                 margin: 0 auto;
+                display: grid;
+                grid-template-columns: 256px 1024px;
+            }
+
+            #logo {
+                height: 256px;
+                width: 256px;
+                background: url(assets/img/logo.png);
+            }
+
+            header > h1 {
+                font-weight: lighter;
+                font-size: 38px;
+                text-align: center;
+                align-self: end;
+                letter-spacing: 0.1em;
+            }
+
+            main > nav {
+                font-weight: lighter;
+                font-size: 22pt;
+                letter-spacing: 0.1em;
+                padding: 36px 0;
+            }
+
+            main > nav > ul {
+                list-style-type: none;
+                margin: 0;
+                padding: 0;
+            }
+
+            main > nav > ul > li {
+                margin-bottom: 0.8em;
+            }
+
+            main > nav > ul > li > a,
+            main > nav > ul > li > a:visited,
+            main > nav > ul > li > a:hover {
+                padding: 0 0 0 56px;
+                text-decoration: none;
+            }
+
+            main > nav > ul > li > a,
+            main > nav > ul > li > a:visited {
+                background: url(assets/img/menu-bullet.png) no-repeat 22px 12px;
+                color: black;
+            }
+
+            main > nav > ul > li > a.current,
+            main > nav > ul > li > a:hover {
+                background: url(assets/img/menu-bullet-highlight.png) no-repeat 22px 12px;
+                color: red;
+            }
+
+            a {
+                color: red;
+            }
+
+            a:visited {
+                color: darkred;
+            }
+
+            main > article {
+                padding: 0 12px;
+            }
+
+            main > article > h2 {
+                font-weight: lighter;
+                font-size: 22pt;
+                margin: 36px 0 12px 0;
+                clear: both;
+            }
+
+            main > article > p,
+            main > article > ul > li {
+                font-size: 16pt;
+                line-height: 1.76;
+                margin: 0 0 0.8em 0;
+            }
+
+            main > article > ul {
+                margin-top: 0;
+                margin-bottom: 0;
+            }
+
+            .figure {
+                width: 200px;
+                height: 200px;
+                float: right;
+                margin: 0 0 24px 48px;
             }
         </style>
     </head>
     <body>
         <header>
-            <a href="/" id="logo"></a>
+            <a href="" id="logo"></a>
             <h1>Московский Клуб Программистов</h1>
         </header>
         <main>
             <nav>
                 <ul>
-                    <li><a href="/result/">Летопись</a></li>
-                    <li><a href="/speakers/">Докладчики</a></li>
+                    <li><a href="/results/">Летопись</a></li>
+                    <li><a href="/speakers/">Доклады</a></li>
                     <li><a href="/coc/">Правила</a></li>
                     <li><a href="/contacts/">Контакты</a></li>
                 </ul>
             </nav>
             <article>
-                <h2>Однажды на одной конференции</h2>
+                <h2>Однажды на конференции</h2>
+                <img src="assets/img/section-1.png" class="figure" />
                 <p>Между программистами вспыхнул спор про <code>git</code> и <code>Mercurial</code>.
                 Те, кто их использовал, приводили аргументы, а кто не использовал&nbsp;&mdash; жадно слушали, потому что им это было важно.
                 В те времена стоял вопрос, уходить ли с <code>SVN</code>, и, если уходить, то куда.</p>
@@ -49,6 +141,7 @@
                 <p>Но эти темы важные.</p>
 
                 <h2>Мы придумали Клуб программистов</h2>
+                <img src="assets/img/section-3.png" class="figure" />
                 <p>Чтобы у нас было место для неформального общения. Несколько месяцев мы экспериментировали
                 с форматом и остановились на том, что собираемся <em>каждые две недели по четвергам</em>.
                 Встреча длится <em>три часа</em>, и за это время мы обсуждаем <em>две темы</em>.</p>
@@ -60,45 +153,14 @@
                 Наши встречи теперь бесплатные без всяких &laquo;но&raquo;.</p>
                 <p>Чтобы не заблудиться, запомните <a href="/how-to-find">как нас найти на территории Леруа Мерлен</a>.</p>
 
-                <h2>Тему можно предложить</h2>
-                <p>Если вам интересно послушать. Но такой подход почти не работает, потому что тем в IT много, и шанс
-                найти подходящего эксперта невелик.</p>
-                <p>Работает постановка целей и собственная инициатива. Программы мы можем писать сами,
-                книги читать&nbsp;&mdash; тоже. Осваивать навыки командной работы, учиться объяснять трудные
-                решения, программировать в паре, писать понятный код и делать крупные проекты&nbsp;&mdash; мы можем
-                только вместе с другими.</p>
-
-                <h2>В нашем клубе всегда нужны</h2>
-                <ul>
-                  <li><strong>Инициаторы движухи</strong>. Хотите освоить парное программирование? Приходите, ищите
-                  единомышленников. Не забудьте рассказать о том, что получилось.</li>
-                  <li><strong>Летописцы</strong>. Мы конспектируем наши встречи, чтобы делиться результатами.
-                  Умеете писать технические тексты? Хотите научиться? Ведите нашу <a href="/results/">летопись</a>!</li>
-                  <li><strong>Модераторы</strong>. Хотите развивать <em>soft skills</em>? Устали от бесконечных споров на работе?
-                  Возьмите дело в свои руки: освойте <em>модерацию</em> и <em>фасилитацию</em>.
-                  Дискуссий у нас много, темы встречаются острые&nbsp;&mdash; материал для работы есть.</li>
-                  <li><strong>Докладчики</strong>. Думаете, куда расти профессионально? Не хотите руководить, а
-                  оставаться <em>просто программистом</em> уже не по возрасту? Учите, делитесь опытом,
-                  готовьте курсы. Клуб&nbsp;&mdash; идеальное место, чтобы оттачивать мастерство выступлений
-                  и обкатывать программы.</li>
-                </ul>
-
-                <h2>С нами можно сотрудничать</h2>
-                <p>У нас есть программисты-докладчики, которые могут выступить на вашей конференции.</p>
-                <p>У нас есть программисты-авторы, которые могут написать хороший технический текст.</p>
-                <p>Мы будем анонсировать ваши мероприятия в нашем клубе, если они касаются программирования.</p>
-                <p>Ваши докладчики могут обкатать доклад в нашем клубе. Мы их не только выслушаем, но и поможем отшлифовать выступление.</p>
-                <p>Мы поможем вашему программисту написать статью так, чтобы читатель всё понял и не сломал мозг.</p>
-                <p>Мы предоставим зубастых спорщиков, чтобы ваши тим-лиды практиковали фасилитацию в условиях, приближенных к боевым.</p>
-                <p>Мы можем провести встречу на вашей территории.</p>
-
                 <h2>Клуб в цифрах</h2>
-                <p>За <strong>4 года</strong><br />
-                объединили <strong>3500 человек</strong><br />
-                провели <strong>100 встреч</strong><br />
-                выпили <strong>1200 литров кофе</strong><br />
-                обсудили <strong>220 тем</strong><br />
-                исписали <strong>35 фломастеров</strong></p>
+                <img src="assets/img/section-5.png" class="figure" />
+                <p>За <strong>4 года</strong></p>
+                <ul>
+                    <li>объединили <strong>3500 человек</strong></li>
+                    <li>провели <strong>100 встреч</strong></li>
+                    <li>сделали <strong>80 докладов</strong></li>
+                </ul>
             </article>
         </main>
         <footer>
