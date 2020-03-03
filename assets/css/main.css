@@ -201,16 +201,20 @@ a#youtube {
 }
 
 .pages {
-    display: inline-block;
+    text-align: center;
     clear: both;
-    margin: 0 auto;
+    margin: 2em 0 0 0;
+}
+
+.pages > ul {
+    display: inline-block;
     padding: 0;
     list-style-type: none;
 }
 
 .pages > li {
-    display: inline;
-    padding: 0 1em;
+    display: inline-block;
+    padding: 0 0.8em;
 }
 
 .coc-left {
