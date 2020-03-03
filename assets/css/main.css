@@ -181,7 +181,7 @@ a#youtube {
 
 @media screen and (min-device-width: 766px) {
     h1#title {
-        font-size: 200%;
+        font-size: 180%;
     }
 
     nav > ul {
@@ -206,6 +206,10 @@ a#youtube {
         position: relative;
         background: url(../img/header-background.png) repeat-x;
         background-size: contain;
+    }
+
+    h1#title {
+        margin: 0 0 0.3em 0;
     }
 
     nav {
