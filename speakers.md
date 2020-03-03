@@ -1,10 +1,12 @@
 ---
-layout: page
+layout: default
 title: Докладчики московского клуба программистов
 excerpt: Докладчики, их доклады, слайды и видео.
 ---
 
-## Агибалов Евгений
+## Доклдчики клуба
+
+### Агибалов Евгений
 *Тренер команды обнинского филиала МИФИ, участник международного чемпионата ACM*
 
 @palich12
@@ -12,13 +14,13 @@ excerpt: Докладчики, их доклады, слайды и видео.
 * Спортивное программирование. [![google drive](assets/img/pdf-icon-64.png)](http://prog.msk.ru/downloads/acm.pdf)
 
 
-## Зиновьев Андрей
+### Зиновьев Андрей
 *Независимый разработчик*
 
 * Опыт опенсорсной разработки переносимого GUI. [![pdf](assets/img/pdf-icon-64.png)](http://prog.msk.ru/downloads/compy.pdf)
 
 
-## Иванов Павел
+### Иванов Павел
 *Разработчик, преподаватель*
 
 @taganrog7897
@@ -28,7 +30,7 @@ excerpt: Докладчики, их доклады, слайды и видео.
 * Линейная алгебра в компьютерных науках. [![pdf](assets/img/pdf-icon-64.png)](http://prog.msk.ru/downloads/la-in-cs.pdf)
 
 
-## Ильин Евгений
+### Ильин Евгений
 *Независимый разработчик*
 
 @jenyay
@@ -36,7 +38,7 @@ excerpt: Докладчики, их доклады, слайды и видео.
 * Генетические алгоритмы. [![youtube](assets/img/youtube-icon-64.png)](https://youtu.be/89Wk0kNnbJQ) [![pdf](assets/img/pdf-icon-64.png)](http://prog.msk.ru/downloads/genetic-algorithms.pdf)
 
 
-## Козина Екатерина
+### Козина Екатерина
 *Независимый разработчик*
 
 @Kotmarvell
@@ -45,15 +47,7 @@ excerpt: Докладчики, их доклады, слайды и видео.
 * Сокеты «под капотом». [![pdf](assets/img/pdf-icon-64.png)](http://prog.msk.ru/downloads/sockets-under-bonnet.pdf)
 
 
-## Колодзей Дарья
-*Соавтор курса [Учите Питон](http://pythontutor.ru/)*
-
-https://vk.com/d.kolodzey
-
-* Методы обучения. [![google drive](assets/img/google-drive-icon-64.png)](https://docs.google.com/presentation/d/1XDoHM7zUTu2z6xoiiN_y2y7Fjml0Z7fYWaWE2Pm3ZP4/edit#slide=id.p)
-
-
-## Пакшина Нина
+### Пакшина Нина
 *Организатор встреч*
 
 @ninakou
@@ -64,7 +58,7 @@ https://vk.com/d.kolodzey
 * Встраиваемые системы. [![habr](assets/img/habr-icon-64.png)](https://habr.com/post/358340/)
 
 
-## Пирогов Алексей
+### Пирогов Алексей
 *Организатор встреч*
 
 @astynax
@@ -74,7 +68,7 @@ https://vk.com/d.kolodzey
 * Реактивное программирование. [![homesite](assets/img/hyperlink-icon-64.png)](https://astynax.github.io/slides/reactive)
 
 
-## Северин Анатолий
+### Северин Анатолий
 *Старший разработчик*
 
 @AnatoliySeverin
@@ -82,7 +76,7 @@ https://vk.com/d.kolodzey
 * Ахитектура desktop-приложений. [![pdf](assets/img/pdf-icon-64.png)](http://prog.msk.ru/downloads/ui-1.pdf)
 
 
-## Сыровецкий Юрий
+### Сыровецкий Юрий
 *Старший разработчик, Лаборатория Касперского*
 
 @cblp_su
@@ -91,7 +85,7 @@ https://vk.com/d.kolodzey
 * Функциональное программирование в Лаборатории Касперского. [![pdf](assets/img/pdf-icon-64.png)](https://box.kaspersky.com/d/40f9231d6dfe4f789d31/files/?p=/%D0%AE%D1%80%D0%B8%D0%B9%20%D0%A1%D1%8B%D1%80%D0%BE%D0%B2%D0%B5%D1%86%D0%BA%D0%B8%D0%B9%20-%20FP_in_KL.pdf)
 
 
-## Шевченко Марк
+### Шевченко Марк
 *Организатор встреч*
 
 @markshevchenko
