@@ -233,6 +233,35 @@ a#youtube {
     width: 100%;
 }
 
+.contact-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+a.youtube {
+    width: 1em;
+    height: 1em;
+    background: url(../img/youtube-icon-64.png) 100% 100%;
+}
+
+a.pdf {
+    width: 1em;
+    height: 1em;
+    background: url(../img/pdf-icon-64.png) 100% 100%;
+}
+
+a.googledrive {
+    width: 1em;
+    height: 1em;
+    background: url(../img/google-drive-icon-64.png) 100% 100%;
+}
+
+a.hyperlink {
+    width: 1em;
+    height: 1em;
+    background: url(../img/hyperlink-icon-64.png) 100% 100%;
+}
+
 @media screen and (min-device-width: 766px) {
     h1#title {
         font-size: 180%;

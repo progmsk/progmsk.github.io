@@ -11,13 +11,13 @@ excerpt: Докладчики, их доклады, слайды и видео.
 
 @palich12
 
-* Спортивное программирование. [![google drive](assets/img/pdf-icon-64.png)](http://prog.msk.ru/downloads/acm.pdf)
+* Спортивное программирование. [](http://prog.msk.ru/downloads/acm.pdf){: .pdf}
 
 
 ### Зиновьев Андрей
 *Независимый разработчик*
 
-* Опыт опенсорсной разработки переносимого GUI. [![pdf](assets/img/pdf-icon-64.png)](http://prog.msk.ru/downloads/compy.pdf)
+* Опыт опенсорсной разработки переносимого GUI. [](http://prog.msk.ru/downloads/compy.pdf){: .pdf}
 
 
 ### Иванов Павел
@@ -25,9 +25,9 @@ excerpt: Докладчики, их доклады, слайды и видео.
 
 @taganrog7897
 
-* Магистратура или второе высшее? [![youtube](assets/img/youtube-icon-64.png)](https://youtu.be/_9ANSi31ZHc)
-* Laravel и шаблоны проектирования. [![pdf](assets/img/pdf-icon-64.png)](http://prog.msk.ru/downloads/laravel-php-patterns.pdf)
-* Линейная алгебра в компьютерных науках. [![pdf](assets/img/pdf-icon-64.png)](http://prog.msk.ru/downloads/la-in-cs.pdf)
+* Магистратура или второе высшее? [](https://youtu.be/_9ANSi31ZHc){: .youtube}
+* Laravel и шаблоны проектирования. [](http://prog.msk.ru/downloads/laravel-php-patterns.pdf){: .pdf}
+* Линейная алгебра в компьютерных науках. [](http://prog.msk.ru/downloads/la-in-cs.pdf){: .pdf}
 
 
 ### Ильин Евгений
@@ -35,7 +35,7 @@ excerpt: Докладчики, их доклады, слайды и видео.
 
 @jenyay
 
-* Генетические алгоритмы. [![youtube](assets/img/youtube-icon-64.png)](https://youtu.be/89Wk0kNnbJQ) [![pdf](assets/img/pdf-icon-64.png)](http://prog.msk.ru/downloads/genetic-algorithms.pdf)
+* Генетические алгоритмы. [](https://youtu.be/89Wk0kNnbJQ){: .youtube} [](http://prog.msk.ru/downloads/genetic-algorithms.pdf){: .pdf}
 
 
 ### Козина Екатерина
@@ -43,8 +43,8 @@ excerpt: Докладчики, их доклады, слайды и видео.
 
 @Kotmarvell
 
-* Интересный git. [![youtube](assets/img/youtube-icon-64.png)](https://youtu.be/GrPkMhZ_C9w) [![pdf](assets/img/pdf-icon-64.png)](http://prog.msk.ru/downloads/advanced-git.pdf)
-* Сокеты «под капотом». [![pdf](assets/img/pdf-icon-64.png)](http://prog.msk.ru/downloads/sockets-under-bonnet.pdf)
+* Интересный git. [](https://youtu.be/GrPkMhZ_C9w){: .youtube} [](http://prog.msk.ru/downloads/advanced-git.pdf){: .pdf}
+* Сокеты «под капотом». [](http://prog.msk.ru/downloads/sockets-under-bonnet.pdf){: .pdf}
 
 
 ### Пакшина Нина
@@ -52,10 +52,10 @@ excerpt: Докладчики, их доклады, слайды и видео.
 
 @ninakou
 
-* Топ 10 уязвимостей веб-приложений. [![pdf](assets/img/pdf-icon-64.png)](http://prog.msk.ru/downloads/owasp.pdf) 
+* Топ 10 уязвимостей веб-приложений. [](http://prog.msk.ru/downloads/owasp.pdf){: .pdf} 
 * Программируемые Логические Контроллеры.
-* Публичные выступления. [![youtube](assets/img/youtube-icon-64.png)](https://youtu.be/IEcxTJ_gja8)
-* Встраиваемые системы. [![habr](assets/img/habr-icon-64.png)](https://habr.com/post/358340/)
+* Публичные выступления. [](https://youtu.be/IEcxTJ_gja8){: .pdf}
+* Встраиваемые системы. [](https://habr.com/post/358340/){: .hyperlink}
 
 
 ### Пирогов Алексей
@@ -63,9 +63,9 @@ excerpt: Докладчики, их доклады, слайды и видео.
 
 @astynax
 
-* Функциональное программирование. [![pdf](assets/img/pdf-icon-64.png)](https://box.kaspersky.com/d/40f9231d6dfe4f789d31/files/?p=/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9%20%D0%9F%D0%B8%D1%80%D0%BE%D0%B3%D0%BE%D0%B2%20-%20%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.pdf)
-* Elm. [![homesite](assets/img/hyperlink-icon-64.png)](https://astynax.github.io/slides/elm-wtf.html)
-* Реактивное программирование. [![homesite](assets/img/hyperlink-icon-64.png)](https://astynax.github.io/slides/reactive)
+* Функциональное программирование. [](https://box.kaspersky.com/d/40f9231d6dfe4f789d31/files/?p=/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9%20%D0%9F%D0%B8%D1%80%D0%BE%D0%B3%D0%BE%D0%B2%20-%20%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.pdf){: .pdf}
+* Elm. [](https://astynax.github.io/slides/elm-wtf.html){: .hyperlink}
+* Реактивное программирование. [](https://astynax.github.io/slides/reactive){: .hyperlink}
 
 
 ### Северин Анатолий
@@ -73,7 +73,7 @@ excerpt: Докладчики, их доклады, слайды и видео.
 
 @AnatoliySeverin
 
-* Ахитектура desktop-приложений. [![pdf](assets/img/pdf-icon-64.png)](http://prog.msk.ru/downloads/ui-1.pdf)
+* Ахитектура desktop-приложений. [](http://prog.msk.ru/downloads/ui-1.pdf){: .pdf}
 
 
 ### Сыровецкий Юрий
@@ -82,7 +82,7 @@ excerpt: Докладчики, их доклады, слайды и видео.
 @cblp_su
 
 * Бесконфликтные реплицированные типы данных (CRDT).
-* Функциональное программирование в Лаборатории Касперского. [![pdf](assets/img/pdf-icon-64.png)](https://box.kaspersky.com/d/40f9231d6dfe4f789d31/files/?p=/%D0%AE%D1%80%D0%B8%D0%B9%20%D0%A1%D1%8B%D1%80%D0%BE%D0%B2%D0%B5%D1%86%D0%BA%D0%B8%D0%B9%20-%20FP_in_KL.pdf)
+* Функциональное программирование в Лаборатории Касперского. [](https://box.kaspersky.com/d/40f9231d6dfe4f789d31/files/?p=/%D0%AE%D1%80%D0%B8%D0%B9%20%D0%A1%D1%8B%D1%80%D0%BE%D0%B2%D0%B5%D1%86%D0%BA%D0%B8%D0%B9%20-%20FP_in_KL.pdf){: .pdf}
 
 
 ### Шевченко Марк
@@ -90,11 +90,11 @@ excerpt: Докладчики, их доклады, слайды и видео.
 
 @markshevchenko
 
-* DDD: трудно понять, легко поломать, невозможно внедрить. [![youtube](assets/img/youtube-icon-64.png)](https://youtu.be/WwRXloRVh74) [![google drive](assets/img/google-drive-icon-64.png)](https://docs.google.com/presentation/d/1pwVS3CHFA7V5AqSmOrZACf9gKHFkdXtGH6ZH70V516k/)
-* Микросервисы на C#. [![youtube](assets/img/youtube-icon-64.png)](https://youtu.be/HHQbRDX7g8k) [![google drive](assets/img/google-drive-icon-64.png)](https://docs.google.com/presentation/d/1fNFMNp4IjvzSWIBPAqTw_8bqRTibzNFuT7w9cv5OBM8/)
-* Сглаживание треков GPS на F#. [![youtube](assets/img/youtube-icon-64.png)](https://youtu.be/BDVCNNs02b8) [![homesite](assets/img/hyperlink-icon-64.png)](http://markshevchenko.pro/articles/fsharp-gps-tracks-filtration/) 
-* IT-сообщество своими руками. [![youtube](assets/img/youtube-icon-64.png)](https://youtu.be/igV9dcVuwqo)
-* Стартапы: мифы и реальность. [![youtube](assets/img/youtube-icon-64.png)](https://youtu.be/syNNWFJvsz8) [![pdf](assets/img/pdf-icon-64.png)](http://markshevchenko.pro/download/startups-myths-and-reality.pdf)
-* Командообразование. [![youtube](assets/img/youtube-icon-64.png)](https://youtu.be/1WcjGH1uERw) [![homesite](assets/img/hyperlink-icon-64.png)](http://markshevchenko.pro/presentations/team-building/)
-* Логгирование. [![homesite](assets/img/hyperlink-icon-64.png)](http://markshevchenko.pro/2017/09/28/logging/)
-* Микросервисы в Azure. [![google drive](assets/img/google-drive-icon-64.png)](https://docs.google.com/document/d/1SEoK-1oiEI4wNmw3uWBMUxSjMh6VxnQ7v-zfngbRCi8/)
+* DDD: трудно понять, легко поломать, невозможно внедрить. [](https://youtu.be/WwRXloRVh74){: .youtube} [](https://docs.google.com/presentation/d/1pwVS3CHFA7V5AqSmOrZACf9gKHFkdXtGH6ZH70V516k/){: .googledrive}
+* Микросервисы на C#. [](https://youtu.be/HHQbRDX7g8k){: .youtube} [](https://docs.google.com/presentation/d/1fNFMNp4IjvzSWIBPAqTw_8bqRTibzNFuT7w9cv5OBM8/){: .googledrive}
+* Сглаживание треков GPS на F#. [](https://youtu.be/BDVCNNs02b8){: .youtube} [](http://markshevchenko.pro/articles/fsharp-gps-tracks-filtration/){: .hyperlink} 
+* IT-сообщество своими руками. [](https://youtu.be/igV9dcVuwqo){: .youtube}
+* Стартапы: мифы и реальность. [](https://youtu.be/syNNWFJvsz8){: .youtube} [](http://markshevchenko.pro/download/startups-myths-and-reality.pdf){: .pdf}
+* Командообразование. [](https://youtu.be/1WcjGH1uERw){: .youtube} [](http://markshevchenko.pro/presentations/team-building/){: .hyperlink}
+* Логгирование. [](http://markshevchenko.pro/2017/09/28/logging/){: .hyperlink}
+* Микросервисы в Azure. [](https://docs.google.com/document/d/1SEoK-1oiEI4wNmw3uWBMUxSjMh6VxnQ7v-zfngbRCi8/){: .googledrive}
