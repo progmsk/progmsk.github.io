@@ -212,8 +212,8 @@ a#youtube {
     list-style-type: none;
 }
 
-.pages > li {
-    display: inline-block;
+.pages > ul > li {
+    display: inline;
     padding: 0 0.8em;
 }
 
