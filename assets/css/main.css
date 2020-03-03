@@ -176,6 +176,29 @@ a#youtube {
     background-size: auto 100%;
 }
 
+.blog-post {
+    clear: both;
+}
+
+.blog-post-title {
+    font-size: 110%;
+}
+
+.blog-post-title > a {
+    text-decoration: none;
+}
+
+.blog-post-date {
+    font-weight: bold;
+    font-size: 90%;
+}
+
+.blog-post-image {
+    width: 20%;
+    margin: 0 2em 1em 0;
+    float: left;
+}
+
 @media screen and (min-device-width: 766px) {
     h1#title {
         font-size: 180%;
