@@ -178,7 +178,7 @@ a#youtube {
 
 .blog-post {
     clear: both;
-    margin-bottom: 2em;
+    margin-bottom: 4em;
 }
 
 .blog-post-title {
@@ -200,14 +200,16 @@ a#youtube {
     float: left;
 }
 
-ul.pages {
-    margin: 0;
+.pages {
+    clear: both;
+    margin: 0 auto;
     padding: 0;
     list-style-type: none;
 }
 
-ul.pages > li {
+.pages > li {
     display: inline-block;
+    padding: 0 1em;
 }
 
 .coc-left {

@@ -26,9 +26,9 @@ excerpt: Конспекты, презентации, видео со встре�
 
 <ul class="pages">
   {% if paginator.previous_page %}
-  <li class="pages-item"><a href="{{ paginator.previous_page_path }}" class="page-link">Назад</a></li>
+  <li class="pages-item"><a href="{{ paginator.previous_page_path }}" class="page-link">&laquo;</a></li>
   {% else %}
-  <li class="pages-item disabled"><a href="{{ paginator.previous_page_path }}" class="page-link">Назад</a></li>
+  <li class="pages-item disabled"><a href="{{ paginator.previous_page_path }}" class="page-link">&laquo;</a></li>
   {% endif %}
 
   {% for page in (1..paginator.total_pages) %}
@@ -42,8 +42,8 @@ excerpt: Конспекты, презентации, видео со встре�
   {% endfor %}
 
   {% if paginator.next_page %}
-  <li class="pages-item"><a href="{{ paginator.next_page_path }}" class="page-link">Вперёд</a></li>
+  <li class="pages-item"><a href="{{ paginator.next_page_path }}" class="page-link">&raquo;</a></li>
   {% else %}
-  <li class="pages-item disabled"><a href="{{ paginator.next_page_path }}" class="page-link">Вперёд</a></li>
+  <li class="pages-item disabled"><a href="{{ paginator.next_page_path }}" class="page-link">&raquo;</a></li>
   {% endif %}
 </ul>
