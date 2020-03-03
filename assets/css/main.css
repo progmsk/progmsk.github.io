@@ -239,24 +239,28 @@ a#youtube {
 }
 
 a.youtube {
+    display: inline-block;
     width: 1em;
     height: 1em;
     background: url(../img/youtube-icon-64.png) 100% 100%;
 }
 
 a.pdf {
+    display: inline-block;
     width: 1em;
     height: 1em;
     background: url(../img/pdf-icon-64.png) 100% 100%;
 }
 
 a.googledrive {
+    display: inline-block;
     width: 1em;
     height: 1em;
     background: url(../img/google-drive-icon-64.png) 100% 100%;
 }
 
 a.hyperlink {
+    display: inline-block;
     width: 1em;
     height: 1em;
     background: url(../img/hyperlink-icon-64.png) 100% 100%;
