@@ -43,9 +43,6 @@ h4 {
     clear: both;
 }
 
-h2:first-child,
-h3:first-child,
-h4:first-child,
 p,
 li {
     margin: 0 0 0.8em 0;
