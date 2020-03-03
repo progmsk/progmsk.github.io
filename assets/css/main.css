@@ -209,6 +209,7 @@ a#youtube {
 }
 
 .pages > li {
+    display: inline;
     padding: 0 1em;
 }
 
