@@ -242,28 +242,28 @@ a.youtube {
     display: inline-block;
     width: 1em;
     height: 1em;
-    background: url(../img/youtube-icon-64.png) contain;
+    background: url(../img/youtube-icon-64.png) left top/contain;
 }
 
 a.pdf {
     display: inline-block;
     width: 1em;
     height: 1em;
-    background: url(../img/pdf-icon-64.png) contain;
+    background: url(../img/pdf-icon-64.png) left top/contain;
 }
 
 a.googledrive {
     display: inline-block;
     width: 1em;
     height: 1em;
-    background: url(../img/google-drive-icon-64.png) contain;
+    background: url(../img/google-drive-icon-64.png) left top/contain;
 }
 
 a.hyperlink {
     display: inline-block;
     width: 1em;
     height: 1em;
-    background: url(../img/hyperlink-icon-64.png) contain;
+    background: url(../img/hyperlink-icon-64.png) left top/contain;
 }
 
 @media screen and (min-device-width: 766px) {
