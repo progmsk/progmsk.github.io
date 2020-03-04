@@ -51,6 +51,7 @@ excerpt: Докладчики, их доклады, слайды и видео.
 [@jenyay](tg://resolve?domain=jenyay){: .telegram}
 
 * Генетические алгоритмы. [Видео](https://youtu.be/89Wk0kNnbJQ){: .youtube} [Слайды](http://prog.msk.ru/downloads/genetic-algorithms.pdf){: .pdf}
+* Алгоритм роя частиц. [Видео](https://youtembed/57YBBIwnkQU"){: .youtube} [Слайды](http://prog.msk.ru/downloads/particle-swarm.pdf){: .pdf}
 
 
 ### [Козина Екатерина](#kozina)

@@ -179,13 +179,13 @@ a.pdf {
 
 a.googledrive {
     padding-left: 1.44em;
-    background: url(../img/google-drive-icon-64.png) left top/contain;
+    background: url(../img/google-drive-icon-64.png) no-repeat;
     background-size: auto 100%;
 }
 
 a.hyperlink {
     padding-left: 1.44em;
-    background: url(../img/hyperlink-icon-64.png) left top/contain;
+    background: url(../img/hyperlink-icon-64.png )no-repeat;
     background-size: auto 100%;
 }
 
