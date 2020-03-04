@@ -181,6 +181,12 @@ h4 > a {
     color: black;
 }
 
+h2 > a:visited,
+h3 > a:visited,
+h4 > a:visited {
+    color: black;
+}
+
 .blog-post {
     clear: both;
     margin-bottom: 4em;
