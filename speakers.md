@@ -6,14 +6,14 @@ excerpt: Докладчики, их доклады, слайды и видео.
 
 ## Докладчики
 * [Агибалов Евгений](#agibalov) *преподавание*{: .tag.red}
-* [Зиновьев Андрей](#zinoviev) *c++* {: .tag.blue}
+* [Зиновьев Андрей](#zinoviev) *c++*{: .tag.blue}
 * [Иванов Павел](#ivanov) *преподавание*{: .tag.red} *php*{: .tag.blue}
 * [Ильин Евгений](#iliin) *алгоритмы*{: .tag.magenta}
 * [Козина Екатерина](#kozina) *алгоритмы*{: .tag.magenta} *сеть*{: .tag.magenta} *ИИ*{: .tag.magenta} *git*{: .tag.green}
 * [Пакшина Нина](#pakshina) *безопасность*{: .tag.magenta} *интернет вещей*{: .tag.magenta} *промышленные системы*{: .tag.magenta} *автоматизация*{: .tag.magenta} *python*{: .tag.blue}
 * [Пирогов Алексей](#pirogov) *преподавание*{: .tag.red} *haskell*{: .tag.blue} *elm*{: .tag.blue} *python*{: .tag.blue}
 * [Северин Анатолий](#severin) *десктор*{: .tag.red} *c#*{: .tag.blue}
-* [Сыровецкий Юрий](#syrovetskiy) *crdt* {: .tag.magenta} *haskell*{: .tag.blue}
+* [Сыровецкий Юрий](#syrovetskiy) *crdt*{: .tag.magenta} *haskell*{: .tag.blue}
 * [Шевченко Марк](#shevchenko) *ооп*{: .tag.magenta} *backend*{: .tag.red} *c#*{: .tag.blue} *f#*{: .tag.blue}
 
 
