@@ -153,21 +153,39 @@ footer a:hover {
     color: black;
 }
 
-a.meetup-prefix {
+a.meetup {
     padding-left: 1.44em;
     background: url(../img/meetup.svg) no-repeat;
     background-size: auto 100%;
 }
 
-a.telegram-prefix {
+a.telegram {
     padding-left: 1.44em;
     background: url(../img/telegram.svg) no-repeat;
     background-size: auto 100%;
 }
 
-a.youtube-prefix {
+a.youtube {
     padding-left: 1.44em;
     background: url(../img/youtube.svg) no-repeat;
+    background-size: auto 100%;
+}
+
+a.pdf {
+    padding-left: 1.44em;
+    background: url(../img/pdf-icon-64.png) no-repeat;
+    background-size: auto 100%;
+}
+
+a.googledrive {
+    padding-left: 1.44em;
+    background: url(../img/google-drive-icon-64.png) left top/contain;
+    background-size: auto 100%;
+}
+
+a.hyperlink {
+    padding-left: 1.44em;
+    background: url(../img/hyperlink-icon-64.png) left top/contain;
     background-size: auto 100%;
 }
 
@@ -247,50 +265,6 @@ h4 > a:visited {
 .contact-row {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-}
-
-a.youtube {
-    display: inline-block;
-    width: 1em;
-    height: 1em;
-    background: url(../img/youtube-icon-64.png) left top/contain;
-}
-
-a.youtube:after {
-    content: "YouTube";
-}
-
-a.pdf {
-    display: inline-block;
-    width: 1em;
-    height: 1em;
-    background: url(../img/pdf-icon-64.png) left top/contain;
-}
-
-a.pdf:after {
-    content: "PDF";
-}
-
-a.googledrive {
-    display: inline-block;
-    width: 1em;
-    height: 1em;
-    background: url(../img/google-drive-icon-64.png) left top/contain;
-}
-
-a.googledrive:after {
-    content: "Google Drive"
-}
-
-a.hyperlink {
-    display: inline-block;
-    width: 1em;
-    height: 1em;
-    background: url(../img/hyperlink-icon-64.png) left top/contain;
-}
-
-a.hyperlink:after {
-    content: "Статья";
 }
 
 .tag {
