@@ -23,14 +23,14 @@ excerpt: Докладчики, их доклады, слайды и видео.
 
 [@palich12](tg://resolve?domain=palich12){: .telegram}
 
-* Спортивное программирование. [Слайды](http://prog.msk.ru/downloads/acm.pdf){: .pdf}
+* Спортивное программирование. [Слайды](/downloads/acm.pdf){: .pdf}
 
 
 ### [Зиновьев Андрей](#zinoviev)
 {: id="zinoviev"}
 *Независимый разработчик*
 
-* Опыт опенсорсной разработки переносимого GUI. [Слайды](http://prog.msk.ru/downloads/compy.pdf){: .pdf}
+* Опыт опенсорсной разработки переносимого GUI. [Слайды](/downloads/compy.pdf){: .pdf}
 
 
 ### [Иванов Павел](#ivanov)
@@ -40,8 +40,8 @@ excerpt: Докладчики, их доклады, слайды и видео.
 [@taganrog7897](tg://resolve?domain=taganrog7897){: .telegram}
 
 * Магистратура или второе высшее? [Видео](https://youtu.be/_9ANSi31ZHc){: .youtube}
-* Laravel и шаблоны проектирования. [Слайды](http://prog.msk.ru/downloads/laravel-php-patterns.pdf){: .pdf}
-* Линейная алгебра в компьютерных науках. [Слайды](http://prog.msk.ru/downloads/la-in-cs.pdf){: .pdf}
+* Laravel и шаблоны проектирования. [Слайды](/downloads/laravel-php-patterns.pdf){: .pdf}
+* Линейная алгебра в компьютерных науках. [Слайды](/downloads/la-in-cs.pdf){: .pdf}
 
 
 ### [Ильин Евгений](#ivanov)
@@ -50,8 +50,8 @@ excerpt: Докладчики, их доклады, слайды и видео.
 
 [@jenyay](tg://resolve?domain=jenyay){: .telegram}
 
-* Генетические алгоритмы. [Видео](https://youtu.be/89Wk0kNnbJQ){: .youtube} [Слайды](http://prog.msk.ru/downloads/genetic-algorithms.pdf){: .pdf}
-* Алгоритм роя частиц. [Видео](https://youtembed/57YBBIwnkQU"){: .youtube} [Слайды](http://prog.msk.ru/downloads/particle-swarm.pdf){: .pdf}
+* Генетические алгоритмы. [Видео](https://youtu.be/89Wk0kNnbJQ){: .youtube} [Слайды](/downloads/genetic-algorithms.pdf){: .pdf}
+* Алгоритм роя частиц. [Видео](https://youtembed/57YBBIwnkQU"){: .youtube} [Слайды](/downloads/particle-swarm.pdf){: .pdf}
 
 
 ### [Козина Екатерина](#kozina)
@@ -60,8 +60,9 @@ excerpt: Докладчики, их доклады, слайды и видео.
 
 [@Kotmarvell](tg://resolve?domain=Kotmarvell){: .telegram}
 
-* Интересный git. [Видео](https://youtu.be/GrPkMhZ_C9w){: .youtube} [Слайды](http://prog.msk.ru/downloads/advanced-git.pdf){: .pdf}
-* Сокеты «под капотом». [Слайды](http://prog.msk.ru/downloads/sockets-under-bonnet.pdf){: .pdf}
+* Интересный git. [Видео](https://youtu.be/GrPkMhZ_C9w){: .youtube} [Слайды](/downloads/advanced-git.pdf){: .pdf}
+* Сокеты «под капотом». [Слайды](/downloads/sockets-under-bonnet.pdf){: .pdf}
+* Машинное обучение. [Видео](https://youtu.be/pgwnDcKua_M){: .youtube} [Слайды](/downloads/machine-learning.pdf)
 
 
 ### [Пакшина Нина](#pakshina)
@@ -70,7 +71,7 @@ excerpt: Докладчики, их доклады, слайды и видео.
 
 [@ninakou](tg://resolve?domain=ninakou){: .telegram}
 
-* Топ 10 уязвимостей веб-приложений. [Слайды](http://prog.msk.ru/downloads/owasp.pdf){: .pdf} 
+* Топ 10 уязвимостей веб-приложений. [Слайды](/downloads/owasp.pdf){: .pdf} 
 * Программируемые Логические Контроллеры.
 * Публичные выступления. [Видео](https://youtu.be/IEcxTJ_gja8){: .youtube}
 * Встраиваемые системы. [Статья](https://habr.com/post/358340/){: .hyperlink}
@@ -93,7 +94,7 @@ excerpt: Докладчики, их доклады, слайды и видео.
 
 [@AnatoliySeverin](tg://resolve?domain=AnatoliySeverin){: .telegram}
 
-* Ахитектура desktop-приложений. [Слайды](http://prog.msk.ru/downloads/ui-1.pdf){: .pdf}
+* Ахитектура desktop-приложений. [Слайды](/downloads/ui-1.pdf){: .pdf}
 
 
 ### [Сыровецкий Юрий](#syrovetskiy)
