@@ -239,6 +239,13 @@ h4 > a:visited {
     padding: 0 0.8em;
 }
 
+img.small-left-figure {
+    width: 20%;
+    height: auto;
+    float: left;
+    margin: 0 2em 1em 0;
+}
+
 img.small-right-figure {
     width: 20%;
     height: auto;
