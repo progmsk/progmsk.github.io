@@ -261,28 +261,28 @@ a.hyperlink {
     background: url(../img/hyperlink-icon-64.png) left top/contain;
 }
 
-.red {
+.tag {
     font-style: normal;
-    font-weight: bold;
+    font-weight: lighter;
     padding: 0 0.2em;
+    border-radius: 0.2em;
     color: white;
+}
+
+.red {
     background-color: red;
 }
 
 .blue {
-    font-style: normal;
-    font-weight: bold;
-    padding: 0 0.2em;
-    color: white;
     background-color: blue;
 }
 
 .magenta {
-    font-style: normal;
-    font-weight: bold;
-    padding: 0 0.2em;
-    color: white;
     background-color: magenta;
+}
+
+.green {
+    background-color: green;
 }
 
 @media screen and (min-device-width: 766px) {
