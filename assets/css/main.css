@@ -291,12 +291,11 @@ a.hyperlink {
 
     header {
         position: relative;
-        background: url(../img/header-background.png) repeat-x;
-        background-size: contain;
     }
 
     h1#title {
         margin: 0 0 0.3em 0;
+        background-color: #e0e0e0;
     }
 
     nav {
@@ -304,7 +303,7 @@ a.hyperlink {
         grid-column-end: unset;
         position: absolute;
         top: 1em;
-        right: 1em;
+        right: 0;
     }
     
     nav > ul > li {
