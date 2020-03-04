@@ -14,7 +14,7 @@ excerpt: Докладчики, их доклады, слайды и видео.
 * [Пирогов Алексей](#pirogov) *преподавание*{: .tag.red} *haskell*{: .tag.blue} *elm*{: .tag.blue} *python*{: .tag.blue}
 * [Северин Анатолий](#severin) *десктор*{: .tag.red} *c#*{: .tag.blue}
 * [Сыровецкий Юрий](#syrovetskiy) *crdt* {: .tag.magenta} *haskell*{: .tag.blue}
-* [Шевченко Марк](#shevchenko) *backend*{: .tag.red} *c#*{: .tag.blue}
+* [Шевченко Марк](#shevchenko) *ооп*{: .tag.magenta} *backend*{: .tag.red} *c#*{: .tag.blue} *f#*{: .tag.blue}
 
 
 ### [Агибалов Евгений](#agibalov)

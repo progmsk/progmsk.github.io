@@ -171,6 +171,12 @@ a.youtube-prefix {
     background-size: auto 100%;
 }
 
+h2 > a {
+    padding-left: 1.44em;
+    background: url(../img/hyperlink.svg) no-repeat;
+    background-size: auto 100%;
+}
+
 .blog-post {
     clear: both;
     margin-bottom: 4em;
