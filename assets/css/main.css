@@ -95,9 +95,7 @@ nav > ul > li {
     background: linear-gradient(#f0f0f0, #e0e0e0);
 }
 
-nav a,
-nav a:visited,
-nav a:hover {
+nav a {
     text-decoration: none;
 }
 
