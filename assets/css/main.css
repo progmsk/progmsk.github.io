@@ -92,7 +92,7 @@ nav > ul > li {
     font-size: 90%;
     text-align: center;
     border: 0.05em solid white;
-    background: linear-gradient(#f0f0f0, #e0e0e0);
+    background: linear-gradient(whitesmoke, gainsboro);
 }
 
 nav a {
@@ -144,7 +144,7 @@ footer > ul > li {
     font-size: 90%;
     text-align: center;
     border: 0.05em solid white;
-    background: linear-gradient(#f0f0f0, #e0e0e0);
+    background: linear-gradient(whitesmoke, gainsboro);
 }
 
 footer a,
@@ -261,6 +261,30 @@ a.hyperlink {
     background: url(../img/hyperlink-icon-64.png) left top/contain;
 }
 
+.red {
+    font-style: normal;
+    font-weight: bold;
+    padding: 0 0.2em;
+    color: white;
+    background-color: red;
+}
+
+.blue {
+    font-style: normal;
+    font-weight: bold;
+    padding: 0 0.2em;
+    color: white;
+    background-color: blue;
+}
+
+.magenta {
+    font-style: normal;
+    font-weight: bold;
+    padding: 0 0.2em;
+    color: white;
+    background-color: magenta;
+}
+
 @media screen and (min-device-width: 766px) {
     h1#title {
         font-size: 180%;
@@ -290,7 +314,7 @@ a.hyperlink {
 
     h1#title {
         margin: 0 0 0.3em 0;
-        background-color: #e0e0e0;
+        background: linear-gradient(whitesmoke, gainsboro);
     }
 
     nav {
@@ -306,7 +330,7 @@ a.hyperlink {
         font-size: 90%;
         text-align: center;
         padding: 0 0.4em;
-        border-left: 0.1em #e0e0e0 solid;
+        border-left: 0.1em gainsboro solid;
         background: none;
     }
 
