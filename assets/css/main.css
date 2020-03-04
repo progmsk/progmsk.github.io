@@ -256,11 +256,19 @@ a.youtube {
     background: url(../img/youtube-icon-64.png) left top/contain;
 }
 
+a.youtube:after {
+    content: "YouTube";
+}
+
 a.pdf {
     display: inline-block;
     width: 1em;
     height: 1em;
     background: url(../img/pdf-icon-64.png) left top/contain;
+}
+
+a.pdf:after {
+    content: "PDF";
 }
 
 a.googledrive {
@@ -270,11 +278,19 @@ a.googledrive {
     background: url(../img/google-drive-icon-64.png) left top/contain;
 }
 
+a.googledrive:after {
+    content: "Google Drive"
+}
+
 a.hyperlink {
     display: inline-block;
     width: 1em;
     height: 1em;
     background: url(../img/hyperlink-icon-64.png) left top/contain;
+}
+
+a.hyperlink:after {
+    content: "Статья";
 }
 
 .tag {
