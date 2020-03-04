@@ -171,7 +171,9 @@ a.youtube-prefix {
     background-size: auto 100%;
 }
 
-h2 > a {
+h2 > a,
+h3 > a,
+h4 > a {
     padding-left: 1.44em;
     background: url(../img/hyperlink.svg) no-repeat;
     background-size: auto 100%;
