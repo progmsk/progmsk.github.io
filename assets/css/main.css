@@ -155,23 +155,20 @@ footer a:hover {
     color: black;
 }
 
-a#meetup {
+a.meetup-prefix {
     padding-left: 1.44em;
-    text-decoration: none;
     background: url(../img/meetup.svg) no-repeat;
     background-size: auto 100%;
 }
 
-a#telegram {
+a.telegram-prefix {
     padding-left: 1.44em;
-    text-decoration: none;
     background: url(../img/telegram.svg) no-repeat;
     background-size: auto 100%;
 }
 
-a#youtube {
+a.youtube-prefix {
     padding-left: 1.44em;
-    text-decoration: none;
     background: url(../img/youtube.svg) no-repeat;
     background-size: auto 100%;
 }
