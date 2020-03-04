@@ -271,19 +271,19 @@ a.hyperlink {
 }
 
 .red {
-    background-color: red;
+    background-color: firebrick;
 }
 
 .blue {
-    background-color: blue;
+    background-color: navy;
 }
 
 .magenta {
-    background-color: magenta;
+    background-color: indigo;
 }
 
 .green {
-    background-color: green;
+    background-color: darkgreen;
 }
 
 @media screen and (min-device-width: 766px) {
