@@ -54,7 +54,7 @@ excerpt: Докладчики, их доклады, слайды и видео.
 
 * Топ 10 уязвимостей веб-приложений. [](http://prog.msk.ru/downloads/owasp.pdf){: .pdf} 
 * Программируемые Логические Контроллеры.
-* Публичные выступления. [](https://youtu.be/IEcxTJ_gja8){: .pdf}
+* Публичные выступления. [](https://youtu.be/IEcxTJ_gja8){: .youtube}
 * Встраиваемые системы. [](https://habr.com/post/358340/){: .hyperlink}
 
 
