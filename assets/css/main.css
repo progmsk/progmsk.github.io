@@ -264,9 +264,10 @@ a.hyperlink {
 .tag {
     font-style: normal;
     font-weight: lighter;
-    padding: 0 0.2em;
+    padding: 0 0.4em;
     border-radius: 0.2em;
     color: white;
+    font-size: 90%;
 }
 
 .red {
