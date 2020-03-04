@@ -124,13 +124,6 @@ main {
 	height: 100%;
 }
 
-.figure {
-    width: 25%;
-    height: auto;
-    float: right;
-    margin: 0 0 0 2em;
-}
-
 footer > ul {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -246,19 +239,28 @@ h4 > a:visited {
     padding: 0 0.8em;
 }
 
-.coc-left {
-    width: 40%;
-    margin: 0 2em 1em 0;
-    float: left;
-}
-
-.coc-right {
-    width: 40%;
-    margin: 0 0 1em 2em;
+img.small-right-figure {
+    width: 20%;
+    height: auto;
     float: right;
+    margin: 0 0 1em 2em;
 }
 
-.w-100 {
+img.medium-left-figure {
+    width: 40%;
+    height: auto;
+    float: left;
+    margin: 0 2em 1em 0;
+}
+
+img.medium-right-figure {
+    width: 40%;
+    height: auto;
+    float: right;
+    margin: 0 0 1em 2em;
+}
+
+img.large-figure {
     width: 100%;
 }
 

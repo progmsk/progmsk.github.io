@@ -38,7 +38,7 @@ excerpt: "Рассказы Андрея Зиновьева и Андрея Ме�
 
 [Программа Airwatch в Apple Store](https://apps.apple.com/app/id1458144886)
 
-![Airwatch](https://secure.meetupstatic.com/photos/event/7/7/1/f/highres_482730495.jpeg){: .w-100}
+![Airwatch](https://secure.meetupstatic.com/photos/event/7/7/1/f/highres_482730495.jpeg){: .large-figure}
 
 ## Soft Skills (продолжение)
 

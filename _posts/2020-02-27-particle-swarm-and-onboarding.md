@@ -22,15 +22,15 @@ excerpt: "Доклад об оптимизации функций методом
 
 Дискуссию модерировал Марк Шевченко. Ниже — фото флипчарта и видео обсуждения.
 
-![Onboarding](https://secure.meetupstatic.com/photos/event/4/9/a/1/highres_489378849.jpeg){: .w-100}
+![Onboarding](https://secure.meetupstatic.com/photos/event/4/9/a/1/highres_489378849.jpeg){: .large-figure}
 
-![Onboarding](https://secure.meetupstatic.com/photos/event/4/9/a/2/highres_489378850.jpeg){: .w-100}
+![Onboarding](https://secure.meetupstatic.com/photos/event/4/9/a/2/highres_489378850.jpeg){: .large-figure}
 
-![Onboarding](https://secure.meetupstatic.com/photos/event/4/9/a/4/highres_489378852.jpeg){: .w-100}
+![Onboarding](https://secure.meetupstatic.com/photos/event/4/9/a/4/highres_489378852.jpeg){: .large-figure}
 
-![Onboarding](https://secure.meetupstatic.com/photos/event/4/9/a/5/highres_489378853.jpeg){: .w-100}
+![Onboarding](https://secure.meetupstatic.com/photos/event/4/9/a/5/highres_489378853.jpeg){: .large-figure}
 
-![Onboarding](https://secure.meetupstatic.com/photos/event/4/9/a/3/highres_489378851.jpeg){: .w-100}
+![Onboarding](https://secure.meetupstatic.com/photos/event/4/9/a/3/highres_489378851.jpeg){: .large-figure}
 
 <p class="video">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/3pQ3Spz4MVE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

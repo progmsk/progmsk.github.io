@@ -26,9 +26,9 @@ excerpt: "Доклад и модерируемая дискуссия."
 
 Флипчартшоты.
 
-![Технический долг](https://secure.meetupstatic.com/photos/event/9/c/f/4/highres_485440180.jpeg){: .w-100}
-![Технический долг](https://secure.meetupstatic.com/photos/event/a/4/4/8/highres_485442056.jpeg){: .w-100}
-![Технический долг](https://secure.meetupstatic.com/photos/event/a/4/4/a/highres_485442058.jpeg){: .w-100}
-![Технический долг](https://secure.meetupstatic.com/photos/event/a/4/5/d/highres_485442077.jpeg){: .w-100}
-![Технический долг](https://secure.meetupstatic.com/photos/event/a/4/6/4/highres_485442084.jpeg){: .w-100}
-![Технический долг](https://secure.meetupstatic.com/photos/event/a/4/6/5/highres_485442085.jpeg){: .w-100}
+![Технический долг](https://secure.meetupstatic.com/photos/event/9/c/f/4/highres_485440180.jpeg){: .large-figure}
+![Технический долг](https://secure.meetupstatic.com/photos/event/a/4/4/8/highres_485442056.jpeg){: .large-figure}
+![Технический долг](https://secure.meetupstatic.com/photos/event/a/4/4/a/highres_485442058.jpeg){: .large-figure}
+![Технический долг](https://secure.meetupstatic.com/photos/event/a/4/5/d/highres_485442077.jpeg){: .large-figure}
+![Технический долг](https://secure.meetupstatic.com/photos/event/a/4/6/4/highres_485442084.jpeg){: .large-figure}
+![Технический долг](https://secure.meetupstatic.com/photos/event/a/4/6/5/highres_485442085.jpeg){: .large-figure}

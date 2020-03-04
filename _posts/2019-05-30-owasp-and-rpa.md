@@ -20,6 +20,6 @@ excerpt: "Доклады Нины Пакшиной, а также Ильи Ко�
 
 Слайды презентации в формате PDF [здесь](/downloads/dr-rpa.pdf).
 
-![Роботизация бизнес-процессов](https://secure.meetupstatic.com/photos/event/c/6/4/a/highres_481790762.jpeg){: .w-100}
+![Роботизация бизнес-процессов](https://secure.meetupstatic.com/photos/event/c/6/4/a/highres_481790762.jpeg){: .large-figure}
 
-![Роботизация бизнес-процессов](https://secure.meetupstatic.com/photos/event/c/6/5/0/highres_481790768.jpeg){: .w-100}
+![Роботизация бизнес-процессов](https://secure.meetupstatic.com/photos/event/c/6/5/0/highres_481790768.jpeg){: .large-figure}

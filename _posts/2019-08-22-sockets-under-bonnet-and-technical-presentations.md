@@ -14,9 +14,9 @@ excerpt: "Повышаем производительность сетевого
 
 Презентация доклада в формате PDF доступна [здесь](/downloads/sockets-under-bonnet.pdf)
 
-![Сокеты под капотом](/downloads/sockets-under-bonnet-1.jpg){: .w-100}
+![Сокеты под капотом](/downloads/sockets-under-bonnet-1.jpg){: .large-figure}
 
-![Сокеты под капотом](/downloads/sockets-under-bonnet-2.jpg){: .w-100}
+![Сокеты под капотом](/downloads/sockets-under-bonnet-2.jpg){: .large-figure}
 
 ## Подготовка технических докладов
 

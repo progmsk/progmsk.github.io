@@ -18,11 +18,11 @@ excerpt: "Доклад о Программируемых Логических К
 
 Программируются контроллеры с помощью несложных языков, в том числе графических. Это означает, что простые схемы может смонтировать сотрудник, не обладающий профильным программистским образованием.
 
-![Программируемые Логические Контроллеры](https://secure.meetupstatic.com/photos/event/4/e/0/c/highres_479899980.jpeg){: .w-100}
+![Программируемые Логические Контроллеры](https://secure.meetupstatic.com/photos/event/4/e/0/c/highres_479899980.jpeg){: .large-figure}
 
-![Программируемые Логические Контроллеры](https://secure.meetupstatic.com/photos/event/4/e/2/1/highres_479900001.jpeg){: .w-100}
+![Программируемые Логические Контроллеры](https://secure.meetupstatic.com/photos/event/4/e/2/1/highres_479900001.jpeg){: .large-figure}
 
-![Программируемые Логические Контроллеры](https://secure.meetupstatic.com/photos/event/5/2/6/2/highres_479901090.jpeg){: .w-100}
+![Программируемые Логические Контроллеры](https://secure.meetupstatic.com/photos/event/5/2/6/2/highres_479901090.jpeg){: .large-figure}
 
 ## Полезная и вредная саморефлексия
 
@@ -42,12 +42,12 @@ excerpt: "Доклад о Программируемых Логических К
 
 Результаты работы с кейсами представлены на фото.
 
-![Полезная и вредная саморефлексия](https://secure.meetupstatic.com/photos/event/5/b/f/e/highres_479903550.jpeg){: .w-100}
+![Полезная и вредная саморефлексия](https://secure.meetupstatic.com/photos/event/5/b/f/e/highres_479903550.jpeg){: .large-figure}
 
-![Полезная и вредная саморефлексия](https://secure.meetupstatic.com/photos/event/5/c/0/d/highres_479903565.jpeg){: .w-100}
+![Полезная и вредная саморефлексия](https://secure.meetupstatic.com/photos/event/5/c/0/d/highres_479903565.jpeg){: .large-figure}
 
-![Полезная и вредная саморефлексия](https://secure.meetupstatic.com/photos/event/5/c/1/3/highres_479903571.jpeg){: .w-100}
+![Полезная и вредная саморефлексия](https://secure.meetupstatic.com/photos/event/5/c/1/3/highres_479903571.jpeg){: .large-figure}
 
-![Полезная и вредная саморефлексия](https://secure.meetupstatic.com/photos/event/5/c/2/6/highres_479903590.jpeg){: .w-100}
+![Полезная и вредная саморефлексия](https://secure.meetupstatic.com/photos/event/5/c/2/6/highres_479903590.jpeg){: .large-figure}
 
-![Полезная и вредная саморефлексия](https://secure.meetupstatic.com/photos/event/5/c/2/b/highres_479903595.jpeg){: .w-100}
+![Полезная и вредная саморефлексия](https://secure.meetupstatic.com/photos/event/5/c/2/b/highres_479903595.jpeg){: .large-figure}

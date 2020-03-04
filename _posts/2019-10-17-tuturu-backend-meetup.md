@@ -50,7 +50,7 @@ excerpt: "Доклады про PHP, паттерны, микросервисы,
 
 ### Фото
 
-![Tutu.ru](https://secure.meetupstatic.com/photos/event/4/a/4/3/highres_485839011.jpeg){: .w-100}
-![Tutu.ru](https://secure.meetupstatic.com/photos/event/4/a/4/1/highres_485839009.jpeg){: .w-100}
-![Tutu.ru](https://secure.meetupstatic.com/photos/event/4/a/3/c/highres_485839004.jpeg){: .w-100}
-![Tutu.ru](https://secure.meetupstatic.com/photos/event/4/a/3/9/highres_485839001.jpeg){: .w-100}
+![Tutu.ru](https://secure.meetupstatic.com/photos/event/4/a/4/3/highres_485839011.jpeg){: .large-figure}
+![Tutu.ru](https://secure.meetupstatic.com/photos/event/4/a/4/1/highres_485839009.jpeg){: .large-figure}
+![Tutu.ru](https://secure.meetupstatic.com/photos/event/4/a/3/c/highres_485839004.jpeg){: .large-figure}
+![Tutu.ru](https://secure.meetupstatic.com/photos/event/4/a/3/9/highres_485839001.jpeg){: .large-figure}

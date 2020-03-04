@@ -85,7 +85,7 @@ public ActionResult GetOrder(int orderId)
 
 В классической схеме зависимости распределены так, как показано на рисунке:
 
-![Зависимости классической реализации](/downloads/di1.png){: .w-100}
+![Зависимости классической реализации](/downloads/di1.png){: .large-figure}
 
 ### Проблемы классической реализации
 
@@ -183,7 +183,7 @@ public class OrderController
 
 Взглянем, как зависимости выглядят сейчас.
 
-![Зависимости реализации с инверсией](/downloads/di2.png){: .w-100}
+![Зависимости реализации с инверсией](/downloads/di2.png){: .large-figure}
 
  Между уровнями Presentation и Domain зависимость осталась прежней&nbsp;&mdash; сверху-вниз, а между уровнями Domain и Infrastructure она изменилась на обратную&nbsp;&mdash; теперь Infrastructure зависит от Domain.
 
