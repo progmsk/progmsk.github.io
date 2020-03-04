@@ -24,7 +24,7 @@ excerpt: "Доклад Юрия Сыровецкого и новости из м
 
 ## Приглашение на [C++ CoreHard Conference](https://corehard.by/)
 
-![C++ CoreHard Conference](/img/results/corehard.jpg){: .large-figure}
+![C++ CoreHard Conference](/assets/img/results/corehard.jpg){: .large-figure}
 
 Сообщество CoreHard приглашает на конференцию для С++ разработчиков CoreHard Spring 2019.
 
