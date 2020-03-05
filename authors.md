@@ -23,12 +23,6 @@ http://ninucium.ru/portfolio/
 * Российское производство встраиваемых систем [Статья](https://habr.com/ru/post/358340/){: .hyperlink}
 * Интерфейс будущего — системы дополненной реальности [Статья](http://ninucium.ru/portfolio/downloads/AR.pdf){: .pdf}
 
-### [Пирогов Алексей](#pirogov)
-{: id="pirogov"}
-
-[@astynax](tg://resolve?domain=astynax){: .telegram}
-
-
 
 ### [Шевченко Марк](#shevchenko)
 {: id="shevchenko"}
