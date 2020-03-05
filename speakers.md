@@ -71,18 +71,21 @@ excerpt: Докладчики, их доклады, слайды и видео.
 ![Пакшина Нина](/assets/img/speakers/pakshina.jpg){: .small-right-figure}
 *Организатор встреч*
 
+http://ninucium.ru/portfolio/
+
 [@ninakou](tg://resolve?domain=ninakou){: .telegram}
 
 * Топ 10 уязвимостей веб-приложений. [Слайды](/downloads/owasp.pdf){: .pdf} 
-* Программируемые Логические Контроллеры.
 * Публичные выступления. [Видео](https://youtu.be/IEcxTJ_gja8){: .youtube}
 * Встраиваемые системы. [Статья](https://habr.com/post/358340/){: .hyperlink}
-
+* Новый контроллер CPM723. Особенности среды программирования CODESYS V3. [Видео](https://youtu.be/9rdh4dBSRzc){: .youtube}
 
 ### [Пирогов Алексей](#pirogov)
 {: id="pirogov"}
 ![Пирогов Алексей](/assets/img/speakers/pirogov.jpg){: .small-right-figure}
 *Организатор встреч*
+
+https://github.com/astynax
 
 [@astynax](tg://resolve?domain=astynax){: .telegram}
 
@@ -126,6 +129,8 @@ excerpt: Докладчики, их доклады, слайды и видео.
 ![Шевченко Марк](/assets/img/speakers/shevchenko.jpg){: .small-right-figure}
 *Организатор встреч*
 
+http://markshevchenko.pro/
+
 [@markshevchenko](tg://resolve?domain=markshevchenko){: .telegram}
 
 * DDD: трудно понять, легко поломать, невозможно внедрить. [Видео](https://youtu.be/WwRXloRVh74){: .youtube} [Слайды](https://docs.google.com/presentation/d/1pwVS3CHFA7V5AqSmOrZACf9gKHFkdXtGH6ZH70V516k/){: .googledrive}
@@ -134,5 +139,4 @@ excerpt: Докладчики, их доклады, слайды и видео.
 * IT-сообщество своими руками, TechTrain 2019. [Видео](https://youtu.be/igV9dcVuwqo){: .youtube}
 * Стартапы: мифы и реальность. [Видео](https://youtu.be/syNNWFJvsz8){: .youtube} [Слайды](http://markshevchenko.pro/download/startups-myths-and-reality.pdf){: .pdf}
 * Командообразование. [Видео](https://youtu.be/1WcjGH1uERw){: .youtube} [Слайды](http://markshevchenko.pro/presentations/team-building/){: .hyperlink}
-* Логгирование. [Статья](http://markshevchenko.pro/2017/09/28/logging/){: .hyperlink}
 * Микросервисы в Azure. [Слайды](https://docs.google.com/document/d/1SEoK-1oiEI4wмNmw3uWBMUxSjMh6VxnQ7v-zfngbRCi8/){: .googledrive}
