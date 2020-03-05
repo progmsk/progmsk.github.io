@@ -19,7 +19,7 @@ excerpt: Докладчики, их доклады, слайды и видео.
 
 ### [Агибалов Евгений](#agibalov)
 {: id="agibalov"}
-[!Агибалов Евгений](/assets/img/speakers/agibalov.jpg){: .small-right-figure}
+![Агибалов Евгений](/assets/img/speakers/agibalov.jpg){: .small-right-figure}
 *Тренер команды обнинского филиала МИФИ, участник международного чемпионата ACM*
 
 [@palich12](tg://resolve?domain=palich12){: .telegram}
@@ -68,7 +68,7 @@ excerpt: Докладчики, их доклады, слайды и видео.
 
 ### [Пакшина Нина](#pakshina)
 {: id="pakshina"}
-[!Пакшина Нина](/assets/img/speakers/pakshina.jpg){: .small-right-figure}
+![Пакшина Нина](/assets/img/speakers/pakshina.jpg){: .small-right-figure}
 *Организатор встреч*
 
 [@ninakou](tg://resolve?domain=ninakou){: .telegram}
@@ -81,7 +81,7 @@ excerpt: Докладчики, их доклады, слайды и видео.
 
 ### [Пирогов Алексей](#pirogov)
 {: id="pirogov"}
-[!Пирогов Алексей](/assets/img/speakers/pirogov.jpg){: .small-right-figure}
+![Пирогов Алексей](/assets/img/speakers/pirogov.jpg){: .small-right-figure}
 *Организатор встреч*
 
 [@astynax](tg://resolve?domain=astynax){: .telegram}
@@ -112,7 +112,7 @@ excerpt: Докладчики, их доклады, слайды и видео.
 
 ### [Шевченко Марк](#shevchenko)
 {: id="shevchenko"}
-[!Шевченко Марк](/assets/img/speakers/shevchenko.jpg){: .small-right-figure}
+![Шевченко Марк](/assets/img/speakers/shevchenko.jpg){: .small-right-figure}
 *Организатор встреч*
 
 [@markshevchenko](tg://resolve?domain=markshevchenko){: .telegram}
