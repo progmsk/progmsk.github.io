@@ -76,7 +76,7 @@ excerpt: Докладчики, их доклады, слайды и видео.
 ![Пакшина Нина](/assets/img/speakers/pakshina.jpg){: .small-right-figure}
 *Организатор встреч*
 
-[ninucium.ru](http://ninucium.ru/portfolio/)
+[ninucium.ru](http://ninucium.ru/portfolio/){: .website}
 
 [@ninakou](tg://resolve?domain=ninakou){: .telegram}
 
@@ -90,7 +90,7 @@ excerpt: Докладчики, их доклады, слайды и видео.
 ![Пирогов Алексей](/assets/img/speakers/pirogov.jpg){: .small-right-figure}
 *Организатор встреч*
 
-[github.com/astynax](https://github.com/astynax)
+[github.com/astynax](https://github.com/astynax){: .website}
 
 [@astynax](tg://resolve?domain=astynax){: .telegram}
 
@@ -124,7 +124,7 @@ excerpt: Докладчики, их доклады, слайды и видео.
 {: id="syrovetskiy"}
 *Старший разработчик, Лаборатория Касперского*
 
-[cblp.su](http://cblp.su)
+[cblp.su](http://cblp.su){: .website}
 
 [cblp_su](https://twitter.com/cblp_su){: .twitter}
 
@@ -139,7 +139,7 @@ excerpt: Докладчики, их доклады, слайды и видео.
 ![Шевченко Марк](/assets/img/speakers/shevchenko.jpg){: .small-right-figure}
 *Организатор встреч*
 
-[markshevchenko.pro](http://markshevchenko.pro/)
+[markshevchenko.pro](http://markshevchenko.pro/){: .website}
 
 [@markshevchenko](tg://resolve?domain=markshevchenko){: .telegram}
 

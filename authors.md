@@ -10,7 +10,7 @@ excerpt: Авторы, их статьи и публикации.
 ### [Пакшина Нина](#pakshina)
 {: id="pakshina"}
 
-[ninucium.ru](http://ninucium.ru/portfolio/)
+[ninucium.ru](http://ninucium.ru/portfolio/){: .website}
 
 [@ninakou](tg://resolve?domain=ninakou){: .telegram}
 
@@ -27,7 +27,7 @@ excerpt: Авторы, их статьи и публикации.
 ### [Шевченко Марк](#shevchenko)
 {: id="shevchenko"}
 
-[markshevchenko.pro](http://markshevchenko.pro/)
+[markshevchenko.pro](http://markshevchenko.pro/){: .website}
 
 [@markshevchenko](tg://resolve?domain=markshevchenko){: .telegram}
 

@@ -188,6 +188,12 @@ a.hyperlink {
     background-size: auto 100%;
 }
 
+a.website {
+    padding-left: 1.44em;
+    background: url(../img/website.svg )no-repeat;
+    background-size: auto 100%;
+}
+
 h2 > a,
 h3 > a,
 h4 > a {
