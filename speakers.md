@@ -89,6 +89,17 @@ excerpt: Докладчики, их доклады, слайды и видео.
 * Функциональное программирование. [Слайды](https://box.kaspersky.com/d/40f9231d6dfe4f789d31/files/?p=/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9%20%D0%9F%D0%B8%D1%80%D0%BE%D0%B3%D0%BE%D0%B2%20-%20%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.pdf){: .pdf}
 * Elm. [Слайды](https://astynax.github.io/slides/elm-wtf.html){: .hyperlink}
 * Реактивное программирование. [Слайды](https://astynax.github.io/slides/reactive){: .hyperlink}
+* Функциональный дизайн и паттерны ФП, FPURE 2019. [Видео](https://youtu.be/kR4mCDIHrac){: .youtube}
+* Выступление на большом митапе Hexlet, 2019. [Видео](https://youtu.be/DEKkNdISPNo){: .youtube}
+* Elm и The Elm Architecture: что это и зачем это всё, FProg SPb 2018. [Видео](https://youtu.be/Vs-gFdHr3e0){: .youtube}
+* Скриптуем и автоматизируем безопасно с Haskell, FP Conf 2016. [Видео](https://youtu.be/WWz1VE94bAM){: .youtube}
+* The Elm Architecture: model, view & update your UI, FP Conf 2017. [Видео](https://youtu.be/iHIQEyYSY9M){: .youtube}
+* Django Channels: готовимся к асинхронному будущему, PiterP 2016. [Видео](https://youtu.be/9QwQpCqiUWo){: .youtube}
+* Фронтенд + Elm - боль, elixir-lang 2016. [Видео](https://youtu.be/puJxekQ7aQk){: .youtube}
+* Web-приложений на языке Elm с использованием FRP-подхода, FP Conf 2016. [Видео](https://youtu.be/ZD0GcCAopc4){: .youtube} [Слайды](https://astynax.me/about-elm/slides.html){: .hyperlink}
+* Легковесный Dependency Injection, PiterPy 2015. [Видео](https://youtu.be/RD64LE16FGc){: .youtube}
+* Функциональные принципы для ООП разработчика, ProveIT 2014. [Видео](https://youtu.be/3OVJ4Rzt6qo){: .youtube}
+* Literate Programming, Kazan Python DevDay 2014. [Видео](https://youtu.be/3bjEMJPZ9jI){: .youtube}
 
 
 ### [Северин Анатолий](#severin)
@@ -118,9 +129,9 @@ excerpt: Докладчики, их доклады, слайды и видео.
 [@markshevchenko](tg://resolve?domain=markshevchenko){: .telegram}
 
 * DDD: трудно понять, легко поломать, невозможно внедрить. [Видео](https://youtu.be/WwRXloRVh74){: .youtube} [Слайды](https://docs.google.com/presentation/d/1pwVS3CHFA7V5AqSmOrZACf9gKHFkdXtGH6ZH70V516k/){: .googledrive}
-* Микросервисы на C#. [Видео](https://youtu.be/HHQbRDX7g8k){: .youtube} [Слайды](https://docs.google.com/presentation/d/1fNFMNp4IjvzSWIBPAqTw_8bqRTibzNFuT7w9cv5OBM8/){: .googledrive}
+* Микросервисы на C#, Tver.IO 2019. [Видео](https://youtu.be/HHQbRDX7g8k){: .youtube} [Слайды](https://docs.google.com/presentation/d/1fNFMNp4IjvzSWIBPAqTw_8bqRTibzNFuT7w9cv5OBM8/){: .googledrive}
 * Сглаживание треков GPS на F#. [Видео](https://youtu.be/BDVCNNs02b8){: .youtube} [Статья](http://markshevchenko.pro/articles/fsharp-gps-tracks-filtration/){: .hyperlink} 
-* IT-сообщество своими руками. [Видео](https://youtu.be/igV9dcVuwqo){: .youtube}
+* IT-сообщество своими руками, TechTrain 2019. [Видео](https://youtu.be/igV9dcVuwqo){: .youtube}
 * Стартапы: мифы и реальность. [Видео](https://youtu.be/syNNWFJvsz8){: .youtube} [Слайды](http://markshevchenko.pro/download/startups-myths-and-reality.pdf){: .pdf}
 * Командообразование. [Видео](https://youtu.be/1WcjGH1uERw){: .youtube} [Слайды](http://markshevchenko.pro/presentations/team-building/){: .hyperlink}
 * Логгирование. [Статья](http://markshevchenko.pro/2017/09/28/logging/){: .hyperlink}
