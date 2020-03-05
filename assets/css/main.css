@@ -350,9 +350,11 @@ img.large-figure {
     nav > ul {
         display: block;
         grid-template-columns: unset;
+        text-align: right;
     }
     
     nav > ul > li {
+        display: inline-block;
         font-weight: bold;
         font-size: 90%;
         text-align: center;
