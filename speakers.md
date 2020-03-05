@@ -118,9 +118,13 @@ excerpt: Докладчики, их доклады, слайды и видео.
 {: id="syrovetskiy"}
 *Старший разработчик, Лаборатория Касперского*
 
+[cblp.su](http://cblp.su)
+
+[cblp_su](https://twitter.com/cblp_su){: .twitter}
+
 [@cblp_su](tg://resolve?domain=cblp_su){: .telegram}
 
-* Бесконфликтные реплицированные типы данных (CRDT).
+* Бесконфликтные реплицированные типы данных (CRDT) [Слайды](https://slides.com/cblpsu/crdt){: .hyperlink}.
 * Функциональное программирование в Лаборатории Касперского. [Слайды](https://box.kaspersky.com/d/40f9231d6dfe4f789d31/files/?p=/%D0%AE%D1%80%D0%B8%D0%B9%20%D0%A1%D1%8B%D1%80%D0%BE%D0%B2%D0%B5%D1%86%D0%BA%D0%B8%D0%B9%20-%20FP_in_KL.pdf){: .pdf}
 
 

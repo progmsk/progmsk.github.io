@@ -158,6 +158,12 @@ a.telegram {
     background-size: auto 100%;
 }
 
+a.twitter {
+    padding-left: 1.44em;
+    background: url(../img/twitter.svg) no-repeat;
+    background-size: auto 100%;
+}
+
 a.youtube {
     padding-left: 1.44em;
     background: url(../img/youtube.svg) no-repeat;
