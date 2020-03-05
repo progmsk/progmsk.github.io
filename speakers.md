@@ -116,7 +116,8 @@ excerpt: Докладчики, их доклады, слайды и видео.
 
 [@AnatoliySeverin](tg://resolve?domain=AnatoliySeverin){: .telegram}
 
-* Ахитектура desktop-приложений. [Слайды](/downloads/ui-1.pdf){: .pdf}
+* Архитектура desktop-приложений, часть I. [Слайды](/downloads/ui-1.pdf){: .pdf}
+* Архитектура desktop-приложений, часть II. [Слайды](/downloads/ui-2.pdf){: .pdf}
 
 
 ### [Сыровецкий Юрий](#syrovetskiy)
