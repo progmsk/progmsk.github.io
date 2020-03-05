@@ -12,4 +12,4 @@ excerpt: Лекция Булата Зиганшина о быстрой реал
 
 Видеообзор набора &laquo;Метро.Базовый&raquo;:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qppxiBvoYAI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qppxiBvoYAI" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

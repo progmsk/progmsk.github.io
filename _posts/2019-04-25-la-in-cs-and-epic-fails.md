@@ -50,7 +50,7 @@ excerpt: "Доклад Павла Иванова и модерируемая г�
 Видео от Евгения Агибалова о генетическом программировании.
 
 <div class="video">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/4YKFw2KZA5o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/4YKFw2KZA5o" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 Мы проводим свои встречи на территории компании [Leroy Merlin](https://rebrand.ly/IT_LM) на Шаболовке. Приглашаем вас, если вас прёт от программирования; если вам есть, чем поделиться с коллегами; если вас интересует профессиональный рост.

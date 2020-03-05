@@ -13,7 +13,7 @@ excerpt: "C++, функциональное программирование, и
 ### Запись докладов
 
 <p class="video">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/snw6FtIl0LA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/snw6FtIl0LA" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 ### Фото

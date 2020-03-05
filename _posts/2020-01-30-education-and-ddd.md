@@ -15,7 +15,7 @@ excerpt: "Модерируемая дискуссия и доклад."
 Ведущий Павел Иванов.
 
 <p class="video">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/_9ANSi31ZHc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/_9ANSi31ZHc" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 ## DDD
@@ -23,5 +23,5 @@ excerpt: "Модерируемая дискуссия и доклад."
 Марк Шевченко подготовил доклад для дружественного сообщества [DDDevotion](https://www.facebook.com/groups/dddevotion) ([@dddevotion](https://t.me/dddevotion)). По устоявшейся традиции, генеральную репетицию Марк сделал в клубе, сначала «для своих».
 
 <p class="video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/WwRXloRVh74" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/WwRXloRVh74" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>

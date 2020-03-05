@@ -11,7 +11,7 @@ excerpt: Чем иногда занимаются программисты-эк�
 
 Нина Пакшина рассказала нам о том, можно ли это исправить.
 
-<iframe width="560" height="351" src="https://www.youtube.com/embed/IEcxTJ_gja8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="351" src="https://www.youtube.com/embed/IEcxTJ_gja8" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Вячеслав Мацнев анонсировал [митап по учёту времени](https://www.meetup.com/time-management-moscow).
 
