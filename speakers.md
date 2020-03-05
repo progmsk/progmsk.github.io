@@ -71,7 +71,7 @@ excerpt: Докладчики, их доклады, слайды и видео.
 ![Пакшина Нина](/assets/img/speakers/pakshina.jpg){: .small-right-figure}
 *Организатор встреч*
 
-http://ninucium.ru/portfolio/
+[ninucium.ru](http://ninucium.ru/portfolio/)
 
 [@ninakou](tg://resolve?domain=ninakou){: .telegram}
 
@@ -85,7 +85,7 @@ http://ninucium.ru/portfolio/
 ![Пирогов Алексей](/assets/img/speakers/pirogov.jpg){: .small-right-figure}
 *Организатор встреч*
 
-https://github.com/astynax
+[github.com/astynax](https://github.com/astynax)
 
 [@astynax](tg://resolve?domain=astynax){: .telegram}
 
@@ -129,7 +129,7 @@ https://github.com/astynax
 ![Шевченко Марк](/assets/img/speakers/shevchenko.jpg){: .small-right-figure}
 *Организатор встреч*
 
-http://markshevchenko.pro/
+[markshevchenko.pro](http://markshevchenko.pro/)
 
 [@markshevchenko](tg://resolve?domain=markshevchenko){: .telegram}
 
