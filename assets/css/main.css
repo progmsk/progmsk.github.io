@@ -346,6 +346,11 @@ img.large-figure {
         top: 1em;
         right: 0;
     }
+
+    nav > ul {
+        display: block;
+        grid-template-columns: unset;
+    }
     
     nav > ul > li {
         font-weight: bold;
