@@ -52,7 +52,8 @@ excerpt: Докладчики, их доклады, слайды и видео.
 
 ### [Ильин Евгений](#ivanov)
 {: id="iliin"}
-*Независимый разработчик*
+![Ильин Евгений](/assets/img/speakers/iliin.jpg){: .small-right-figure}
+*Инженер, преподаватель*
 
 [@jenyay](tg://resolve?domain=jenyay){: .telegram}
 
