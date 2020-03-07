@@ -306,20 +306,20 @@ img.large-figure {
     font-size: 90%;
 }
 
-.red {
+.prof {
     background-color: crimson;
 }
 
-.blue {
+.language {
     background-color: navy;
 }
 
-.magenta {
-    background-color: darkmagenta;
+.tools {
+    background-color: darkgreen;
 }
 
-.green {
-    background-color: darkgreen;
+.spec {
+    background-color: darkorange;
 }
 
 @media screen and (min-width: 766px) {

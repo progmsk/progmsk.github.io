@@ -4,21 +4,21 @@ title: Докладчики московского клуба программи
 excerpt: Докладчики, их доклады, слайды и видео.
 ---
 
-## Докладчики
+## Докладчики и авторы
 
 Если вы ищете докладчиков для IT-конференции, вы на правильной странице. Здесь мы опубликовали доклады, которые сделаны или обкатаны в клубе программистов. Чтобы было проще разобраться, подходит вам материал или нет, мы сопроводили каждый доклад видеозаписью или слайдами, а иногда и тем, и другим.
 
 Вы можете пригласить докладчика с готовым докладом или договориться о подготовке доклада на вашу тему. Контакты прилагаем.
 
-* [Агибалов Евгений](#agibalov) *преподавание*{: .tag.red}
-* [Иванов Павел](#ivanov) *преподавание*{: .tag.red} *php*{: .tag.blue}
-* [Ильин Евгений](#iliin) *алгоритмы*{: .tag.magenta}
-* [Козина Екатерина](#kozina) *алгоритмы*{: .tag.magenta} *сеть*{: .tag.magenta} *ИИ*{: .tag.magenta} *git*{: .tag.green}
-* [Пакшина Нина](#pakshina) *безопасность*{: .tag.magenta} *интернет вещей*{: .tag.magenta} *промышленные системы*{: .tag.magenta} *автоматизация*{: .tag.magenta} *python*{: .tag.blue}
-* [Пирогов Алексей](#pirogov) *преподавание*{: .tag.red} *haskell*{: .tag.blue} *elm*{: .tag.blue} *python*{: .tag.blue}
-* [Северин Анатолий](#severin) *десктоп*{: .tag.red} *c#*{: .tag.blue}
-* [Сыровецкий Юрий](#syrovetskiy) *crdt*{: .tag.magenta} *haskell*{: .tag.blue}
-* [Шевченко Марк](#shevchenko) *ооп*{: .tag.magenta} *backend*{: .tag.red} *c#*{: .tag.blue} *f#*{: .tag.blue}
+* [Агибалов Евгений](#agibalov) *преподаватель*{: .tag.prof}
+* [Иванов Павел](#ivanov) *преподаватель*{: .tag.prof} *php*{: .tag.language}
+* [Ильин Евгений](#iliin) *алгоритмы*{: .tag.spec}
+* [Козина Екатерина](#kozina) *алгоритмы*{: .tag.spec} *сеть*{: .tag.spec} *ИИ*{: .tag.spec} *git*{: .tag.tools}
+* [Пакшина Нина](#pakshina) *писатель*{: .tag.prof} *безопасность*{: .tag.spec} *интернет вещей*{: .tag.spec} *промышленные системы*{: .tag.spec} *автоматизация*{: .tag.spec} *python*{: .tag.language}
+* [Пирогов Алексей](#pirogov) *преподаватель*{: .tag.prof} *haskell*{: .tag.language} *elm*{: .tag.language} *python*{: .tag.language}
+* [Северин Анатолий](#severin) *десктоп*{: .tag.spec} *c#*{: .tag.language}
+* [Сыровецкий Юрий](#syrovetskiy) *crdt*{: .tag.spec} *haskell*{: .tag.language}
+* [Шевченко Марк](#shevchenko) *писатель*{: .tag.prof} *ооп*{: .tag.spec} *backend*{: .tag.spec} *c#*{: .tag.language} *f#*{: .tag.language}
 
 
 ### [Агибалов Евгений](#agibalov)
@@ -77,6 +77,17 @@ excerpt: Докладчики, их доклады, слайды и видео.
 * Публичные выступления. [Видео](https://youtu.be/IEcxTJ_gja8){: .youtube}
 * Встраиваемые системы. [Статья](https://habr.com/post/358340/){: .hyperlink}
 * Новый контроллер CPM723. Особенности среды программирования CODESYS V3. [Видео](https://youtu.be/9rdh4dBSRzc){: .youtube}
+
+#### Статьи
+
+* Программная реализация TCP и UDP сокетов [Статья](http://ninucium.ru/portfolio/downloads/sockets.pdf){: .pdf}
+* Миграция проектов между разными версиями софта [Статья](http://ninucium.ru/portfolio/downloads/migration.pdf){: .pdf}
+* OWASP ТОП-10 уязвимостей IoT-устройств [Статья](https://habr.com/ru/company/jetinfosystems/blog/469799/){: .hyperlink}
+* Комментарий в Российскую газету по безопасности умного дома [Статья](https://rg.ru/2019/10/27/ekspert-predupredil-o-slabyh-mestah-sistemy-umnyj-dom.html){: .hyperlink}
+* Объектно-ориентированное программирование в стандарте МЭК 61131-3 [Статья](http://ninucium.ru/portfolio/downloads/OOP_IEC.pdf){: .pdf}
+* Встраиваемые компьютеры на базе российских микропроцессоров [Статья](http://ninucium.ru/portfolio/downloads/baikal.pdf){: .pdf}
+* Российское производство встраиваемых систем [Статья](https://habr.com/ru/post/358340/){: .hyperlink}
+* Интерфейс будущего — системы дополненной реальности [Статья](http://ninucium.ru/portfolio/downloads/AR.pdf){: .pdf}
 
 
 ### [Пирогов Алексей](#pirogov)
@@ -144,3 +155,13 @@ excerpt: Докладчики, их доклады, слайды и видео.
 * Стартапы: мифы и реальность. [Видео](https://youtu.be/syNNWFJvsz8){: .youtube} [Слайды](http://markshevchenko.pro/download/startups-myths-and-reality.pdf){: .pdf}
 * Командообразование. [Видео](https://youtu.be/1WcjGH1uERw){: .youtube} [Слайды](http://markshevchenko.pro/presentations/team-building/){: .hyperlink}
 * Микросервисы в Azure. [Слайды](https://docs.google.com/document/d/1SEoK-1oiEI4wмNmw3uWBMUxSjMh6VxnQ7v-zfngbRCi8/){: .googledrive}
+
+#### Статьи
+
+* Логгирование [Статья](http://markshevchenko.pro/2017/09/28/logging/){: .hyperlink}
+* Теория индексов [Статья](http://markshevchenko.pro/articles/index-theory/){: .hyperlink}
+* Фильтрация треков GPS на F# [Статья](http://markshevchenko.pro/articles/fsharp-gps-tracks-filtration/){: .hyperlink}
+* Языки программирования [Статья](http://markshevchenko.pro/articles/program-languages/){: .hyperlink}
+* GitHub Pages, инструкция для начинающих [Статья](http://markshevchenko.pro/articles/github-pages/){: .hyperlink}
+* Сборник занимательных задач по языку программирования C [Статья](http://markshevchenko.pro/articles/c-book-of-problems/){: .hyperlink}
+* Сленг и фольклор программистов КАМАЗА [Статья](http://markshevchenko.pro/articles/slang/){: .hyperlink}
