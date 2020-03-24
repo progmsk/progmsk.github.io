@@ -20,14 +20,26 @@ excerpt: "Три доклада о преподавании и подготов�
 
 [Слайды](/downloads/exchange-of-experience-in-programming.pdf)
 
+<p class="video">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/-iXgsczlBCI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
 ### Учимся делать доклады
 
 Марк Шевченко отвечает в клубе программистов за доклады. Он работает с докладчиками, помогает выстроить структуру повествования, слушает черновые варианты. Марк рассказал, как обычному программисту подготовить хороший технический доклад.
 
 [Слайды](/downloads/learning-to-make-presentations.pdf)
 
+<p class="video">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/pCDayzMvdmo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
 ### Проклятие знаний
 
 Нина Пакшина рассказала о само-мотивации преподавателей, о трудностях в их работе и о том, как эти трудности преодолевать. Нина занимается разработкой внутренних курсов, у неё за плечами большой опыт преподавания. Кроме того, она активно выступает в качестве докладчика.
 
 [Слайды](/downloads/curse-of-knowledge.pdf)
+
+<p class="video">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/xvLXHo58CSg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
