@@ -24,6 +24,10 @@ excerpt: "Доклады про PHP, паттерны, микросервисы,
 
 [Презентация](/downloads/laravel-php-patterns.pdf) доклада в формате PDF.
 
+<p class="video">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/fLYPWFfpvfA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
 ### Система контроля доступа пользователей в микросервисной архитектуре
 
 Ольга Николаева  — сотрудница tutu.ru — сделала доклад о проекте casbin. Casbin помогает в ограничении прав доступа в микросервисной среде. Он написан на Go, хорошо масштабируется и быстро развивается сообществом.
@@ -31,6 +35,10 @@ excerpt: "Доклады про PHP, паттерны, микросервисы,
 Ольга рассказала о трудностях, которые возникают у программистов при авторизации в микросервисах и о причинах, побудивших команду обратить внимание на casbin. Особой изюминкой доклада можно считать рассказ о проблемах, возникавших при внедрении casbin, и о том, как разработчики с ними справились.
 
 [Презентация](/downloads/casbin.pdf) доклада в формате PDF.
+
+<p class="video">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Z5dUxH4PqYM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 ### Airwatch
 
@@ -47,6 +55,10 @@ excerpt: "Доклады про PHP, паттерны, микросервисы,
 [Слайды](https://airwatch.andmed.org/airwatch/pub/presentation/)
 
 [Программа Airwatch в Apple Store](https://apps.apple.com/app/id1458144886)
+
+<p class="video">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/FZGeuGaUOQc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 ### Фото
 
