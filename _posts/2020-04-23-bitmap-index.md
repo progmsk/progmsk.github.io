@@ -12,8 +12,7 @@ excerpt: "Ускоряем поиск."
 
 Немного о нашем митапе. Ситуация с изоляцией для всех новая, поэтому мы экспериментируем с форматом. На онлайн-встрече Дмитрий Некрасов рассказал о битмап индексах и показал реализацию на C#. После доклада мы поговорили на общие темы.
 
-
-Слайды скоро!
+[Слайды](/downloads/bitmap-index.pdf)
 
 <p class="video">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/eg1jVNLPW3s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
