@@ -246,7 +246,7 @@ h4 > a:visited {
 .pages {
     text-align: center;
     clear: both;
-    margin: 2em 0 0 0;
+    margin: 2em 0;
 }
 
 .pages > ul {

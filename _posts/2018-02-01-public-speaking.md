@@ -23,4 +23,4 @@ excerpt: Чем иногда занимаются программисты-эк�
 
 * [Модульное тестирование Entity Framework, как создавать заглушки (англ.)](https://msdn.microsoft.com/en-us/library/dn314429.aspx)
 
-* [Сборник занимательных задач по Си](http://markshevchenko.pro/articles/c-book-of-problems/)
+* [Сборник занимательных задач по Си](https://markshevchenko.pro/articles/c-book-of-problems/)

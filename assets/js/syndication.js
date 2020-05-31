@@ -1,6 +1,6 @@
 $(function() {
     var blogUris = [
-        'http://markshevchenko.pro/feed.xml',
+        'https://markshevchenko.pro/feed.xml',
         'https://xenidev.github.io/feed.xml',
         'https://sobolevn.me/feed.xml',
     ];

@@ -144,24 +144,24 @@ excerpt: Докладчики, их доклады, слайды и видео.
 ![Шевченко Марк](/assets/img/speakers/shevchenko.jpg){: .small-right-figure}
 *Организатор встреч*
 
-[markshevchenko.pro](http://markshevchenko.pro/){: .website}
+[markshevchenko.pro](https://markshevchenko.pro/){: .website}
 
 [@markshevchenko](tg://resolve?domain=markshevchenko){: .telegram}
 
 * DDD: трудно понять, легко поломать, невозможно внедрить. [Видео](https://youtu.be/WwRXloRVh74){: .youtube} [Слайды](https://docs.google.com/presentation/d/1pwVS3CHFA7V5AqSmOrZACf9gKHFkdXtGH6ZH70V516k/){: .googledrive}
 * Микросервисы на C#, Tver.IO 2019. [Видео](https://youtu.be/HHQbRDX7g8k){: .youtube} [Слайды](https://docs.google.com/presentation/d/1fNFMNp4IjvzSWIBPAqTw_8bqRTibzNFuT7w9cv5OBM8/){: .googledrive}
-* Сглаживание треков GPS на F#. [Видео](https://youtu.be/BDVCNNs02b8){: .youtube} [Статья](http://markshevchenko.pro/articles/fsharp-gps-tracks-filtration/){: .hyperlink} 
+* Сглаживание треков GPS на F#. [Видео](https://youtu.be/BDVCNNs02b8){: .youtube} [Статья](https://markshevchenko.pro/articles/fsharp-gps-tracks-filtration/){: .hyperlink} 
 * IT-сообщество своими руками, TechTrain 2019. [Видео](https://youtu.be/igV9dcVuwqo){: .youtube}
-* Стартапы: мифы и реальность. [Видео](https://youtu.be/syNNWFJvsz8){: .youtube} [Слайды](http://markshevchenko.pro/download/startups-myths-and-reality.pdf){: .pdf}
-* Командообразование. [Видео](https://youtu.be/1WcjGH1uERw){: .youtube} [Слайды](http://markshevchenko.pro/presentations/team-building/){: .hyperlink}
+* Стартапы: мифы и реальность. [Видео](https://youtu.be/syNNWFJvsz8){: .youtube} [Слайды](https://markshevchenko.pro/download/startups-myths-and-reality.pdf){: .pdf}
+* Командообразование. [Видео](https://youtu.be/1WcjGH1uERw){: .youtube} [Слайды](https://markshevchenko.pro/presentations/team-building/){: .hyperlink}
 * Микросервисы в Azure. [Слайды](https://docs.google.com/document/d/1SEoK-1oiEI4wмNmw3uWBMUxSjMh6VxnQ7v-zfngbRCi8/){: .googledrive}
 
 #### Статьи
 
-* Логгирование [Статья](http://markshevchenko.pro/2017/09/28/logging/){: .hyperlink}
-* Теория индексов [Статья](http://markshevchenko.pro/articles/index-theory/){: .hyperlink}
-* Фильтрация треков GPS на F# [Статья](http://markshevchenko.pro/articles/fsharp-gps-tracks-filtration/){: .hyperlink}
-* Языки программирования [Статья](http://markshevchenko.pro/articles/program-languages/){: .hyperlink}
-* GitHub Pages, инструкция для начинающих [Статья](http://markshevchenko.pro/articles/github-pages/){: .hyperlink}
-* Сборник занимательных задач по языку программирования C [Статья](http://markshevchenko.pro/articles/c-book-of-problems/){: .hyperlink}
-* Сленг и фольклор программистов КАМАЗА [Статья](http://markshevchenko.pro/articles/slang/){: .hyperlink}
+* Логгирование [Статья](https://markshevchenko.pro/2017/09/28/logging/){: .hyperlink}
+* Теория индексов [Статья](https://markshevchenko.pro/articles/index-theory/){: .hyperlink}
+* Фильтрация треков GPS на F# [Статья](https://markshevchenko.pro/articles/fsharp-gps-tracks-filtration/){: .hyperlink}
+* Языки программирования [Статья](https://markshevchenko.pro/articles/program-languages/){: .hyperlink}
+* GitHub Pages, инструкция для начинающих [Статья](https://markshevchenko.pro/articles/github-pages/){: .hyperlink}
+* Сборник занимательных задач по языку программирования C [Статья](https://markshevchenko.pro/articles/c-book-of-problems/){: .hyperlink}
+* Сленг и фольклор программистов КАМАЗА [Статья](https://markshevchenko.pro/articles/slang/){: .hyperlink}
