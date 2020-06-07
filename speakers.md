@@ -18,6 +18,7 @@ excerpt: Докладчики, их доклады, слайды и видео.
 * [Пирогов Алексей](#pirogov) *преподаватель*{: .tag.prof} *haskell*{: .tag.language} *elm*{: .tag.language} *python*{: .tag.language}
 * [Северин Анатолий](#severin) *десктоп*{: .tag.spec} *c#*{: .tag.language}
 * [Сыровецкий Юрий](#syrovetskiy) *crdt*{: .tag.spec} *haskell*{: .tag.language}
+* [Толстиков Павел](#tolstikov) *docker*{: .tag.spec} *kubernetes*{: .tag.spec}
 * [Шевченко Марк](#shevchenko) *писатель*{: .tag.prof} *ооп*{: .tag.spec} *backend*{: .tag.spec} *c#*{: .tag.language} *f#*{: .tag.language}
 
 
@@ -137,6 +138,17 @@ excerpt: Докладчики, их доклады, слайды и видео.
 
 * Бесконфликтные реплицированные типы данных (CRDT) [Слайды](https://slides.com/cblpsu/crdt){: .hyperlink}.
 * Функциональное программирование в Лаборатории Касперского. [Слайды](https://box.kaspersky.com/d/40f9231d6dfe4f789d31/files/?p=/%D0%AE%D1%80%D0%B8%D0%B9%20%D0%A1%D1%8B%D1%80%D0%BE%D0%B2%D0%B5%D1%86%D0%BA%D0%B8%D0%B9%20-%20FP_in_KL.pdf){: .pdf}
+
+
+### [Толстиков Павел](#tolstikov)
+{: id="tolstikov"}
+![Толстиков Павел](/assets/img/speakers/tolstikov.jpg){: .small-right-figure}
+*Программист, itkey*
+
+[@ne2pit](tg://resolve?domain=ne2pit){: .telegram}
+
+* Docker. Что нужно знать каждому в 2020 [Видео](https://youtu.be/fXRCQpb0R0g){: .youtube} [Слайды](/downloads/docker-2020.pdf){: .pdf}
+* Kubernetes. Что нужно знать каждому в 2020 [Видео](https://youtu.be/0IfkDIlHRA8){: .youtube} [Слайды](/downloads/kubernetes-2020.pdf){: .pdf}
 
 
 ### [Шевченко Марк](#shevchenko)
