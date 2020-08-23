@@ -19,4 +19,5 @@ excerpt: "Спосоры."
 <br>
 Спасибо, Jetbrains!
 Следите за новостями!
+<br><br>
 ![jetbrains](https://prog.msk.ru/assets/img/sponsors/jetbrains.png)
