@@ -83,15 +83,15 @@ excerpt: "Видеочат с преподавателями МГИМО-Один
 
 ### Контакты
 
-https://finec.mgimo.ru/ — факультет финансовой экономики МГИМО-Одинцово
+[Факультет финансовой экономики МГИМО-Одинцово](https://finec.mgimo.ru/)
 
 Лариса Сергеевна Притчина
-l.pritchina@odin.mgimo.ru
+[l.pritchina@odin.mgimo.ru](mailto:l.pritchina@odin.mgimo.ru)
 
 Евгений Владимирович Погребняк
-e.pogrebnyak@odin.mgimo.ru
+[e.pogrebnyak@odin.mgimo.ru](mailto:e.pogrebnyak@odin.mgimo.ru)
 
-Канал в Telegram, где собираются преподаватели в сфере IT: https://t.me/teach_cs
+[Канал в Telegram](https://t.me/teach_cs), где собираются преподаватели в сфере IT.
 
 <p class="video">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/FviRhcCwDqg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
