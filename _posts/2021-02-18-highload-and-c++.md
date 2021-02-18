@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2021-02-04 19:00:00
+date: 2021-02-18 19:00:00
 title: Highload и C++
 excerpt: "Доклад Давида Медведика."
 image: "https://secure.meetupstatic.com/photos/event/b/f/8/a/highres_494749034.jpeg"
