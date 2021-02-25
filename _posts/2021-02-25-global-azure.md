@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2021-02-12 19:00:00
+date: 2021-02-25 19:00:00
 image: "/assets/img/results/global-azure.png"
 title: "Онлайн-конференция Global Azure"
 excerpt: "Двадцать российских и иностранных спикров расскажут об Azure."
