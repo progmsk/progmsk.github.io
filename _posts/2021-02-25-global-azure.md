@@ -1,12 +1,12 @@
 ---
 layout: post
 date: 2021-02-25 19:00:00
-image: "/assets/img/results/sponsors/global-azure.png"
+image: "/assets/img/sponsors/global-azure.png"
 title: "Онлайн-конференция Global Azure"
 excerpt: "Двадцать российских и иностранных спикров расскажут об Azure."
 ---
 
-![Global Azure](/assets/img/results/sponsors/global-azure.png){: style="float: left; width: 100%; margin-right: 2em; margin-bottom: 2em" }
+![Global Azure](/assets/img/sponsors/global-azure.png){: style="float: left; width: 100%; margin-right: 2em; margin-bottom: 2em" }
 
 Наши друзья из сообщества Global Azure проводят онлайн-конференцию. Приходите слушать и делиться знаниями об облаке Microsoft Azure. Вас ждет 20 сессий российских и иностранных спикеров.
 
