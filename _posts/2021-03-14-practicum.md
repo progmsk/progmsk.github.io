@@ -20,3 +20,11 @@ excerpt: "Программисты собираются для решения з
 ![Практикум по программированию 14 марта 2021 года](/assets/img/results/practicum/2021-03-14_03.jpg){: .large-figure}
 
 ![Практикум по программированию 14 марта 2021 года](/assets/img/results/practicum/2021-03-14_04.jpg){: .large-figure}
+
+![Практикум по программированию 14 марта 2021 года](/assets/img/results/practicum/2021-03-14_05.jpg){: .large-figure}
+
+![Практикум по программированию 14 марта 2021 года](/assets/img/results/practicum/2021-03-14_06.jpg){: .large-figure}
+
+![Практикум по программированию 14 марта 2021 года](/assets/img/results/practicum/2021-03-14_07.jpg){: .large-figure}
+
+![Практикум по программированию 14 марта 2021 года](/assets/img/results/practicum/2021-03-14_08.jpg){: .large-figure}
