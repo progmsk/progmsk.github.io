@@ -28,3 +28,9 @@ excerpt: "Программисты собираются для решения з
 ![Практикум по программированию 14 марта 2021 года](/assets/img/results/practicum/2021-03-14_07.jpg){: .large-figure}
 
 ![Практикум по программированию 14 марта 2021 года](/assets/img/results/practicum/2021-03-14_08.jpg){: .large-figure}
+
+![Практикум по программированию 14 марта 2021 года](/assets/img/results/practicum/2021-03-14_09.jpg){: .large-figure}
+
+![Практикум по программированию 14 марта 2021 года](/assets/img/results/practicum/2021-03-14_10.jpg){: .large-figure}
+
+![Практикум по программированию 14 марта 2021 года](/assets/img/results/practicum/2021-03-14_11.jpg){: .large-figure}
