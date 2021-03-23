@@ -6,7 +6,7 @@ title: "TechTrain 2021"
 excerpt: "IT-фестиваль на удалёнке."
 ---
 
-![Luxoft TechFest](/assets/img/sponsors/techtrain-2021.jpg){: style="float: left; width: 100%; margin-right: 2em; margin-bottom: 2em" }
+![Luxoft TechFest](/assets/img/sponsors/techtrain-2021.png){: style="float: left; width: 100%; margin-right: 2em; margin-bottom: 2em" }
 
 Салют!
 JUG Ru Group в очередной раз проводит [бесплатный IT-фестиваль TechTrain](https://bit.ly/3cakvq7). 27 марта,
