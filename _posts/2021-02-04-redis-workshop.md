@@ -2,7 +2,7 @@
 layout: post
 date: 2021-02-04 19:00:00
 title: Воркшоп по Redis
-excerpt: "Доклад Алексея Колосова."
+excerpt: "Воркшоп Алексея Колосова."
 image: "https://secure.meetupstatic.com/photos/event/e/1/7/c/highres_494517724.jpeg"
 ---
 
