@@ -14,9 +14,9 @@ excerpt: "Доклад об оптимизации функций методом
 
 [Слайды](/downloads/particle-swarm.pdf).
 
-<p class="video">
+<div class="video">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/57YBBIwnkQU" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+</div>
 
 Вторая тема встречи — onboarding. У этого термина нет устоявшегося перевода на русский язык, несмотря на то, что за рубежом он известен с 70-х годов. Onboarding — это организационная социализация, что-то такое, с помощью чего новые сотрудники приобретают нужные знания, навыки и поведение. Программистам, конечно, интересны программистские аспекты. Вики, тесты, документация — что поможет новичку как можно быстрее приступить к самостоятельной работе?
 
@@ -32,6 +32,6 @@ excerpt: "Доклад об оптимизации функций методом
 
 ![Onboarding](https://secure.meetupstatic.com/photos/event/4/9/a/3/highres_489378851.jpeg){: .large-figure}
 
-<p class="video">
+<div class="video">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/3pQ3Spz4MVE" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+</div>

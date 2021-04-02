@@ -12,17 +12,17 @@ excerpt: "Доклад и модерируемая дискуссия."
 
 [Презентация](/downloads/genetic-algorithms.pdf) доклада в формате PDF.
 
-<p class="video">
+<div class="video">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/89Wk0kNnbJQ" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+</div>
 
 ### Технический долг
 
 Продолжаем модерируемую дискуссию о техническом долге. Модератор Николай Сухарев.
 
-<p class="video">
+<div class="video">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/js-y_qscCGw" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+</div>
 
 Флипчартшоты.
 

@@ -10,6 +10,6 @@ excerpt: "Видеочат с Дмитрием Поливаевым."
 
 Дмитрий является автором идеи и формата Mob Retreat, успешно опробованного в Австрии, Германии, Америке и Индии, о котором он и рассказал в данном видео.
 
-<p class="video">
+<div class="video">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/9SWTNsKj0ms" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+</div>

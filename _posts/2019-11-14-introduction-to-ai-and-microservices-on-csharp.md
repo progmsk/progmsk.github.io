@@ -10,9 +10,9 @@ excerpt: "Осень перешла в финальную стадию. Скор
 
 [Презентация доклада про ИИ](/downloads/ai-1.pdf) в формате PDF.
 
-<p class="video">
+<div class="video">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/EopTGygaVC0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+</div>
 
 Второй доклад сделал Марк Шевченко, который последние четыре года пилил микросервисы на C#. Ему регулярно приходиться отвечать на вопрос «почему C#, ведь существуют PHP, Python, JavaScript и Go?» Похоже, пришло время развеять некоторые заблуждения про .NET. Доклад естественным образом разбит на две половины: что такого остолбеняющего есть в C# и преимущества монолита, по которым мы скучаем.
 
@@ -20,6 +20,6 @@ excerpt: "Осень перешла в финальную стадию. Скор
 
 Марк готовил этот доклад для дружественного тверского сообщества [Tver.io](http://tver.io/). Видео — оттуда.
 
-<p class="video">
+<div class="video">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/HHQbRDX7g8k" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+</div>

@@ -10,6 +10,6 @@ excerpt: "Будучи в целом людьми рациональными, п
 
 Вторую половину встречи мы посвятили компьютерной литературе. Кто как часто читает, бумага или планшет, книга или статья.
 
-<p class="video">
+<div class="video">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/UT0IGKLb7Kw" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+</div>

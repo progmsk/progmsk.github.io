@@ -20,6 +20,6 @@ image: "https://secure.meetupstatic.com/photos/event/b/f/8/a/highres_494749034.j
 
 [Слайды](/downloads/highload-and-c++.pdf)
 
-<p class="video">
+<div class="video">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/fURpxrzjxxs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+</div>

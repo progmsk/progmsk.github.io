@@ -23,6 +23,6 @@ excerpt: "Семинар Дмитрия Поливаева."
 * https://gist.github.com/dpolivaev/2f3f72e915f28b8bbcb460c6fc2df605<br />
   описание задачи на русском языке.
 
-<p class="video">
+<div class="video">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/DFbnykItaAE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+</div>
