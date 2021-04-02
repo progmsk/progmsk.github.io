@@ -18,9 +18,12 @@ image: "https://secure.meetupstatic.com/photos/event/b/f/4/c/highres_495288972.j
 
 Java и LISP в одном флаконе. Какая гремучая смесь у нас получится?
 
-Об этом нам расскажет Сергей Ткаченко в своём воркшопе по Clojure. Сергей программирует на нём уже несколько лет. Он занимался и бэкендом, и фронтендом, не боится простых рабочих лошадок, таких как JavaScript, ему есть, с чем сравнивать.
+Об этом нам рассказал Сергей Ткаченко в своём воркшопе по Clojure. Сергей программирует на нём уже несколько лет. Он занимался и бэкендом, и фронтендом, не боится простых рабочих лошадок, таких как JavaScript, ему есть, с чем сравнивать.
 
-За час-полтора мы попробуем почувствовать вкус языка, и разобраться в его сильных сторонах.
+Два часа вместе с Clojure.
+
+[Слайды](/downloads/clojure-workshop.pdf)
+
 <div class="video">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/OTIUvpyFAAc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
