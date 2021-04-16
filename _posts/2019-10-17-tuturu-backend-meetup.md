@@ -24,9 +24,9 @@ excerpt: "Доклады про PHP, паттерны, микросервисы,
 
 [Презентация](/downloads/laravel-php-patterns.pdf) доклада в формате PDF.
 
-<p class="video">
+<div class="video">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/fLYPWFfpvfA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+</div>
 
 ### Система контроля доступа пользователей в микросервисной архитектуре
 
@@ -36,9 +36,9 @@ excerpt: "Доклады про PHP, паттерны, микросервисы,
 
 [Презентация](/downloads/casbin.pdf) доклада в формате PDF.
 
-<p class="video">
+<div class="video">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/Z5dUxH4PqYM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+</div>
 
 ### Airwatch
 
@@ -56,9 +56,9 @@ excerpt: "Доклады про PHP, паттерны, микросервисы,
 
 [Программа Airwatch в Apple Store](https://apps.apple.com/app/id1458144886)
 
-<p class="video">
+<div class="video">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/FZGeuGaUOQc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+</div>
 
 ### Фото
 

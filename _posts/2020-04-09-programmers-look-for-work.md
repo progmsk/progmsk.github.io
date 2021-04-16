@@ -18,6 +18,6 @@ excerpt: "Эйчары и рекрутеры рассказывают, как н
 
 [Чат](/downloads/programmers-look-for-work.txt)
 
-<p class="video">
+<div class="video">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/fxD2k_jFPIk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+</div>

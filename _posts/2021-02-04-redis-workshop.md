@@ -2,7 +2,7 @@
 layout: post
 date: 2021-02-04 19:00:00
 title: Воркшоп по Redis
-excerpt: "Доклад Алексея Колосова."
+excerpt: "Воркшоп Алексея Колосова."
 image: "https://secure.meetupstatic.com/photos/event/e/1/7/c/highres_494517724.jpeg"
 ---
 
@@ -19,6 +19,6 @@ Redis активно применяют при разработке бэкенд
 На воркшопе нас ждёт быстро введение: что такое Redis, как установить и настроить, какие базовые задачи он решает?
 Алексей также рассказал о продвинутых возможностях Redis, таких как pub-sub, кластерах, LUA-скриптах и работе с гео-данными.
 
-<p class="video">
+<div class="video">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/-E_HHXysZ1w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+</div>

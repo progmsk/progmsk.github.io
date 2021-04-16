@@ -14,6 +14,6 @@ excerpt: "Ускоряем поиск."
 
 [Слайды](/downloads/bitmap-index.pdf)
 
-<p class="video">
+<div class="video">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/eg1jVNLPW3s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+</div>

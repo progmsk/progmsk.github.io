@@ -10,9 +10,9 @@ excerpt: "Доклады о практике программистского п
 
 Григорий Петров прочитал доклад о проблемах планирования и о том, как с этими проблемами справляться.
 
-<p class="video">
+<div class="video">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/QAynqIYmdFA" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+</div>
 
 ![Планирование для параноика](https://secure.meetupstatic.com/photos/event/a/f/4/8/highres_485024872.jpeg){: .large-figure}
 ![Планирование для параноика](https://secure.meetupstatic.com/photos/event/a/f/a/7/highres_485024967.jpeg){: .large-figure}
@@ -24,9 +24,9 @@ excerpt: "Доклады о практике программистского п
 
 Презентация доклада в формате PDF доступна [здесь](/downloads/advanced-git.pdf)
 
-<p class="video">
+<div class="video">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/GrPkMhZ_C9w" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+</div>
 
 ![Интересный git](https://secure.meetupstatic.com/photos/event/b/6/d/0/highres_485026800.jpeg){: .large-figure}
 ![Интересный git](https://secure.meetupstatic.com/photos/event/b/7/b/a/highres_485027034.jpeg){: .large-figure}

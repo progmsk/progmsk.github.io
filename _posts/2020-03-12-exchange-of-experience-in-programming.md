@@ -20,9 +20,9 @@ excerpt: "Три доклада о преподавании и подготов�
 
 [Слайды](/downloads/exchange-of-experience-in-programming.pdf)
 
-<p class="video">
+<div class="video">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/-iXgsczlBCI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+</div>
 
 ### Учимся делать доклады
 
@@ -30,9 +30,9 @@ excerpt: "Три доклада о преподавании и подготов�
 
 [Слайды](/downloads/learning-to-make-presentations.pdf)
 
-<p class="video">
+<div class="video">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/pCDayzMvdmo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+</div>
 
 ### Проклятие знаний
 
@@ -40,6 +40,6 @@ excerpt: "Три доклада о преподавании и подготов�
 
 [Слайды](/downloads/curse-of-knowledge.pdf)
 
-<p class="video">
+<div class="video">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/xvLXHo58CSg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+</div>

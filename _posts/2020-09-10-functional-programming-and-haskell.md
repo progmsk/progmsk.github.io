@@ -7,9 +7,9 @@ excerpt: "Видеочат с Алексеем Пироговым."
 
 Зачем изучать функциональное программирование? С чего начинать? Как изучать Haskell?
 
-<p class="video">
+<div class="video">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/ZPL3a4ASUMY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+</div>
 
 ### Книги из видеочата
 

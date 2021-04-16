@@ -20,6 +20,6 @@ image: "https://secure.meetupstatic.com/photos/event/c/a/1/8/highres_494751736.j
 
 [Слайды](/downloads/fast-web-services.pdf)
 
-<p class="video">
+<div class="video">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/AMh8tR730q0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+</div>

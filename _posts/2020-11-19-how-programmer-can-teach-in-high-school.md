@@ -93,6 +93,6 @@ excerpt: "Видеочат с преподавателями МГИМО-Один
 
 [Канал в Telegram](https://t.me/teach_cs), где собираются преподаватели в сфере IT.
 
-<p class="video">
+<div class="video">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/FviRhcCwDqg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+</div>

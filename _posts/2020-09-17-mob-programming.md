@@ -14,6 +14,6 @@ excerpt: "Семинар Дмитрия Поливаева."
 
 TDD и Mob Programming просты и понятны в описании, но их неожиданно трудно освоить самостоятельно. Хорошо, что мы живём в XXI века и имеем возможность встречаться и осваивать методологии онлайн.
 
-<p class="video">
+<div class="video">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/eLEK0uLBLHc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+</div>
