@@ -11,6 +11,12 @@ excerpt: "Программисты задают и обсуждают вопро
 
 Этим мы и занялись на этой встрече. Среди ведущих есть «интервьюеры» и «соискатели». Мы задаём и обсуждаем реальные вопросы по C# и SQL.
 
+### Ссылки из чата
+
+* https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/ — супертолковая серия статей про архитектуру.
+* https://sql-ex.ru/ — здесь можно потренироваться с SQL.
+* https://ocramius.github.io/blog/doctrine-orm-optimization-hydration/ — описание _гидратации объектов_, одного из способов справиться с проблемой N + 1.
+
 <div class="video">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/NqGFR6cLrW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
