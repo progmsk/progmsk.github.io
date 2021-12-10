@@ -28,10 +28,11 @@ image: "https://secure.meetupstatic.com/photos/event/2/5/7/e/clean_500589598.jpe
 
 Спикер: Юрий Сыровецкий, разработчик на Haskell в Input Output Global.
 
-Модератор: Марк Шевченко — организатор встреч Московского клуба программистов.
+[Слайды](/downloads/why-functional-programming/index.html).
 
 ## Видео
 
 <div class="video">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/rSKzxQ_7mv4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
