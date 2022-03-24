@@ -1,0 +1,341 @@
+<!doctype html>
+<html>
+    <head>
+
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+        <title>reveal.js</title>
+
+        <link rel="stylesheet" href="dist/reset.css">
+        <link rel="stylesheet" href="dist/reveal.css">
+        <link rel="stylesheet" href="dist/theme/simple.css">
+
+        <!-- Theme used for syntax highlighted code -->
+        <link rel="stylesheet" href="plugin/highlight/monokai.css">
+
+    </head>
+    <body>
+        <div class="reveal">
+            <div class="slides">
+
+                <section>
+                    <h2>Зачем ФП обычному программисту?</h2>
+                    <p>Юрий Сыровецкий</p>
+                </section>
+
+                <section>
+                    <h3>Обо мне</h3>
+                    <ul>
+                        <li>Яндекс.Директ (Python + C++)</li>
+                        <li>Яндекс.Диск (Java)</li>
+                        <li>KasperskyOS (Haskell + C)</li>
+                        <li>IO Global, Cardano (Haskell)</li>
+                        <li>ВШЭ (Haskell)</li>
+                    </ul>
+                </section>
+
+                <section>
+                    <h3>О чём этот доклад</h3>
+                    <ul>
+                        <li>Почему ФП такое сложное?</li>
+                        <li>Почему в популярные ЯП тащат фичи из ФП языков?</li>
+                    </ul>
+                </section>
+
+                <section>
+                    <h3>История</h3>
+                    <ul>
+                        <li>1936 — машина Тьюринга, &lambda;-исчисление</li>
+                        <li>1958 — ALGOL</li>
+                        <li>
+                            1958 — LISP
+                            <ul>
+                                <li>сборка мусора</li>
+                                <li>лямбда-абстракция</li>
+                                <li>функции высших порядков</li>
+                                <li>неи	зменяемые данные</li>
+                                <li>операции над списками</li>
+                            </ul>
+                        </li>
+                        <li>C, Oberon, Pascal...</li>
+                        <li>ISWIM, Hope, ML, Miranda...</li>
+                        <li>Java, Go, Rust...</li>
+                        <li>Haskell, Scala, F#...</li>
+                    </ul>
+                </section>
+
+                <section>
+                    <h3><s>ФП непонятно</s></h3>
+                    <pre style="width: 80%;"><code class="haskell" data-line-numbers data-noescape data-trim>
+                        type Respond = Response -> IO()
+                        type Application = Request -> Respond -> IO()
+
+                        myBaseApp(request)(respond) = do
+                            foo(request)
+                            if bar(request) then
+                                respond(baz)
+                            else do
+                                respond(qux_part1)
+                                respond(qux_part2)
+
+                        type Middleware = Application -> Application
+
+                        myApp = authenticator(logger(myBaseApp))
+
+                        main = runServer(80, myApp)
+                    </code></pre>
+                </section>
+
+                <section>
+                    <h2><s>ФП надо долго изучать</s></h2>
+                </section>
+
+                <section>
+                    <h1>Вы уже знаете ФП!</h1>
+                </section>
+
+                <section>
+                    <h3>Лямбда-абстракция</h3>
+                    <pre style="width: 90%;"><code class="javascript" data-line-numbers data-noescape data-trim>
+                        const words = [
+                            'spray', 'limit', 'elite', 'exuberant',
+                            'destruction', 'present'
+                        ];
+
+                        const result = words.filter(word => word.length > 6);
+
+                        console.log(result);
+                        // expected output:
+                        // Array ["exuberant", "destruction", "present"]
+                    </code></pre>
+                </section>
+
+                <section>
+                    <h3>Лямбда-абстракция = блок кода</h3>
+                    <pre style="width: 50%;"><code class="java" data-line-numbers data-noescape data-trim>
+                        db.withTransaction(tx -> {
+                            tx.select(...);
+                            tx.update(...);
+                        });
+                    </code></pre>
+                </section>
+
+                <section>
+                    <h3>Неизменяемость&nbsp;—<br> фокус на&nbsp;данных</h3>
+                    <ul>
+                        <li><code>const, constexpr, final, let, val</code></li>
+                        <li>LINQ</li>
+                        <li>потоки и генераторы</li>
+                        <li>FRP</li>
+                        <li>Kafka</li>
+                        <li>event sourcing</li>
+                    </ul>
+                </section>
+
+                <section>
+                    <h3>List comprehension</h3>
+                    <pre style="width: 90%;"><code class="python" data-line-numbers data-noescape data-trim>
+                        fruits = ["apple", "banana", "cherry", "kiwi", "mango"]
+
+                        newlist = [x for x in fruits if "a" in x]
+                    </code></pre>
+                    <small>(SETL, 1969)</small>
+                </section>
+
+                <section>
+                    <h3>Уже (почти) здесь: тип-сумма — TypeScript, Rust</h3>
+                    <pre style="width: 80%;"><code class="rust" data-line-numbers data-noescape data-trim>
+                        enum WebEvent {
+                            PageLoad,
+                            KeyPress(char),
+                            Click { x: i64, y: i64 },
+                        }
+
+                        match event {
+                            PageLoad => println!("page loaded"),
+                            KeyPress(c) => println!("pressed '{}'.", c),
+                            Click { x, y } => {
+                                println!("clicked at x={}, y={}.", x, y);
+                            },
+                        }
+                    </code></pre>
+                </section>
+
+                <section>
+                    <h3>Уже (почти) здесь: свои макросы&nbsp;— Lisp, Haskell, Rust, C++</h3>
+                    <pre style="width: 60%;"><code class="cxx" data-line-numbers data-noescape data-trim>
+                        struct Person {
+                            string name;
+                            int age;
+                        };
+
+                        struct Person {
+                            BOOST_HANA_DEFINE_STRUCT(Person,
+                                (string, name),
+                                (int, age)
+                            );
+                        };
+                    </code></pre>
+                    <ul>
+                        <li>неудобный внешний язык</li>
+                        <li>ничего нельзя</li>
+                    </ul>
+                </section>
+
+                <section>
+                    <h3>Изнанка</h3>
+                    <pre style="width: 80%;"><code class="" data-line-numbers data-noescape data-trim>
+                        #define BOOST_HANA_PP_CONCAT(x, y) \
+                            BOOST_HANA_PP_CONCAT_PRIMITIVE(x, y)
+
+                        #define BOOST_HANA_PP_CONCAT_PRIMITIVE(x, y) \
+                            x ## y
+                    </code></pre>
+                </section>
+
+                <section>
+                    <h3>Ещё про макросы</h3>
+                    <pre style="width: 70%;"><code class="rust" data-line-numbers data-noescape data-trim>
+                        println!(
+                            "{0}, this is {1}. {1}, this is {0}",
+                            "Alice",
+                            "Bob"
+                        );
+                    </code></pre>
+                    парсинг и специализация во время компиляции
+                </section>
+
+                <section>
+                    <h3>Будущее</h3>
+                    <ul>
+                        <li>Зависимые типы</li>
+                        <li>Линейные типы</li>
+                    </ul>
+                </section>
+
+                <section>
+                    <h3><s>Не найти работу</s></h3>
+                    <ul>
+                        <li>
+                            увы, на hh.ru
+                            <ul>
+                                <li>Java — 5&thinsp;146 вакансий</li>
+                                <li>Haskell — 19 вакансий</li>
+                            </ul>
+                        </li>
+                        <li>
+                            но
+                            <ul>
+                                <li>
+                                    хорошие специалисты всегда везде нужны,
+                                    мидл легко найдёт несколько вариантов
+                                </li>
+                                <li>есть работы на стыке ФП + ИП</li>
+                                <li>c Хаскелем ценность выше даже в Java</li>
+                            </ul>
+                        </li>
+                    </ul>
+                </section>
+
+                <section>
+                    <h3>Зачем так много языков?</h3>
+                    <table width="100%">
+                        <tr>
+                            <td style="padding: 10pt;">
+                                <pre style="margin: 0; width: 100%;"><code class="java" data-noescape data-trim>
+                                    // Java
+
+                                    Predicate&lt;User> activeUserPredicate =
+                                      new Predicate&lt;User>() {
+                                        @Override
+                                        public boolean apply(User user) {
+                                          return user.isActive();
+                                        }
+                                      };
+                                </code></pre>
+                            </td>
+                            <td style="padding: 10pt;">
+                                <pre style="margin: 0; width: 100%;"><code class="scala" data-noescape data-trim>
+                                  // Scala
+
+                                  _.isActive
+                                </code></pre>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 10pt;">
+                                <pre style="margin: 0; width: 100%;"><code class="java" data-noescape data-trim>
+                                    // Go
+
+                                    result, err := DoSomething()
+                                    if err != nil {
+                                        return nil, err
+                                    }
+                                    another, err := SomethingElse(result)
+                                    if err != nil {
+                                        return nil, err
+                                    }
+                                </code></pre>
+                            </td>
+                            <td style="padding: 10pt;">
+                                <pre style="margin: 0; width: 100%;"><code class="scala" data-noescape data-trim>
+                                    // Haskell
+
+                                    result <- doSomething()
+                                    another <- somethingElse(result)
+                                </code></pre>
+                            </td>
+                        </tr>
+                    </table>
+                </section>
+
+                <section>
+                    <h3>Выводы</h3>
+                    <ul>
+                        <li>ФП совместимо с ИП</li>
+                        <li>ФП совместимо с ООП (F#, OCaml, Scala)</li>
+                        <li>ФП&nbsp;— не&nbsp;ограничения, а&nbsp;возможности</li>
+                    </ul>
+                </section>
+
+                <section>
+                    <h3>Что дальше?</h3>
+                    <ul>
+                        <li>
+                            ru.wikipedia.org/wiki/{
+                            <div style="margin-left: 2em;">
+                                Haskell,<br>
+                                F_Sharp,<br>
+                                Scala
+                            </div>
+                            }
+                        </li>
+                        <li>ruhaskell.org/links</li>
+                    </ul>
+                </section>
+
+            </div>
+        </div>
+
+        <script src="dist/reveal.js"></script>
+        <script src="plugin/notes/notes.js"></script>
+        <script src="plugin/markdown/markdown.js"></script>
+        <script src="plugin/highlight/highlight.js"></script>
+
+        <script>
+            // More info about initialization & config:
+            // - https://revealjs.com/initialization/
+            // - https://revealjs.com/config/
+            Reveal.initialize({
+                hash: true,
+                plugins: [RevealMarkdown, RevealHighlight, RevealNotes],
+                slideNumber: true,
+                transition: 'none',
+                width: 900,
+                height: 900,
+            });
+        </script>
+
+    </body>
+</html>
