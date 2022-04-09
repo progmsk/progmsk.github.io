@@ -18,6 +18,17 @@ image: "/assets/img/banners/2022-04-08-nonit-it-scrum-mastering.png"
 
 Наш первый гость — скрам-мастер Светлана Кривенко. Она работала в айти на самых разных должностях, в том числе и программисткой. В конце концов, Светлана решила, что работать с людьми интереснее и сложнее, чем с компьютерами, так что сегодня её основная деятельность — настройка процессов в командах. А ещё Свете нравится обучать программистов важным, но секретным техникам, таким как разработка через тестирование.
 
+## Книги
+
+Книги, которые могут пригодиться начинающему скрам-мастеру:
+
+* Стивен Деннинг [«Эпоха Agile: Как умные компании меняются и достигают результатов»](https://www.mann-ivanov-ferber.ru/books/epoha-agile/)
+* Джефф Сазерленд ["SCRUM. Революционный метод управления проектами"](https://www.mann-ivanov-ferber.ru/books/scrum/)
+* Сэм Кейнер ["Руководство фасилитатора. Как привести группу к принятию совместного решения"](https://www.ozon.ru/product/rukovodstvo-fasilitatora-kak-privesti-gruppu-k-prinyatiyu-sovmestnogo-resheniya-145713469/)
+* Эстер Дерби, Диана Ларсен ["Agile ретроспектива. Как превратить хорошую команду в великую"](https://www.ozon.ru/product/agile-retrospektiva-kak-prevratit-horoshuyu-komandu-v-velikuyu-139141848/)
+* Зузи Шорохова ["Путь Скрам-Мастера"](https://www.mann-ivanov-ferber.ru/books/put-skram-mastera/)
+* Максим Ильяхов, Людмила Сарычева ["Пиши, сокращай"](https://alpinabook.ru/catalog/book-pishi-sokrashchay/)
+
 ## Видео
 
 <div class="video">
