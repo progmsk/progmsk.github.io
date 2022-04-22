@@ -11,7 +11,7 @@ markdown: kramdown
 input: GFM
 logo_location: "/assets/logo.jpeg"
 
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-feed
   - jekyll-sitemap
