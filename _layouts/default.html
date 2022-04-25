@@ -7,7 +7,7 @@
     <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
     <meta name="yandex-verification" content="782d995c127ba2df" />
     {% if page.image %}
-    <meta property="og:image" content="{{ page.image }}" />
+    <meta property="og:image" content="{{ page.image | prepend: site.baseurl }}" />
     {% endif %}
     <title>{% if page.title %}{{ page.title | escape }}{% else %}}{{ site.title | escape }}{% endif %}</title>
     {% if jekyll.environment == 'production' %}
