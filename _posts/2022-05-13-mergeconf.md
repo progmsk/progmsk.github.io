@@ -1,9 +1,12 @@
 ---
 layout: post
 date: 2022-05-13 19:00:00
+image: "/assets/img/sponsors/summermerge-2022.jpg"
 title: "IT конференция Summer Merge под Ульяновском"
 excerpt: "Digital Detox для тех, кто в IT."
 ---
+
+![Summer Merge](/assets/img/sponsors/summermerge-2022.jpg){: style="float: left; width: 100%; margin-right: 2em; margin-bottom: 2em" }
 
 Московский клуб программистов продолжает сотрудничество с российскими конференциями.
 
