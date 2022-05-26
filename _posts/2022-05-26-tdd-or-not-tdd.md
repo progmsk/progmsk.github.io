@@ -6,6 +6,8 @@ excerpt: "Сакральные знания о Разработке через �
 image: "https://secure.meetupstatic.com/photos/event/7/1/7/4/highres_504209044.jpeg"
 ---
 
+![TDD or not TDD?](https://secure.meetupstatic.com/photos/event/7/1/7/4/highres_504209044.jpeg){: style="float: left; width: 100%; margin-right: 2em; margin-bottom: 2em" }
+
 26 мая в четверг прошла оффлайн встреча нашего клуба на территории [онлайн-магазина Утконос](https://www.utkonos.ru/).
 
 Светлана Кривенко попыталась дать ответ на вечный философский вопрос о Test-driven development (TDD): TDD или не TDD?
