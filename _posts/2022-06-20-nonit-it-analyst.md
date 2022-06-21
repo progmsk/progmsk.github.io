@@ -3,10 +3,10 @@ layout: post
 date: 2022-06-20 19:00:00
 title: "Неайтишные айти: аналитика"
 excerpt: "Обсудили с Алёной Ангилоповой способы войти в айти без изучения программирования."
-image: "/assets/img/banners/2022-01-20-nonit-it-analyst.png"
+image: "/assets/img/banners/2022-06-20-nonit-it-analyst.png"
 ---
 
-![Неайтишные айти: аналитика](/assets/img/banners/2022-01-20-nonit-it-analyst.png){: style="float: left; width: 100%; margin-right: 2em; margin-bottom: 2em" }
+![Неайтишные айти: аналитика](/assets/img/banners/2022-06-20-nonit-it-analyst.png){: style="float: left; width: 100%; margin-right: 2em; margin-bottom: 2em" }
 
 Всем привет. Московский клуб программистов упорно занимается популяризацией программирования. Настолько упорно, что иногда вообще ничего вокруг не замечает. А там — вокруг — между тем, столько прекрасного!
 
