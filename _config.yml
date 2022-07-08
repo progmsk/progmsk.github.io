@@ -1,9 +1,9 @@
 lang: ru-RU
 encoding: utf-8
+timezone: Europe/Moscow
 
 url: https://prog.msk.ru
 title: Московский клуб программистов
-
 
 permalink: pretty
 highlighter: rouge
