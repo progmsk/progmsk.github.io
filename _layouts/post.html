@@ -4,8 +4,5 @@ layout: default
 
 <h2>{{ page.title }}</h2>
 <p class="post-date">{{ page.date | date: "%d.%m.%Y" }}</p>
-{% if page.tags | length %}
-<p class="post-tags">{% for tag in page.tags %}<span class="label label-tag">{{ tag }}</span>{% endfor %}</p>
-{% endif %}
 <p><a href="/results/">Летопись</a> &raquo; {{ page.title | escape }}</p>
 {{ content }}
