@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-04-21 19:00:00
+date: 2022-04-21 09:00:00
 image: "/assets/img/sponsors/saint-teamlead-conf-2022.jpg"
 title: "Saint TeamLead Conf 2022"
 excerpt: "Единственная профессиональная конференция только для тимлидов."
