@@ -145,6 +145,12 @@ a.meetup {
     background-size: auto 100%;
 }
 
+a.vk {
+    padding-left: 1.44em;
+    background: url(../img/icons/vk.svg) no-repeat;
+    background-size: auto 100%;
+}
+
 a.telegram {
     padding-left: 1.44em;
     background: url(../img/icons/telegram.svg) no-repeat;
