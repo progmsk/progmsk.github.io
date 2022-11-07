@@ -3,7 +3,10 @@ layout: post
 date: 2022-11-07 09:00:00
 title: "Hacktoberfest 2022"
 excerpt: "Как мы контрибутили в оперсорс."
+image: "/assets/img/banners/hacktoberfest.png"
 ---
+
+![Hacktoberfest 2022](/assets/img/banners/hacktoberfest.png){: style="float: left; width: 100%; margin-right: 2em; margin-bottom: 2em" }
 
 В октябрее 2022 года клуб программистов участвовал во всемирном хакатоне [Hacktoberfest](https://hacktoberfest.com).
 
