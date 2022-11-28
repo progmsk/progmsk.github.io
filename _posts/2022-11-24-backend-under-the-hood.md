@@ -18,12 +18,6 @@ image: "/assets/img/banners/2022-11-24-backend-under-the-hood.jpg"
 
 Помимо докладов, на митапе были чай, кофе, закуски для голодных программистов и возможность пообщаться с коллегами.
 
-Группа компаний Б1 в VK: https://vk.com/b1_careers
-И в Telegram: https://t.me/b1_careers
-
-Клуб программистов в YouTube: https://youtube.com/c/progmsk
-И в VK: https://vk.com/progmsk
-
 ## Видео
 
 <div class="video">
