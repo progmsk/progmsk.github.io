@@ -15,7 +15,7 @@ excerpt: "Три воркшопа Вячеслава Аксёнова."
 
 ## Исходный код
 
-https://github.com/v-aksenov/reminder-bot-meetup
+[GitHub](https://github.com/v-aksenov/reminder-bot-meetup)
 
 ## Видео
 
