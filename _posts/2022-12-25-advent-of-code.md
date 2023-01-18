@@ -32,3 +32,11 @@ Advent of Code — программистское прочтение запад�
 * [Kirill Shmatov](https://github.com/kshmatov/advent2022)
 * [anton0xf](https://github.com/anton0xf/aoc2022)
 * [Vadim Semenov](https://github.com/vadsemenov/AdventOfCode)
+
+## Видео
+
+Собрались в новом году 19 января, чтобы обсудить свои решения.
+
+<div class="video">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/E12WNSXR15A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
