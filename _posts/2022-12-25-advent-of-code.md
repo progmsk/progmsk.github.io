@@ -3,6 +3,7 @@ layout: post
 date: 2022-12-25 09:00:00
 title: "Advent of Code 2022"
 excerpt: "Приняли участие в международном программистском марафоне."
+image: "/assets/img/banners/2023-01-19-advent-of-code.jpg"
 ---
 
 В декабре в восьмой раз пройдёт месячник безудержного предновогоднего программирования — Advent of Code.
