@@ -1,12 +1,12 @@
 ---
 layout: post
 date: 2021-11-19 09:00:00
-image: "/assets/img/sponsors/magnit-tech++.png"
+image: "/assets/img/banners/2021-11-19-magnit-tech++.png"
 title: "Magnit Tech++"
 excerpt: "Бесплатный онлайн-митап для C++ разработчиков."
 ---
 
-![Magnit Tech++](/assets/img/sponsors/magnit-tech++.png){: style="float: left; width: 100%; margin-right: 2em; margin-bottom: 2em" }
+![Magnit Tech++](/assets/img/banners/2021-11-19-magnit-tech++.png){: style="float: left; width: 100%; margin-right: 2em; margin-bottom: 2em" }
 
 Есть языки программирования, которые метеорами проносятся по IT-небосводу. Они гремят, сверкают и собирают толпы энтузиастов, а через год-другой пропадают, так и не сумев стать полезным инструментом.
 

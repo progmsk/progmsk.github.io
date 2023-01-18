@@ -1,12 +1,12 @@
 ---
 layout: post
 date: 2021-09-13 09:00:00
-image: "/assets/img/sponsors/techtrain-2021-2.jpg"
+image: "/assets/img/banners/2021-09-13-techtrain.jpg"
 title: "TechTrain: онлайн-фестиваль для разработчиков и им сочувствующих"
 excerpt: "TechTrain — однодневный бесплатный онлайн-фестиваль, объединяющий всех, кто связан с индустрией разработки программного обеспечения. Мы собрали для вас доклады про различные технологические стеки и проблемы, с которыми сталкиваются в работе IT-специалисты."
 ---
 
-![TechTrain](/assets/img/sponsors/techtrain-2021-2.jpg){: style="float: left; width: 100%; margin-right: 2em; margin-bottom: 2em" }
+![TechTrain](/assets/img/banners/2021-09-13-techtrain.jpg){: style="float: left; width: 100%; margin-right: 2em; margin-bottom: 2em" }
 
 TechTrain — наши старые друзья. Клуб программистов приезжал на конференцию в 2019 году с докладами и практикумами. В 2020 случилась пандемия и все конференции переехали в онлайн.
 

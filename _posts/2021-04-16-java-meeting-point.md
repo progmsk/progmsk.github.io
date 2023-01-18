@@ -1,12 +1,12 @@
 ---
 layout: post
 date: 2021-04-16 19:00:00
-image: "/assets/img/sponsors/java-meeting-point-2021.jpg"
+image: "/assets/img/banners/2021-04-16-java-meeting-point.jpg"
 title: "JAVA Meeting Point"
 excerpt: "Бесплатная онлайн-конференция от DINS для всех, кто интересуется, программирует и любит Java."
 ---
 
-![JAVA Meeting Point](/assets/img/sponsors/java-meeting-point-2021.jpg){: style="float: left; width: 100%; margin-right: 2em; margin-bottom: 2em" }
+![JAVA Meeting Point](/assets/img/banners/2021-04-16-java-meeting-point.jpg){: style="float: left; width: 100%; margin-right: 2em; margin-bottom: 2em" }
 
 Приглашаем на Java Meeting Point — бесплатную онлайн-конференцию от DINS для всех, кто интересуется, программирует и любит Java!
 

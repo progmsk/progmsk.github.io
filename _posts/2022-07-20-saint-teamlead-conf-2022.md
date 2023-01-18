@@ -1,12 +1,12 @@
 ---
 layout: post
 date: 2022-07-20 09:00:00
-image: "/assets/img/sponsors/saint-teamlead-conf-2022.jpg"
+image: "/assets/img/banners/2022-07-20-saint-teamlead-conf.jpg"
 title: "Saint TeamLead Conf 2022"
 excerpt: "Единственная профессиональная конференция только для тимлидов."
 ---
 
-![Saint TeamLead Conf 2022](/assets/img/sponsors/saint-teamlead-conf-2022.jpg){: style="float: left; width: 100%; margin-right: 2em; margin-bottom: 2em" }
+![Saint TeamLead Conf 2022](/assets/img/banners/2022-07-20-saint-teamlead-conf.jpg){: style="float: left; width: 100%; margin-right: 2em; margin-bottom: 2em" }
 
 Мы в клубе программистов знаем, что один из важных вопросов, который нас мучает — куда расти профессионально? Кто-то безусловно видит себя программистом, потом программистом-программистом и, в конце концов, программистом-программистом-программистом.
 

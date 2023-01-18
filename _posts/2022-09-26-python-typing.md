@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2022-09-26 09:00:00
-image: "/assets/img/sponsors/sobolev.jpg"
+image: "/assets/img/banners/2022-09-26-sobolev.jpg"
 title: "Типизация в Python"
 excerpt: "Курс для тех, кто хочет писать надёжный код."
 ---

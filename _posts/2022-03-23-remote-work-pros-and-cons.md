@@ -3,10 +3,10 @@ layout: post
 date: 2022-03-23 19:00:00
 title: "Удалённая работа: за и против"
 excerpt: "На совместном митапе SkillFactory и Московского клуба программистов мы обсудили опыт удалённой работы."
-image: "/assets/img/sponsors/skillfactory-2022-03-23.jpg"
+image: "/assets/img/banners/2022-03-23-skillfactory.jpg"
 ---
 
-![Удалённая работа: за и против](/assets/img/sponsors/skillfactory-2022-03-23.jpg){: style="float: left; width: 100%; margin-right: 2em; margin-bottom: 2em" }
+![Удалённая работа: за и против](/assets/img/banners/2022-03-23-skillfactory.jpg){: style="float: left; width: 100%; margin-right: 2em; margin-bottom: 2em" }
 
 Предсказывать будущее — неблагодарное занятие, но статистика показывает, что третья волна пандемии неумолимо идёт на спад. Похоже, удалённая работа скоро станет необязательной, а, может быть, даже и нежелательной.
 

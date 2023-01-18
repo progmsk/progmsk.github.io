@@ -1,12 +1,12 @@
 ---
 layout: post
 date: 2021-11-11 16:00:00
-image: "/assets/img/sponsors/videotech2021.png"
+image: "/assets/img/banners/2021-11-11-videotech.png"
 title: "VideoTech"
 excerpt: "Техническая конференция, посвященная вопросам видео и стриминга в интернете."
 ---
 
-![VideoTech](/assets/img/sponsors/videotech2021.png){: style="float: left; width: 100%; margin-right: 2em; margin-bottom: 2em" }
+![VideoTech](/assets/img/banners/2021-11-11-videotech.png){: style="float: left; width: 100%; margin-right: 2em; margin-bottom: 2em" }
 
 Четверть века прошло, как в России появился интернет. Программисты постарше помнят звуки модема и медленный телефонный доступ на скорости — о, чудо! — 14 килобайт в секунду. Мы обменивались текстовыми сообщениями. Большие тексты, как и картинки, надо было упаковывать в архивы. Передать видео было просто нельзя.
 

@@ -3,10 +3,10 @@ layout: post
 date: 2022-11-01 19:00:00
 title: "Моковое cобеседование на Java Junior"
 excerpt: "Совместный проект клуба программистов и компании Solvery."
-image: "/assets/img/sponsors/solvery-2022-11-01.jpg"
+image: "/assets/img/banners/2022-11-01-solvery.jpg"
 ---
 
-![Моковое cобеседование на Java Junior](/assets/img/sponsors/solvery-2022-11-01.jpg){: style="float: left; width: 100%; margin-right: 2em; margin-bottom: 2em" }
+![Моковое cобеседование на Java Junior](/assets/img/banners/2022-11-01-solvery.jpg){: style="float: left; width: 100%; margin-right: 2em; margin-bottom: 2em" }
 
 ## Tech Interview Fest ✊
 

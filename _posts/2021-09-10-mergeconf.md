@@ -1,12 +1,12 @@
 ---
 layout: post
 date: 2021-09-10 09:00:00
-image: "/assets/img/sponsors/mergeconf-2021.jpg"
+image: "/assets/img/banners/2021-09-10-mergeconf.jpg"
 title: "IT конференция Merge в Иннополисе"
 excerpt: "Точка слияния ведущих IT-конференций."
 ---
 
-![Merge](/assets/img/sponsors/mergeconf-2021.jpg){: style="float: left; width: 100%; margin-right: 2em; margin-bottom: 2em" }
+![Merge](/assets/img/banners/2021-09-10-mergeconf.jpg){: style="float: left; width: 100%; margin-right: 2em; margin-bottom: 2em" }
 
 Москвичи привыкли к тому, что вся IT-жизнь течёт в Москве. Время от времени москвичи едут в Санкт-Петербург, признавая за северной столицей серьёзный технический уровень.
 Но, кажется, это всё?

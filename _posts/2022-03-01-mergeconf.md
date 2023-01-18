@@ -1,12 +1,12 @@
 ---
 layout: post
 date: 2022-03-01 09:00:00
-image: "/assets/img/sponsors/mergeconf-2022.jpg"
+image: "/assets/img/banners/2022-03-01-mergeconf.jpg"
 title: "IT конференция Merge в Иннополисе"
 excerpt: "Точка слияния профессиональных IT-конференций."
 ---
 
-![Merge](/assets/img/sponsors/mergeconf-2022.jpg){: style="float: left; width: 100%; margin-right: 2em; margin-bottom: 2em" }
+![Merge](/assets/img/banners/2022-03-01-mergeconf.jpg){: style="float: left; width: 100%; margin-right: 2em; margin-bottom: 2em" }
 
 Московский клуб программистов приглашает своих участников на немосковскую конференцию. Наши соратники из Казани 20-21 мая в Университете Иннополис проведут «Merge». Это IT-событие объединяет представителей различных сфер IT: от тестировщиков и тимлидов до маркетологов и эйчаров. Более 1500 специалистов со всей России встретятся на одной площадке, чтобы обсудить актуальные тренды мира IT и поделиться своими успешными кейсами.
   
