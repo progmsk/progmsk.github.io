@@ -96,3 +96,33 @@ image: "/assets/img/banners/2023-01-18-coderetreat.png"
   труд, мне сложно представить лучше. Разве только мандарины заменить на бананы (их просто есть удобней).
 * Может быть в Яндексе попробовать провести.
 
+### Фото
+
+![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219047776-80688f56-d3cc-4f21-8476-c8364a95a39e.jpg){: .large-figure}
+![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219047804-5d0a4256-c7cb-49d0-9e1d-5f52f51ea88a.jpg){: .large-figure}
+![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219047862-60e9e4e8-5dcb-4f0d-b090-5aea2f8a1b8b.jpg){: .large-figure}
+![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219047909-1a2971d1-a588-42c2-9706-7407eed10936.jpg){: .large-figure}
+![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219047956-85b8cd9c-b7ee-4b66-b94f-1d405fcfaf72.jpg){: .large-figure}
+![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219048029-1fcddbbe-79ba-49db-8642-93d973b02c4d.jpg){: .large-figure}
+![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219048069-9d3ea819-b279-4022-ace8-90a59684ca1f.jpg){: .large-figure}
+![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219048107-c6aa62ac-4706-4483-98a0-2d303de41aaf.jpg){: .large-figure}
+![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219048152-babf3ba2-422c-4c7b-9e9c-51f7dcccea23.jpg){: .large-figure}
+![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219048171-147fee8b-943a-40b4-90e3-d660a73fc7a7.jpg){: .large-figure}
+![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219048194-17e1ba51-a018-469a-a0bb-8fc92bc27431.jpg){: .large-figure}
+![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219048215-62090dea-a46b-4ef6-ab5b-d3b1daba0dd4.jpg){: .large-figure}
+![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219048270-16aa2349-3bc1-419d-ba33-05d39b7eb082.jpg){: .large-figure}
+![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219048286-4d4eb2f6-9f50-4c23-b435-d3f0090d97c9.jpg){: .large-figure}
+![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219048310-54708cf7-33b1-438e-bf07-76d925532d78.jpg){: .large-figure}
+![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219048342-21ebd48e-d098-437c-9de2-d53c148dd19c.jpg){: .large-figure}
+![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219048379-f7f7928c-7854-4329-9965-36fd854e4c68.jpg){: .large-figure}
+![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219048396-4356bfc2-c3d3-4ad1-a187-64e8a95f191d.jpg){: .large-figure}
+![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219048441-a166d24a-d665-468b-b469-988cf69e11cc.jpg){: .large-figure}
+![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219048472-b457e052-8005-4dfb-b9cf-fc3c6c6f468f.jpg){: .large-figure}
+![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219048503-c8532c31-7dc2-45b2-b3ce-b7924bec02a5.jpg){: .large-figure}
+![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219048517-0ad1e911-75f9-4f0b-a11b-52dea6e72589.jpg){: .large-figure}
+![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219048538-eab992ee-aa30-4076-bdb7-9f7a2f9aa9b0.jpg){: .large-figure}
+![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219048573-48c7bf48-d298-4238-87e3-ca81631da47b.jpg){: .large-figure}
+![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219048611-194474c6-0b6c-41d0-b82e-20b951ed143e.jpg){: .large-figure}
+![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219048640-d7b6a2ad-8b82-4a1d-8648-608e46da57ba.jpg){: .large-figure}
+![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219048659-be8ca592-cc59-4070-8c95-9c64b86301d8.jpg){: .large-figure}
+![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219048679-b96353c5-b623-44e2-8d96-143eb3bd24e2.jpg){: .large-figure}
