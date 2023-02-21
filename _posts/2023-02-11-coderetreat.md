@@ -126,3 +126,31 @@ image: "/assets/img/banners/2023-01-18-coderetreat.png"
 ![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219048640-d7b6a2ad-8b82-4a1d-8648-608e46da57ba.jpg){: .large-figure}
 ![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219048659-be8ca592-cc59-4070-8c95-9c64b86301d8.jpg){: .large-figure}
 ![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219048679-b96353c5-b623-44e2-8d96-143eb3bd24e2.jpg){: .large-figure}
+
+
+![photo_2018-01-15_22-55-44](https://user-images.githubusercontent.com/10639110/220340710-c74c436d-c3fc-4843-9ba9-ceed40a157d6.jpg)
+![photo_2023-02-15_19-59-31](https://user-images.githubusercontent.com/10639110/220340723-54924a8e-d91d-4655-b568-138f251e49d4.jpg)
+![photo_2023-02-15_19-59-33](https://user-images.githubusercontent.com/10639110/220340770-ea6c576e-3f1b-4892-840a-bab5037bbfca.jpg)
+![photo_2023-02-15_19-59-44](https://user-images.githubusercontent.com/10639110/220340788-f730bd04-ef78-403b-9d97-a95cd3b9ce6c.jpg)
+![photo_2023-02-15_19-59-48](https://user-images.githubusercontent.com/10639110/220340801-705b9a48-8bff-4d6a-a96a-26242486f8e2.jpg)
+![photo_2023-02-15_19-59-51](https://user-images.githubusercontent.com/10639110/220340814-c1b022e8-0439-4b28-bf89-bc44a620c4e1.jpg)
+![photo_2023-02-15_19-59-53](https://user-images.githubusercontent.com/10639110/220340839-174f286c-8d73-49ba-9533-4024738a72b8.jpg)
+![photo_2023-02-15_20-00-02](https://user-images.githubusercontent.com/10639110/220340867-84988a73-114e-4654-bd4c-12b707b7926f.jpg)
+![photo_2023-02-15_20-00-05](https://user-images.githubusercontent.com/10639110/220340965-4e75e257-2f2e-495b-8d9f-6a0dffcf5aaa.jpg)
+![photo_2023-02-15_20-00-09](https://user-images.githubusercontent.com/10639110/220340980-72a70da0-68e1-414f-8321-c39d4a5aa81b.jpg)
+![photo_2023-02-15_20-00-18](https://user-images.githubusercontent.com/10639110/220340992-d6a07472-1c04-4b24-adf2-37f7729d61d3.jpg)
+![photo_2023-02-15_20-00-22](https://user-images.githubusercontent.com/10639110/220341008-a85409c5-33e1-43a4-871f-f0da6cac6f32.jpg)
+![photo_2023-02-15_20-00-26](https://user-images.githubusercontent.com/10639110/220341046-ef34b900-97d3-4466-b442-74ad31e27eb1.jpg)
+![photo_2023-02-15_20-00-28](https://user-images.githubusercontent.com/10639110/220341069-d3ed69f5-56a2-480b-9cef-f662bea9af79.jpg)
+![photo_2023-02-15_20-00-30](https://user-images.githubusercontent.com/10639110/220341081-494e8288-a83b-4de1-a445-d34b38bf83ac.jpg)
+![photo_2023-02-15_20-00-31](https://user-images.githubusercontent.com/10639110/220341119-47853856-e2b0-438c-adea-a0ab49768779.jpg)
+![photo_2023-02-15_20-00-33](https://user-images.githubusercontent.com/10639110/220341249-eebb599e-cb2d-4acb-a6b1-fb36faf67fea.jpg)
+![photo_2023-02-15_20-00-49](https://user-images.githubusercontent.com/10639110/220341258-0c5492f0-ce8f-43f2-972b-843a61d1f448.jpg)
+![photo_2023-02-15_20-01-31](https://user-images.githubusercontent.com/10639110/220341283-6cb65143-e434-4c10-982b-bc2e5c4330dd.jpg)
+![photo_2023-02-15_20-03-09](https://user-images.githubusercontent.com/10639110/220341304-506d55d6-9da9-4886-81e9-faa3e25e91bf.jpg)
+![photo_2023-02-15_20-03-40](https://user-images.githubusercontent.com/10639110/220341344-e5857f4a-59e8-42bd-97c4-4b04537751f3.jpg)
+![photo_2023-02-15_20-08-06](https://user-images.githubusercontent.com/10639110/220341357-ff2249fd-18ac-47d3-b954-07b2e27a49a9.jpg)
+![photo_2023-02-15_20-08-07](https://user-images.githubusercontent.com/10639110/220341383-39345f8b-e422-4759-8acb-262184ebe51c.jpg)
+![photo_2023-02-15_20-08-11](https://user-images.githubusercontent.com/10639110/220341400-ebfa9c01-26c5-4a04-8634-335399245848.jpg)
+![photo_2023-02-15_20-08-30](https://user-images.githubusercontent.com/10639110/220341424-3e38bb7f-cf10-44de-bacb-8e5c7f908089.jpg)
+![photo_2023-02-15_20-08-37](https://user-images.githubusercontent.com/10639110/220341496-d86a8b51-c18b-48e9-a490-6f1f3bf2c897.jpg)
