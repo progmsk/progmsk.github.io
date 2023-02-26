@@ -6,11 +6,13 @@ excerpt: "Итоги."
 image: "/assets/img/banners/2023-01-18-coderetreat.png"
 ---
 
-![Код-ретрит про парное программирование и разработку через тестирование](/assets/img/banners/2023-01-18-coderetreat.png){: style="float: left; width: 100%; margin-right: 2em; margin-bottom: 2em" }
+Код-ретрит, который мы анонсировали [три недели назад]({% post_url 2023-01-18-coderetreat %}), состоялся.
 
-Код-ретрит, который мы анонсировали [три недели назад]({% post_url 2023-01-18-coderetreat %}), состоялся. Фотографии мы ещё собираем. Видео монтируем. Скоро всё будет.
+<div class="video">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/ZUNi_IcaVIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-Пока небольшой отчёт в отзывах участников.
+## Отзывы участников
 
 ### Оценка ретрита
 
