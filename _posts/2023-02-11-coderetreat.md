@@ -100,6 +100,10 @@ image: "/assets/img/banners/2023-01-18-coderetreat.png"
 
 ### Фото
 
+Порядка пятисот фото лежат на [странице Авито в VK](https://vk.com/album-152990965_291394522).
+
+Фото, которые делала команда фасилитаторов, здесь:
+
 ![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219047776-80688f56-d3cc-4f21-8476-c8364a95a39e.jpg){: .large-figure}
 ![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219047804-5d0a4256-c7cb-49d0-9e1d-5f52f51ea88a.jpg){: .large-figure}
 ![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219047862-60e9e4e8-5dcb-4f0d-b090-5aea2f8a1b8b.jpg){: .large-figure}
