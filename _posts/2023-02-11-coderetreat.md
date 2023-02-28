@@ -12,6 +12,8 @@ image: "/assets/img/banners/2023-01-18-coderetreat.png"
     <iframe width="560" height="315" src="https://www.youtube.com/embed/ZUNi_IcaVIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
+Каждую сессию участники начинали с нуля, стирая весь написанный код. Тем не менее, благодаря чудесам git, можно посмотреть, [что у них получалось](https://github.com/anton0xf/code-retreat-2023).
+
 ## Отзывы участников
 
 ### Оценка ретрита
