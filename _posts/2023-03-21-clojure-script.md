@@ -24,15 +24,15 @@ image: "https://user-images.githubusercontent.com/10639110/227255927-d5d442cb-de
 </div>
 
 <div class="video">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/7XQq1yMlmsg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="video">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/jbIOd7xxls4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 <div class="video">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/1P69b8I3H1E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-
-<div class="video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/7XQq1yMlmsg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 <div class="video">
