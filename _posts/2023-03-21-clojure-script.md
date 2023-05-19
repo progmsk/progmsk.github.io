@@ -2,7 +2,7 @@
 layout: post
 date: 2023-03-21 17:00:00+03:00
 title: "ClojureScript"
-excerpt: "Серия воркшопров Алексея Пирогова."
+excerpt: "Серия воркшопов Алексея Пирогова."
 image: "https://user-images.githubusercontent.com/10639110/227255927-d5d442cb-deca-4a7e-8ea0-6dbfa01af72f.png"
 ---
 
