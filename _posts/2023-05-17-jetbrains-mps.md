@@ -30,4 +30,4 @@ image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/0972f06e-9b
 
 Цикл воркшопов прошёл с 1 марта по 17 мая.
 
-Все четыре серии доступны в [плейлисте на YouTube](https://www.youtube.com/playlist?list=PLfkikHwnACaWtvqMdFOM8_mik-yEEaLm3)
+Все четыре серии доступны в [плейлисте на YouTube](https://www.youtube.com/playlist?list=PLfkikHwnACaV9uysyM1Yxb0EMhpKFjOCj)
