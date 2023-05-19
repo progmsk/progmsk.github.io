@@ -3,7 +3,7 @@ layout: post
 date: 2023-05-16 19:00:00+03:00
 title: "Copilot на коленке"
 excerpt: "Серия воркшопов Дмитрия Гуськова."
-image: "https://user-images.githubusercontent.com/10639110/227255927-d5d442cb-deca-4a7e-8ea0-6dbfa01af72f.png"
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/5dc6dfea-7a97-4ce4-b2ad-71783dca4591"
 ---
 
 ✔️ [Исходный код](https://github.com/bookofheavymetal/prog-msk-copilot)!
