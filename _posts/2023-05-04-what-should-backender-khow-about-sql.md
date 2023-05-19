@@ -3,8 +3,9 @@ layout: post
 date: 2023-05-04 17:00:00+03:00
 title: "Что бекендеру надо знать про SQL"
 excerpt: "Серия воркшопов Марка Шевченко."
-image: "https://user-images.githubusercontent.com/10639110/227255927-d5d442cb-deca-4a7e-8ea0-6dbfa01af72f.png"
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/e0219e9b-91d5-42cc-9275-ed3897e1bacf"
 ---
+![2023_04_06_cover-prog-msk]()
 
 ✔️ [Исходный код](https://github.com/markshevchenko/studying-sql)!
 
