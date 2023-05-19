@@ -3,7 +3,7 @@ layout: post
 date: 2023-05-17 17:00:00+03:00
 title: "Метапрограммирование: JetBrains MPS"
 excerpt: "Серия воркшопов Фёдора Ярёменко."
-image: "https://user-images.githubusercontent.com/10639110/227255927-d5d442cb-deca-4a7e-8ea0-6dbfa01af72f.png"
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/0972f06e-9b23-48ac-935b-0d6917ed2ef9"
 ---
 
 Волшебное слово *метапрограммирование* в широком смысле означает любые средства, которые помогают порождать программы с минимальным участием программиста.
