@@ -6,7 +6,10 @@
         <title>Архив</title>
         <link rel="stylesheet" href="style.css">
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
-    </head>
+        <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+        </head>
     <body>
         <header class="container">
             <nav>
@@ -25,12 +28,80 @@
                 </ul>
             </aside>
         </header>
-        <article class="container">
+        <article class="container archive">
+            <h1>Прошедшие мероприятия</h1>
 
+            <section>
+                <h2>Пишем функционально</h2>
+                <time datetime="2023-05-18">18 мая 2023</time>
+                <img src="2023_05_18.jpg" title="Пишем функционально">
+                <p>Доклад Марка Шевченко в дружественном сообществе MskDotNet.</p>
+            </section>
+
+            <section>
+                <h2>Метапрограммирование: JetBrains MPS</h2>
+                <img src="2023_05_17.png" title="Метапрограммирование: JetBrains MPS">
+                <time datetime="2023-05-17">17 мая 2023</time>
+                <p>Серия воркшопов Фёдора Ярёменко.</p>
+            </section>
+
+            <section>
+                <h2>Что бекендеру надо знать про SQL</h2>
+                <img src="2023_04_06.png" title="Что бекендеру надо знать про SQL">
+                <time datetime="2023-05-04">4 мая 2023</time>
+                <p>Серия воркшопов Марка Шевченко.</p>
+            </section>
+
+            <section>
+                <h2>Говорим на программистском</h2>
+                <img src="2023_04_20.png" title="Говорим на программистском">
+                <time datetime="2023-04-20">20 апреля 2023</time>
+                <p>Собрались в WE Cidreria на Маяковской, обсудили code review.</p>
+            </section>
+
+            <section>
+                <h2>Программистская еда</h2>
+                <img src="2023_03_30.png" title="Программистская еда">
+                <time datetime="2023-03-30">30 марта 2023</time>
+                <p>Учимся готовить ризотто со Светой Кривенко.</p>
+            </section>
+
+            <section>
+                <h2>ChatGPT «в работе»</h2>
+                <img src="2023_03_23.png" title="ChatGPT «в работе»">
+                <time datetime="2023-03-23">23 марта 2023</time>
+                <p>Воркшоп Антона Минковского и Ольги Щербаковой.</p>
+            </section>
+
+            <section>
+                <h2>ClojureScript</h2>
+                <img src="2023_03_07.png" title="ClojureScript">
+                <time datetime="2023-03-21">21 марта 2023</time>
+                <p>Серия воркшопов Алексея Пирогова.</p>
+            </section>
+
+            <section>
+                <h2>Говорим на программистском</h2>
+                <img src="2023_04_20.png" title="Говорим на программистском">
+                <time datetime="2023-03-10">10 марта 2023</time>
+                <p>Собрались в White Heart в Москва-Сити, обсудили любовь к программированию.</p>
+            </section>
+
+            <nav>
+                <ul>
+                    <li class="previous"><a href="">Назад</a></li>
+                    <li class="current">1</li>
+                    <li><a href="">2</a></li>
+                    <li class="skip">…</li>
+                    <li><a href="">9</a></li>
+                    <li><a href="">10</a></li>
+                    <li class="next"><a href="">Вперёд</a></li>
+                </ul>
+            </nav>
         </article>
         <footer class="container">
             <a class="home" href="">На главную</a>
-            <p>Московский клуб программистов</p>
+            <span class="copyright">Московский клуб программистов</span>
             <aside class="external-links">
                 <ul>
                     <li><a class="vk" href="https://vk.com/progmsk">VK</a></li>
