@@ -1,0 +1,7 @@
+﻿{
+    "html.suggest.html5": true,
+    "html.autoClosingTags": true,
+    "editor.linkedEditing": true,
+    "html.validate.scripts": true,
+    "html.validate.styles": true
+}
