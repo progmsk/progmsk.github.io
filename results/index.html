@@ -10,7 +10,7 @@ excerpt: Конспекты, презентации, видео со встре�
 
       {% for post in paginator.posts %}
       <div class="card bg-transparent border-0">
-        <div class="row g-3">
+        <div class="row g-3 pt-3">
           <div class="col-4">
             {% if post.image %}
             <img class="rounded" src="{{ post.image }}" alt="{{ post.title }}">
@@ -35,12 +35,12 @@ excerpt: Конспекты, презентации, видео со встре�
             {% if paginator.previous_page %}
             <li class="page-item"><a href="{{ paginator.previous_page_path }}" class="page-link">&laquo;</a></li>
             {% else %}
-            <li class="page-item">&laquo;</li>
+            <li class="page-item disabled"><a href="{{ paginator.previous_page_path }}" class="page-link">&laquo;</a></li>
             {% endif %}
           
             {% for page in (1..paginator.total_pages) %}
               {% if page == paginator.page %}
-            <li class="page-item active">{{ page }}</li>
+            <li class="page-item active"><a href="{{ site.paginate_path | relative_url | replace: ':num', page }}" class="page-link">{{ page }}</a></li>
               {% elsif page == 1 %}
             <li class="page-item"><a href="{{ site.paginate_path | replace: ':num/', '' | relative_url }}" class="page-link">{{ page }}</a></li>
               {% else %}
@@ -51,7 +51,7 @@ excerpt: Конспекты, презентации, видео со встре�
             {% if paginator.next_page %}
             <li class="page-item"><a href="{{ paginator.next_page_path }}" class="page-link">&raquo;</a></li>
             {% else %}
-            <li class="page-item">&raquo;</li>
+            <li class="page-item disabled"><a href="{{ paginator.next_page_path }}" class="page-link">&raquo;</a></li>
             {% endif %}
           </ul>
         </nav>
