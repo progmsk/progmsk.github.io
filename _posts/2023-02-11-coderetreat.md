@@ -3,7 +3,7 @@ layout: post
 date: 2023-02-11 10:30:00
 title: "Код-ретрит про парное программирование и разработку через тестирование"
 excerpt: "Итоги."
-image: "/assets/img/banners/2023-01-18-coderetreat.png"
+image: "/assets/images/banners/2023-01-18-coderetreat.png"
 ---
 
 Код-ретрит, который мы анонсировали три недели назад, состоялся.

@@ -3,10 +3,10 @@ layout: post
 date: 2022-06-01 19:00:00
 title: "Неайтишные айти: управление кадрами"
 excerpt: "Обсудили с эйчаром Алёной Самойленко способы войти в айти без изучения программирования."
-image: "/assets/img/banners/2022-06-01-nonit-it-hr.png"
+image: "/assets/images/banners/2022-06-01-nonit-it-hr.png"
 ---
 
-![Неайтишные айти: управление кадрами](/assets/img/banners/2022-06-01-nonit-it-hr.png){: style="float: left; width: 100%; margin-right: 2em; margin-bottom: 2em" }
+![Неайтишные айти: управление кадрами](/assets/images/banners/2022-06-01-nonit-it-hr.png){: style="float: left; width: 100%; margin-right: 2em; margin-bottom: 2em" }
 
 Московский клуб программистов упорно занимается популяризацией программирования. Настолько упорно, что иногда вообще ничего вокруг не замечает. А там — вокруг — между тем, столько прекрасного!
 

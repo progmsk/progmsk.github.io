@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-08-17 19:00:00
-image: "/assets/img/banners/2020-08-17-jetbrains.svg"
+image: "/assets/images/banners/2020-08-17-jetbrains.svg"
 title: Лицензии от Jetbrains
 excerpt: "Спосоры."
 ---
@@ -15,4 +15,4 @@ excerpt: "Спосоры."
 Спасибо, Jetbrains!
 Следите за новостями!
 
-![jetbrains](/assets/img/banners/2020-08-17-jetbrains.svg)
+![jetbrains](/assets/images/banners/2020-08-17-jetbrains.svg)

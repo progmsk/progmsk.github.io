@@ -3,10 +3,10 @@ layout: post
 date: 2022-04-08 19:00:00
 title: "Неайтишные айти: скрам-мастерство"
 excerpt: "Обсудили со скрам-мастером Светланой Кривенко способы войти в айти без изучения программирования."
-image: "/assets/img/banners/2022-04-08-nonit-it-scrum-mastering.png"
+image: "/assets/images/banners/2022-04-08-nonit-it-scrum-mastering.png"
 ---
 
-![Неайтишные айти: скрам-мастерство](/assets/img/banners/2022-04-08-nonit-it-scrum-mastering.png){: style="float: left; width: 100%; margin-right: 2em; margin-bottom: 2em" }
+![Неайтишные айти: скрам-мастерство](/assets/images/banners/2022-04-08-nonit-it-scrum-mastering.png){: style="float: left; width: 100%; margin-right: 2em; margin-bottom: 2em" }
 
 Московский клуб программистов упорно занимается популяризацией программирования. Настолько упорно, что иногда вообще ничего вокруг не замечает. А там — вокруг — между тем, столько прекрасного!
 
