@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div class="row g-4">
+  <!-- Main content START -->
+  <div class="col-lg-8 mx-auto">
+    <div class="vstack gap-4">
+      <!-- Blog single START -->
+      <div class="card card-body">
+        {% if page.image %}
+        <img class="rounded" src="{{ page.image }}" alt="{{ page.title | escape }}">
+        {% endif %}
+        <div class="mt-4">
+          <h1 class="mb-2 h2">{{ page.title | escape }}</h1>
+          <p><i class="bi bi-calendar-date pe-1"></i>{{ page.date | date: "%d.%m.%Y" }}</p>
+          {{ content }}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
