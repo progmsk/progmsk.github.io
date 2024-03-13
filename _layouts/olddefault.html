@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang }}">
+    <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1"> 
+    <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+    <meta name="yandex-verification" content="782d995c127ba2df" />
+    {% if page.image %}
+    <meta property="og:image" content="{{ page.image | absolute_url }}" />
+    {% endif %}
+    <title>{% if page.title %}{{ page.title | escape }}{% else %}}{{ site.title | escape }}{% endif %}</title>
+    {% if jekyll.environment == 'production' %}
+    {% include google-analytics.html %}
+    {% endif %}
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | prepend: site.baseurl }}">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/img/icons/apple-touch-icon.png'| prepend: site.baseurl }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/img/icons/favicon-32x32.png' | prepend: site.baseurl }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/img/icons/favicon-16x16.png' | prepend: site.baseurl }}">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="{{ '/assets/img/icons/safari-pinned-tab.svg' | prepend: site.baseurl }}" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+    {% feed_meta %}
+  </head>
+  <body>
+    <header>
+      <a id="logo" href="/"><img src="/assets/img/logo.svg" alt="Московский клуб программистов" /></a>
+      <h1 id="title">Московский клуб программистов</h1>
+      <nav>
+        <ul>
+          <li><a href="/results/">Летопись</a></li>
+          <li><a href="/speakers/">Докладчики</a></li>
+          <li><a href="/coc/">Правила</a></li>
+          <li><a href="/collab/">Коллаб</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+    {{ content }}
+    </main>
+    <footer>
+      <ul>
+        <li><a class="vk" href="https://vk.com/progmsk/">ВК</a></li>
+        <li><a class="telegram" href="https://t.me/progmsk">Чат</a></li>
+        <li><a class="telegram" href="https://t.me/progmsk_channel">Канал</a></li>
+        <li><a class="youtube" href="https://youtube.com/c/progmsk">YouTube</a></li>
+      </ul>
+    </footer>
+  </body>
+</html>

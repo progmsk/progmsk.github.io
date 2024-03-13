@@ -1,51 +1,107 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang }}">
     <head>
+
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
     <meta name="yandex-verification" content="782d995c127ba2df" />
     {% if page.image %}
     <meta property="og:image" content="{{ page.image | absolute_url }}" />
     {% endif %}
-    <title>{% if page.title %}{{ page.title | escape }}{% else %}}{{ site.title | escape }}{% endif %}</title>
+
+    <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+
     {% if jekyll.environment == 'production' %}
     {% include google-analytics.html %}
     {% endif %}
-    <link rel="stylesheet" href="{{ '/assets/css/main.css' | prepend: site.baseurl }}">
-    <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/img/icons/apple-touch-icon.png'| prepend: site.baseurl }}">
-    <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/img/icons/favicon-32x32.png' | prepend: site.baseurl }}">
-    <link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/img/icons/favicon-16x16.png' | prepend: site.baseurl }}">
-    <link rel="manifest" href="/site.webmanifest">
-    <link rel="mask-icon" href="{{ '/assets/img/icons/safari-pinned-tab.svg' | prepend: site.baseurl }}" color="#5bbad5">
+
+    <link rel="shortcut icon" href="assets/images/favicon.ico">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/images/icons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/img/icons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/icons/favicon-16x16.png">
+    <link rel="manifest" href="site.webmanifest">
+    <link rel="mask-icon" href="assets/images/icons/safari-pinned-tab.svg" color="#5bbad5">
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
     {% feed_meta %}
-  </head>
-  <body>
-    <header>
-      <a id="logo" href="/"><img src="/assets/img/logo.svg" alt="Московский клуб программистов" /></a>
-      <h1 id="title">Московский клуб программистов</h1>
-      <nav>
-        <ul>
-          <li><a href="/results/">Летопись</a></li>
-          <li><a href="/speakers/">Докладчики</a></li>
-          <li><a href="/coc/">Правила</a></li>
-          <li><a href="/collab/">Коллаб</a></li>
-        </ul>
-      </nav>
-    </header>
-    <main>
-    {{ content }}
-    </main>
-    <footer>
-      <ul>
-        <li><a class="vk" href="https://vk.com/progmsk/">ВК</a></li>
-        <li><a class="telegram" href="https://t.me/progmsk">Чат</a></li>
-        <li><a class="telegram" href="https://t.me/progmsk_channel">Канал</a></li>
-        <li><a class="youtube" href="https://youtube.com/c/progmsk">YouTube</a></li>
-      </ul>
-    </footer>
-  </body>
+
+    <link rel="stylesheet" type="text/css" href="assets/vendor/font-awesome/css/all.min.css">
+    <link rel="stylesheet" type="text/css" href="assets/vendor/bootstrap-icons/bootstrap-icons.css">
+    <link rel="stylesheet" type="text/css" href="assets/vendor/OverlayScrollbars-master/css/OverlayScrollbars.min.css">
+    <link rel="stylesheet" type="text/css" href="assets/vendor/tiny-slider/dist/tiny-slider.css">
+    <link rel="stylesheet" type="text/css" href="assets/vendor/choices.js/public/assets/styles/choices.min.css">
+    <link rel="stylesheet" type="text/css" href="assets/vendor/glightbox-master/dist/css/glightbox.min.css">
+    <link rel="stylesheet" type="text/css" href="assets/vendor/dropzone/dist/dropzone.css">
+    <link rel="stylesheet" type="text/css" href="assets/vendor/flatpickr/dist/flatpickr.css">
+    <link rel="stylesheet" type="text/css" href="assets/vendor/plyr/plyr.css">
+    <link rel="stylesheet" type="text/css" href="assets/vendor/zuck.js/dist/zuck.min.css">
+
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+
+</head>
+<body>
+
+<header class="navbar-light fixed-top header-static bg-mode">
+	<nav class="navbar navbar-expand-lg">
+		<div class="container">
+			<!-- Логотип -->
+			<a class="navbar-brand" href="/">
+				<img class="light-mode-item navbar-brand-item" src="assets/images/logo.svg" alt="Московский клуб программистов">
+			</a>
+
+			<div class="collapse navbar-collapse" id="navbarCollapse">
+				<!-- Поиск -->
+				<div class="nav mt-3 mt-lg-0 flex-nowrap align-items-center px-4 px-lg-0">
+					<div class="nav-item w-100">
+						<form class="rounded position-relative">
+							<input class="form-control ps-5 bg-light" type="search" placeholder="Искать&hellip;" aria-label="Search">
+							<button class="btn bg-transparent px-2 py-0 position-absolute top-50 start-0 translate-middle-y" type="submit"><i class="bi bi-search fs-5"> </i></button>
+						</form>
+					</div>
+				</div>
+
+				<!-- Меню -->
+				<ul class="navbar-nav navbar-nav-scroll ms-auto">
+					<li class="nav-item">
+						<a class="nav-link" href="/results/">События</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="/coc/">Правила</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="/history/">История</a>
+					</li>
+				</ul>
+
+			</div>
+		</div>
+	</nav>
+</header>
+
+<main>
+	<div class="container">
+		{{ content }}
+	</div>
+</main>
+
+<script src="assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+<script src="assets/vendor/tiny-slider/dist/tiny-slider.js"></script>
+<script src="assets/vendor/OverlayScrollbars-master/js/OverlayScrollbars.min.js"></script>
+<script src="assets/vendor/choices.js/public/assets/scripts/choices.min.js"></script>
+<script src="assets/vendor/glightbox-master/dist/js/glightbox.min.js"></script>
+<script src="assets/vendor/flatpickr/dist/flatpickr.min.js"></script>
+<script src="assets/vendor/plyr/plyr.js"></script>
+<script src="assets/vendor/dropzone/dist/min/dropzone.min.js"></script>
+<script src="assets/vendor/zuck.js/dist/zuck.min.js"></script>
+<script src="assets/js/zuck-stories.js"></script>
+
+<script src="assets/js/functions.js"></script>
+
+</body>
 </html>
