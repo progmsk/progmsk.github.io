@@ -4,6 +4,8 @@ date: 2023-05-18 19:00:00+03:00
 title: "Пишем функционально"
 excerpt: "Доклад Марка Шевченко в MskDotNet."
 image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/9196da4c-d864-458d-a16b-ddda220ab2da"
+videos:
+  - "https://www.youtube.com/embed/Mv-LOJ3CBKA"
 ---
 
 Изучение новых языков — непростое дело. Pascal и C находятся в одной нише, но в каждом из них есть свои способы выражения программистской мысли. Когда мы пишем на Pascal, как на С, или наоборот — обычно получается коряво. Мы называем такой код не-идиоматическим. И если проблемы возникает даже с родственными языками, то что говорить о  разных парадигмах?
@@ -13,7 +15,3 @@ image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/9196da4c-d8
 **Марк Шевченко** на примерах из F# и C# рассказал об идиомах функционального программирования, о том, к чему может привести комбинирование функций, поддерживает ли C# ленивые вычисления (как Haskell) и сложно ли написать парсер.
 
 53-й митап сообщества MskDotNet прошёл в офисе МТС Банка в Технопарке. С 10-го мая открыли закрытую ранее зелёную ветку, так что на митап все приехали на метро.
-
-<div class="video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Mv-LOJ3CBKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>

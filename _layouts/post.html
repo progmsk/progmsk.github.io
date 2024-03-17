@@ -18,6 +18,28 @@ layout: default
     </div>
   </div>
 </div>
+
+{% if page.videos %}
+{% for video in videos %}
+<div class="row g-0 mb-4">
+  <div class="col-xl-8 col-xxl-9">
+    <div class="card card-body p-0 rounded-end-lg-0 position-relative h-100">
+      <div class="card-image">
+        <div class="overflow-hidden fullscreen-video w-100">
+          <div class="player-wrapper card-img-top overflow-hidden video">
+            <iframe width="560" height="315" src="{{ video }}"
+            title="YouTube video player" frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen></iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{% endfor %}
+{% endif %}
+
 {% if page.gallery_images %}
 <div class="row text-center text-lg-start g-4">
   {% for gallery_image in page.gallery_images %}
