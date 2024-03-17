@@ -3,10 +3,8 @@ layout: default
 ---
 
 <div class="row g-4">
-  <!-- Main content START -->
   <div class="col-lg-8 mx-auto">
     <div class="vstack gap-4">
-      <!-- Blog single START -->
       <div class="card card-body">
         {% if page.image %}
         <img class="rounded" src="{{ page.image }}" alt="{{ page.title | escape }}">
@@ -20,3 +18,14 @@ layout: default
     </div>
   </div>
 </div>
+{% if page.gallery_images %}
+<div class="row text-center text-lg-start">
+  {% for gallery_image in page.gallery_images %}
+  <div class="col-lg-3 col-md-4 col-6">
+    <a href="{{ gallery_image }}" class="d-block mb-4 h-100" target="_blank">
+      <img class="img-fluid img-thumbnail" src="{{ gallery_image }}" alt="{{ page.title | escape }}">
+    </a>
+  </div>
+  {% endfor %}
+</div>
+{% endif %}
