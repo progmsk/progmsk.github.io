@@ -3,10 +3,33 @@ layout: default
 title: Поиск
 ---
 
-<script async src="https://cse.google.com/cse.js?cx=81a81cab158f9428e">
+<input type="text" id="search-input" placeholder="Search blog posts..">
+<ul id="results-container"></ul>
+
+<script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
+<script>
+let simpleJekyllSearch = SimpleJekyllSearch({
+  searchInput: document.getElementById('search-input'),
+  resultsContainer: document.getElementById('results-container'),
+  json: '/search.json'
+});
+
+function getQueryVariable(variable)
+{
+  let query = window.location.search.substring(1);
+  let vars = query.split("&");
+  for (let i = 0; i < vars.length; i++) {
+    let pair = vars[i].split("=");
+    if(pair[0] == variable) {
+      return pair[1];
+    }
+  }
+
+  return(null);
+}
+
+let q = getQueryVariable("q");
+if (q) {
+  simpleJekyllSearch.search(q);
+}
 </script>
-<div class="row g-4">
-  <div class="col-lg-3">
-    <div class="gcse-search"></div>
-  </div>
-</div>
