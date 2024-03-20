@@ -133,24 +133,11 @@ excerpt: Доклады, воркшопы, дискуссии и просто р
             <h5 class="card-title mb-0">События</h5>
           </div>
           <div class="card-body">
-            <script>
-              let events = [
-                {% for post in posts.shuffle().take(5) %}
-                {
-                  "title": "{{ post.title }}",
-                  "date": "{{ post.date }}",
-                  "url": "{{ post.url }}"
-                },
-                {% endfor %}
-              ];
-              
-              for (const event of events) {
-                document.write("<div class='mb-3'>");
-                document.write("<h6 class='mb-0'><a href='{{ event.url }}'>{{ event.title }}</a></h6>");
-                document.write("<small>{{ event.date }}");
-                document.write("</div>");
-              }
-            </script>
+            {% for post in site.posts.shuffle().take(5) %}
+            <div class="mb-3">
+              <h6 class="mb-0"><a href="{{ event.url }}">{{ event.title }}</a></h6>
+              <small>{{ event.date }}</small>
+            {% endfor %}
           </div>
         </div>
       </div>
