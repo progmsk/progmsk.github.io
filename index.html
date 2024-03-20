@@ -133,10 +133,10 @@ excerpt: Доклады, воркшопы, дискуссии и просто р
             <h5 class="card-title mb-0">События</h5>
           </div>
           <div class="card-body">
-            {% for post in site.posts.take(5) %}
+            {% for post in site.posts.shuffle().take(5) %}
             <div class="mb-3">
               <h6 class="mb-0"><a href="{{ post.url }}">{{ post.title }}</a></h6>
-              <small>{{ event.date }}</small>
+              <small>{{ post.date }}</small>
             </div>
             {% endfor %}
           </div>
