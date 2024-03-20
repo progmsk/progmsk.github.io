@@ -133,22 +133,24 @@ excerpt: Доклады, воркшопы, дискуссии и просто р
             <h5 class="card-title mb-0">События</h5>
           </div>
           <div class="card-body">
-            <div class="mb-3">
-              <h6 class="mb-0"><a href="https://www.youtube.com/live/HIp7V7rdpXw?si=b6MyTJfmGpcqtvTh">Пишем качественный код</a></h6>
-              <small>15 фев 2024</small>
-            </div>
-            <div class="mb-3">
-              <h6 class="mb-0"><a href="https://www.youtube.com/live/QXihBrvoxGk?si=zbMDSe3vpbH-sxVp">Статический анализ кода</a></h6>
-              <small>14 дек 2023</small>
-            </div>
-            <div class="mb-3">
-              <h6 class="mb-0"><a href="https://www.youtube.com/live/7zS2_ZhwPfY?si=UcyY9Pb7RgWOWwtu">Rust — современный язык программирования</a></h6>
-              <small>7 сен 2023</small>
-            </div>
-            <div class="mb-3">
-              <h6 class="mb-0"><a href="https://www.youtube.com/live/XLmyVcWbOJU?si=u4Q8_X4LRbXlMX0b">Управляем состоянием на фронт-енде</a></h6>
-              <small>2 авг 2023</small>
-            </div>
+            <script>
+              let events = [
+                {% for post in posts.shuffle().take(5) %}
+                {
+                  "title": "{{ post.title }}",
+                  "date": "{{ post.date }}",
+                  "url": "{{ post.url }}"
+                },
+                {% endfor %}
+              ];
+              
+              for (const event of events) {
+                document.write("<div class='mb-3'>");
+                document.write("<h6 class='mb-0'><a href='{{ event.url }}'>{{ event.title }}</a></h6>");
+                document.write("<small>{{ event.date }}");
+                document.write("</div>");
+              }
+            </script>
           </div>
         </div>
       </div>
