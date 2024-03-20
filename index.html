@@ -133,12 +133,30 @@ excerpt: Доклады, воркшопы, дискуссии и просто р
             <h5 class="card-title mb-0">События</h5>
           </div>
           <div class="card-body">
-            {% for post in site.posts %}
-            <div class="mb-3">
-              <h6 class="mb-0"><a href="{{ post.url }}">{{ post.title }}</a></h6>
-              <small>{{ post.date }}</small>
-            </div>
-            {% endfor %}
+            <script>
+              let events = [
+                {% for post in site.posts %}
+                {
+                  "title": "{{ post.title }}",
+                  "date": "{{ post.date | date: "%d.%m.%Y" }}",
+                  "url": "{{ post.url }}"
+                },
+                {% endfor %}
+              ];
+              for (let i = 0; i < 5; i++) {
+                // (i + 1)..(events.length - 1)
+                let randIndex = Math.floor(Math.random() * (events.length - i - 1) + i + 1);
+                let tmp = events[i];
+                events[i] = events[randIndex];
+                events[randIndex] = tmp;
+              }
+              for (let i = 0; i < 5; i++) {
+                document.writeln('<div class="mb-3">');
+                document.writeln('<h6 class="mb-0"><a href="' + events[i].url + '">' + events[i].title + '</a></h6>');
+                document.writeln('<small>' + events[i].date + '</small>');
+                document.writeln('</div>');
+              }
+            </script>
           </div>
         </div>
       </div>
