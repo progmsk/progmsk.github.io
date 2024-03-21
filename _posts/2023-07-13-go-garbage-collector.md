@@ -3,7 +3,7 @@ layout: post
 date: 2023-07-13 19:00:00+03:00
 title: "Управление памятью и сборщиком мусора в Go"
 excerpt: "Доклад Нины Пакшиной."
-image: ""
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/bcba4635-2c03-4e42-9416-c57c0e9f8d5d"
 videos:
   - "https://www.youtube.com/embed/UVqpl4PExkM?si=X9RCtcz2lgTq9TmB"
 ---
