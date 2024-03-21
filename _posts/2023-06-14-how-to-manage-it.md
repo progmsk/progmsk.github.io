@@ -3,7 +3,7 @@ layout: post
 date: 2023-06-14 19:00:00+03:00
 title: "Как управлять разработкой"
 excerpt: "Онлайн-обсуждение."
-image: ""
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/573536d9-6c51-4366-b398-95199a2aac1f"
 videos:
   - "https://www.youtube.com/embed/sMmbX4yexCI?si=Spfh8-7IKiHgrmqf"
 ---
