@@ -41,13 +41,17 @@ layout: default
 {% endif %}
 
 {% if page.gallery_images %}
-<div class="row text-center text-lg-start g-4">
-  {% for gallery_image in page.gallery_images %}
-  <div class="col-lg-3 col-md-4 col-6">
-    <a href="{{ gallery_image }}" class="d-block mb-4 h-100" target="_blank">
-      <img class="img-fluid img-thumbnail" src="{{ gallery_image }}" alt="{{ page.title | escape }}">
-    </a>
+<div class="row g-4 mb-4">
+  <div class="col-lg-8 mx-auto">
+    <div class="row text-center text-lg-start">
+      {% for gallery_image in page.gallery_images %}
+      <div class="col-lg-3 col-md-3 col-6">
+        <a href="{{ gallery_image }}" class="d-block mb-4 h-100" target="_blank">
+          <img class="img-fluid img-thumbnail" src="{{ gallery_image }}" alt="{{ page.title | escape }}">
+        </a>
+      </div>
+      {% endfor %}
+    </div>
   </div>
-  {% endfor %}
 </div>
 {% endif %}
