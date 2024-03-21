@@ -3,7 +3,7 @@ layout: post
 date: 2023-12-14 19:00:00+03:00
 title: "Статический анализ кода, PVS-Studio"
 excerpt: "Доклад Евгения Фёклина."
-image: ""
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/1e62a6d2-dddc-4319-b13b-4dd393a20637"
 videos:
   - "https://www.youtube.com/embed/QXihBrvoxGk?si=B5uPA55V9oVw_dYz"
 ---
