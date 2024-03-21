@@ -3,7 +3,7 @@ layout: post
 date: 2023-07-13 19:00:00+03:00
 title: "Управляем состоянием на фронт-энде"
 excerpt: "Доклад Александра Гузенко."
-image: ""
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/d9052ecb-37a1-4074-947e-5115ad9c5c9f"
 videos:
   - "https://www.youtube.com/embed/XLmyVcWbOJU?si=udMQpQBdo2kuqnp6"
 ---
