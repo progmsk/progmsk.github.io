@@ -3,7 +3,7 @@ layout: post
 date: 2023-05-31 19:00:00+03:00
 title: "Как писать технические тексты"
 excerpt: "Онлайн-обсуждение."
-image: ""
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/1aed23d1-7144-42dc-a60c-d085c026fc2e"
 videos:
   - "https://www.youtube.com/embed/C9A8OUpHj5Q?si=fUVBUJZTIkOCY9kb"
 ---
