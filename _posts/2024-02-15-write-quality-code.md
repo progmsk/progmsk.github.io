@@ -3,7 +3,7 @@ layout: post
 date: 2024-02-15 19:00:00+03:00
 title: "Пишем качественный код"
 excerpt: "Доклады Андрея Карпова и Юрия Костина, дискуссия с Антоном Стекановым."
-image: ""
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/c3c7fd24-5997-43f3-a088-fe19fdfa4f75"
 videos:
   - "https://www.youtube.com/embed/HIp7V7rdpXw?si=xCdNJAaf7J3QD9Yu"
 ---
