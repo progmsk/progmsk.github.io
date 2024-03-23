@@ -4,7 +4,6 @@ timezone: Europe/Moscow
 
 url: https://prog.msk.ru
 title: Московский клуб программистов
-image: /assets/images/post/default.png
 
 permalink: pretty
 highlighter: rouge
