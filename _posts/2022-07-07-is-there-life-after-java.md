@@ -19,4 +19,5 @@ videos:
 
 ## Слайды
 
-[Скачать в формате PDF](/downloads/is-there-life-after-java.pdf){:target="_blank"}
+[Скачать в формате PDF](https://github.com/progmsk/progmsk.github.io/files/14731416/is-there-life-after-java.pdf){:target="_blank"}
+
