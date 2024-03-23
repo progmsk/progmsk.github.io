@@ -4,6 +4,8 @@ date: 2023-03-09 19:00:00+03:00
 title: "Nix — не только пакетный менеджер"
 excerpt: "Воркшоп Винсента Амбо."
 image: "https://user-images.githubusercontent.com/10639110/224563654-e779f1a9-d958-4e3e-a65b-4edae3292919.png"
+videos:
+  - "https://www.youtube.com/embed/0Lhahzs-Wos"
 ---
 
 Первый пакетный менеджер — SMIT — появился в операционной системе IBM AIX в 1989 году. Мы бы назвали его примитивным, но в своё время он оказался прорывом. Вместо загрузки и ручной сборки исходного кода программы, пользователь вводил команду установки — и всё.
@@ -19,7 +21,3 @@ image: "https://user-images.githubusercontent.com/10639110/224563654-e779f1a9-d9
 Об этом и многом другом нам рассказал программист Винсент Амбо. Он провёл воркшоп по Nix и показал примеры использования языка. Пакетный менеджер Nix работает на любых дистрибутивах Linux и на MacOS, но также на его основе построен дистрибутив [NixOS](https://nixos.org/). Мы поговорили и о нём, правда, совсем немного.
 
 Винсент основал [комьюнити](https://tvl.fyi) и [компанию](https://tvl.su/ru) TVL и разрабатывает альтернативную реализацию Nix — она называется [Tvix](https://tvl.fyi/blog/rewriting-nix). Tvix написан на языке Rust — интересном и перспективным. Мы поговорили, зачем нужен Tvix, если есть Nix и узнали, почему Винсент выбрал Rust в качестве языка разработки.
-
-<div class="video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/0Lhahzs-Wos" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>

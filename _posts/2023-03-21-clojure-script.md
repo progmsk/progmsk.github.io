@@ -4,6 +4,12 @@ date: 2023-03-21 17:00:00+03:00
 title: "ClojureScript"
 excerpt: "Серия воркшопов Алексея Пирогова."
 image: "https://user-images.githubusercontent.com/10639110/227255927-d5d442cb-deca-4a7e-8ea0-6dbfa01af72f.png"
+videos:
+  - "https://www.youtube.com/embed/WkN5feMXyPE"
+  - "https://www.youtube.com/embed/7XQq1yMlmsg"
+  - "https://www.youtube.com/embed/jbIOd7xxls4"
+  - "https://www.youtube.com/embed/1P69b8I3H1E"
+  - "https://www.youtube.com/embed/lqMEyaPL3Pg"
 ---
 
 ✔️ [Исходный код](https://github.com/astynax/cljs-pokedex)!
@@ -18,23 +24,3 @@ image: "https://user-images.githubusercontent.com/10639110/227255927-d5d442cb-de
 Реализовал работающий в браузере "Pokedex" — базу знаний о… покемонах! Данные получает из [PokéAPI](https://pokeapi.co/), кэширует в Localstorage и показывает по ним выборки в GUI. Также кладёт данные в [DataScript](https://github.com/tonsky/datascript) — это такая in-memory БД, запросы к которой пишутся на языке логического программирования [Datalog](https://docs.racket-lang.org/datalog/) (который является DSL для Clojure, конечно же).
 
 Цикл воркшопов прошёл с 16 февраля по 21 марта.
-
-<div class="video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/WkN5feMXyPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-
-<div class="video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/7XQq1yMlmsg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-
-<div class="video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/jbIOd7xxls4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-
-<div class="video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/1P69b8I3H1E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-
-<div class="video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/lqMEyaPL3Pg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>

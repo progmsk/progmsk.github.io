@@ -7,7 +7,7 @@ layout: default
     <div class="vstack gap-4">
       <div class="card card-body">
         {% if page.image %}
-        <img class="rounded" src="{{ page.image }}" alt="{{ page.title | escape }}">
+        <img class="rounded img-fluid" src="{{ page.image }}" alt="{{ page.title | escape }}">
         {% endif %}
         <div class="mt-4">
           <h1 class="mb-2 h2">{{ page.title | escape }}</h1>
