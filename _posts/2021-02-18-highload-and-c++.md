@@ -3,7 +3,9 @@ layout: post
 date: 2021-02-18 19:00:00
 title: Highload и C++
 excerpt: "Доклад Давида Медведика."
-image: "https://secure.meetupstatic.com/photos/event/b/f/8/a/highres_494749034.jpeg"
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/c17d82ce-176d-481a-a360-33a7a783f398"
+videos:
+  - "https://www.youtube.com/embed/fURpxrzjxxs"
 ---
 
 Сейчас программированием можно называть практически всё, что угодно: от создания макросов в Excel до разработки драйверов на C.
@@ -18,8 +20,4 @@ image: "https://secure.meetupstatic.com/photos/event/b/f/8/a/highres_494749034.j
 
 Онлайн-доклад состоялся в четверг 18 февраля.
 
-[Слайды](/downloads/highload-and-c++.pdf)
-
-<div class="video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/fURpxrzjxxs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+[Слайды в формате PDF](https://github.com/progmsk/progmsk.github.io/files/14731702/highload-and-c%2B%2B.pdf).
