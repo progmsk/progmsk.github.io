@@ -3,7 +3,9 @@ layout: post
 date: 2021-11-18 19:00:00
 title: "Continuous Integration: быстро чиним разработку"
 excerpt: "Всеволод Нечаев рассказывает о том, что общего между разработкой программ и автомобильным конвеером."
-image: "https://secure.meetupstatic.com/photos/event/1/f/1/7/clean_500107959.jpeg"
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/d9c82e06-8141-4896-a9ad-2d78232c6dd8"
+videos:
+  - "https://www.youtube.com/embed/X9oqLxQv268"
 ---
 
 Стоимость компьютерных экспериментов всегда была непомерно высока. Вы помните все эти фото из книг об истории компьютеров — огромные залы, бобины размером с колесо автомобиля, люди в белых халатах.
@@ -28,15 +30,9 @@ image: "https://secure.meetupstatic.com/photos/event/1/f/1/7/clean_500107959.jpe
 
 Рассказал нам об этом Всеволод Нечаев, Java-программист. Он долго пытался разобраться, почему CI выглядит так, как выглядит, а потом неожиданно разобрался. Ему помогла практика системного мышления, про которую мы тоже поговорили.
 
-## Видео
-
-<div class="video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/X9oqLxQv268" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ## Слайды
 
-[Скачать в формате PDF](/downloads/continuous-integration-fast-fix-of-development.pdf)
+[Скачать в формате PDF](https://github.com/progmsk/progmsk.github.io/files/14731594/continuous-integration-fast-fix-of-development.pdf).
 
 ## Ссылки из доклада
 
