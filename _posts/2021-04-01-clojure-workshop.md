@@ -3,7 +3,9 @@ layout: post
 date: 2021-04-01 19:00:00
 title: Воркшоп по Clojure
 excerpt: "Воркшоп Сергея Ткаченко."
-image: "https://secure.meetupstatic.com/photos/event/b/f/4/c/highres_495288972.jpeg"
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/f4bc83b3-61ce-43f4-842c-5b99e087e509"
+videos:
+  - "https://www.youtube.com/embed/OTIUvpyFAAc"
 ---
 
 Говорят, что новое — хорошо забытое старое. Временами кажется, что это действительно так.
@@ -22,8 +24,4 @@ Java и LISP в одном флаконе. Какая гремучая смес�
 
 Два часа вместе с Clojure.
 
-[Слайды](/downloads/clojure-workshop.pdf)
-
-<div class="video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/OTIUvpyFAAc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+[Слайды в формате PDF](https://github.com/progmsk/progmsk.github.io/files/14731654/clojure-workshop.pdf).
