@@ -44,7 +44,7 @@ layout: default
 <div class="row g-4 mb-4">
   <div class="col-lg-8 mx-auto">
     <div class="row text-center text-lg-start">
-      {% for mage in page.gallery %}
+      {% for image in page.gallery %}
       <div class="col-lg-3 col-md-3 col-6">
         <a href="{{ image }}" class="d-block mb-4 h-100" target="_blank">
           <img class="img-fluid img-thumbnail" src="{{ image }}" alt="{{ page.title | escape }}">
