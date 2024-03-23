@@ -3,7 +3,7 @@ layout: post
 date: 2022-11-01 19:00:00
 title: "Моковое cобеседование на Java Junior"
 excerpt: "Совместный проект клуба программистов и компании Solvery."
-image: "/assets/images/banners/2022-11-01-solvery.jpg"
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/d4cc6932-6971-4994-89a3-fc7d35f019c0"
 ---
 
 ![Моковое cобеседование на Java Junior](/assets/images/banners/2022-11-01-solvery.jpg){: style="float: left; width: 100%; margin-right: 2em; margin-bottom: 2em" }
