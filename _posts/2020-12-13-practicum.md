@@ -29,3 +29,16 @@ excerpt: "Программисты собираются для решения з
 Нас согласились приютить в небольшом, уютном и удобном [хакспейсе](https://t.me/space_0x1b) (с котиком) в районе м. Чкаловская (ближайшая), м. Курская, или м. Китай-город (около 15 минут пешком). Участвовало шесть человек, работали как в группе все вместе, так и самоорганизовались позже в мини-группы по три человека. И котёнок с фото тоже приходил помогать и парно программировать.
 
 [Детальный фотоотчёт](https://drive.google.com/drive/folders/1-007Viyy3YkEv6izUhS4nmcY3LFBa1c2?usp=sharing).
+
+![Файл_009](https://github.com/progmsk/progmsk.github.io/assets/10639110/7b2a07fb-f3c4-4e97-b47b-d6353856dce9)
+![Файл_008](https://github.com/progmsk/progmsk.github.io/assets/10639110/68cc091d-1876-44b9-9ed2-c6bd9a9a1b13)
+![Файл_007](https://github.com/progmsk/progmsk.github.io/assets/10639110/e965b97f-c85d-4f88-97a1-88dbb7aa1240)
+![Файл_006](https://github.com/progmsk/progmsk.github.io/assets/10639110/8176e057-6c08-41e3-8960-9dd2a9c8f4d1)
+![Файл_005](https://github.com/progmsk/progmsk.github.io/assets/10639110/34a2fdab-e179-4854-bd08-7dfe90a47ce0)
+![Файл_004](https://github.com/progmsk/progmsk.github.io/assets/10639110/fe2bf84a-96ff-4724-ac2e-e0443ceb4b3d)
+![Файл_003](https://github.com/progmsk/progmsk.github.io/assets/10639110/387c67bd-e302-47cf-9be5-96aa91ccc1f9)
+![Файл_001 jpeg](https://github.com/progmsk/progmsk.github.io/assets/10639110/c80eaf11-7d9a-4a3b-a7ac-ce430332d68d)
+![Файл_002](https://github.com/progmsk/progmsk.github.io/assets/10639110/302c17d0-7977-4a30-83f8-5f32e895b92d)
+![Файл_000](https://github.com/progmsk/progmsk.github.io/assets/10639110/421a5041-8201-44db-9a56-ef92e5c5e72e)
+![Файл_010](https://github.com/progmsk/progmsk.github.io/assets/10639110/192dfe34-8af9-4f04-973d-0c0b2f07f30f)
+
