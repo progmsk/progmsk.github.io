@@ -3,7 +3,7 @@ layout: post
 date: 2021-10-07 19:00:00
 title: "Управление проектами глазами программистов"
 excerpt: "Программисты спорят о том, что такое хорошее и плохое управление."
-image: "https://secure.meetupstatic.com/photos/event/2/1/8/7/clean_499148583.jpeg"
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/12a39fc6-5443-4aa7-957f-54351d044ae6"
 ---
 
 ## Коворкинг Элемент
