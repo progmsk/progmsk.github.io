@@ -26,6 +26,6 @@ image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/0bcf6099-58
 
 В гостях у Утконоса мы были в первый раз, поэтому не успели организовать видеозапись. К сожалению, этот доклад остался без видео, но у нас есть слайды.
 
-[Слайды в формате PDF](/downloads/tdd-or-not-tdd.pdf){:target="_blank"}.
+[Слайды в формате PDF](https://github.com/progmsk/progmsk.github.io/files/14731439/tdd-or-not-tdd.pdf){:target="_blank"}.
 
 Обещаем исправиться. Очень жаль, доклад и правда был очень хороший.
