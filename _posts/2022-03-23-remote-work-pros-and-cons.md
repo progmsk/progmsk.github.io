@@ -3,10 +3,10 @@ layout: post
 date: 2022-03-23 19:00:00
 title: "Удалённая работа: за и против"
 excerpt: "На совместном митапе SkillFactory и Московского клуба программистов мы обсудили опыт удалённой работы."
-image: "/assets/images/banners/2022-03-23-skillfactory.jpg"
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/242245c5-5116-445d-9d28-69066c733f5c"
+videos:
+  - "https://www.youtube.com/embed/JLI-KSBEB9U"
 ---
-
-![Удалённая работа: за и против](/assets/images/banners/2022-03-23-skillfactory.jpg){: style="float: left; width: 100%; margin-right: 2em; margin-bottom: 2em" }
 
 Предсказывать будущее — неблагодарное занятие, но статистика показывает, что третья волна пандемии неумолимо идёт на спад. Похоже, удалённая работа скоро станет необязательной, а, может быть, даже и нежелательной.
 
@@ -15,9 +15,3 @@ image: "/assets/images/banners/2022-03-23-skillfactory.jpg"
 Что можно сказать об удалённой работе сейчас? Удалось ли нам наладить эффективный процесс разработки, или возникли проблемы, с которыми мы так и не смогли справиться?
 
 Московский клуб программистов и онлайн-школа SkillFactory провели совместную встречу, посвящённую удалённой работе. Наши эксперты обсудили кейсы из личного опыта, и постарались разобраться, может ли удалённая работа быть такой же эффективной, как и работа из офиса. Или — всякое бывает — даже эффективнее?
-
-## Видео
-
-<div class="video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/JLI-KSBEB9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
