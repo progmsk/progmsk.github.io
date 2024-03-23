@@ -3,7 +3,9 @@ layout: post
 date: 2021-12-09 19:00:00
 title: "Бекенд 2022: выход из зоны комфорта"
 excerpt: "На совместном митапе Skillbox и Московского клуба программистов мы узнали, что ещё можно изучить бекенд-разработчику."
-image: "https://secure.meetupstatic.com/photos/event/2/5/7/e/clean_500589598.jpeg"
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/4cb7c0c7-0a13-40bb-881c-7afdf35ddd60"
+videos:
+  - "https://www.youtube.com/embed/rSKzxQ_7mv4"
 ---
 
 В мире программирования технологии меняются каждые несколько лет. То, что вчера было последним писком моды, сегодня уже предания глубокой старины. Чтобы оставаться в профессиональной обойме, нужно постоянно изучать новое. Наши спикеры рассказали о том, что может быть интересно бекенд-разработчикам в 2022 году.
@@ -20,7 +22,7 @@ image: "https://secure.meetupstatic.com/photos/event/2/5/7/e/clean_500589598.jpe
 
 Спикер: Родион Мостовой, разработчик на Flutter и C#.
 
-[Слайды в формате PDF](/downloads/blazor.pdf).
+[Слайды в формате PDF](https://github.com/progmsk/progmsk.github.io/files/14731578/blazor.pdf).
 
 ### Введение в функциональное программирование с примерами на Haskell
 
@@ -31,10 +33,3 @@ image: "https://secure.meetupstatic.com/photos/event/2/5/7/e/clean_500589598.jpe
 Спикер: Юрий Сыровецкий, разработчик на Haskell в Input Output Global.
 
 [Слайды](/downloads/why-functional-programming/index.html).
-
-## Видео
-
-<div class="video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/rSKzxQ_7mv4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
