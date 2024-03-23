@@ -3,6 +3,8 @@ layout: post
 date: 2021-09-16 19:00:00
 title: "Как проводить технические собеседования?"
 excerpt: "Опытные разработчики делятся опытом проведения и прохождения технических интервью."
+videos:
+  - "https://www.youtube.com/embed/Hnfifer2KUo"
 ---
 
 Не секрет, что программисты часто жалуются на то, как проходят собеседования, и на тех, кто их проводит.
@@ -54,7 +56,3 @@ excerpt: "Опытные разработчики делятся опытом п
 1. Соискатель нервничает и может неправильно ответить на простой вопрос. Как понять,
    знает он на самом деле, или нет? Задайте несколько несложных вопросов по одной теме.
    Если он знает, он ответит правильно почти на все, а если не знает, то почти на все ответит неправильно.
-
-<div class="video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Hnfifer2KUo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
