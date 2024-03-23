@@ -4,6 +4,12 @@ date: 2021-10-07 19:00:00
 title: "Управление проектами глазами программистов"
 excerpt: "Программисты спорят о том, что такое хорошее и плохое управление."
 image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/12a39fc6-5443-4aa7-957f-54351d044ae6"
+gallery:
+  - "https://github.com/progmsk/progmsk.github.io/assets/10639110/fa8d4729-6617-407e-a8a8-abf4ffcd777f"
+  - "https://github.com/progmsk/progmsk.github.io/assets/10639110/f8724ff0-2b7a-4ab8-b1ef-a4af43bcef69"
+  - "https://github.com/progmsk/progmsk.github.io/assets/10639110/617230ae-5903-414b-98cb-a50c9d6f0a07"
+  - "https://github.com/progmsk/progmsk.github.io/assets/10639110/65069654-104e-4b0d-9dd8-f6c0587ec19e"
+  - "https://github.com/progmsk/progmsk.github.io/assets/10639110/10b63cf5-50d6-4f5e-a8b5-c7a179cb410b"
 ---
 
 ## Коворкинг Элемент
@@ -33,16 +39,3 @@ image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/12a39fc6-54
 Мы выслушали истории о хороших и плохих руководителях. О хороших и плохих менеджерах проектов.
 
 Нельзя сказать, что мы разобрались, что такое образцовое управление или как стать образцовым боссом. Но мы поделились болью и рассказали друг-другу о том, что работает. Работает по крайней мере у нас. Возможно, результат нашей встречи будет полезен кому-то ещё.
-
-## Фотоотчёт
-
-![Управление проектами глазами программистов](https://secure.meetupstatic.com/photos/event/1/5/f/a/highres_499325626.jpeg){: .large-figure}
-
-![Управление проектами глазами программистов](https://secure.meetupstatic.com/photos/event/1/5/f/b/highres_499325627.jpeg){: .large-figure}
-
-![Управление проектами глазами программистов](https://secure.meetupstatic.com/photos/event/1/5/f/c/highres_499325628.jpeg){: .large-figure}
-
-![Управление проектами глазами программистов](https://secure.meetupstatic.com/photos/event/1/5/f/e/highres_499325630.jpeg){: .large-figure}
-
-![Управление проектами глазами программистов](https://secure.meetupstatic.com/photos/event/1/5/f/f/highres_499325631.jpeg){: .large-figure}
-
