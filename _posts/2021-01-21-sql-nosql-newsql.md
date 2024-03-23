@@ -3,6 +3,8 @@ layout: post
 date: 2021-01-21 19:00:00
 title: Реляционные и нереляционные базы данных
 excerpt: "Доклад Никиты Стариченко."
+videos:
+  - "https://www.youtube.com/embed/tzOHwkmPdzU"
 ---
 Реляционные базы данных давно и прочно обосновались в компьютерной индустрии. У них есть теоретическая основа — реляционная алгебра, и множество реализаций, таких как Oracle и Postgresql.
 
@@ -16,8 +18,4 @@ excerpt: "Доклад Никиты Стариченко."
 
 О проблемах, которые возникают с реляционными СУБД, и о видах нереляционных баз нам рассказал Никита Стариченко.ми на примерах на языке JavaScript.
 
-[Слайды](/downloads/sql-nosql-newsql.pdf)
-
-<div class="video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/tzOHwkmPdzU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+[Слайды в формате PDF](https://github.com/progmsk/progmsk.github.io/files/14731718/sql-nosql-newsql.pdf).
