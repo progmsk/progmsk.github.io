@@ -3,7 +3,7 @@ layout: post
 date: 2022-05-26 19:00:00
 title: "TDD or not TDD?"
 excerpt: "Сакральные знания о Разработке через Тестирование (Test Driven Development)."
-image: "https://secure.meetupstatic.com/photos/event/7/1/7/4/highres_504209044.jpeg"
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/0bcf6099-5803-4e6a-b265-2661e45e2973"
 ---
 
 ![TDD or not TDD?](https://secure.meetupstatic.com/photos/event/7/1/7/4/highres_504209044.jpeg){: style="float: left; width: 100%; margin-right: 2em; margin-bottom: 2em" }
