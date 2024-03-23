@@ -2,8 +2,10 @@
 layout: post
 date: 2021-08-19 12:00:00
 title: "Вся правда о Soft Skills"
-image: "https://secure.meetupstatic.com/photos/event/6/6/4/9/clean_498086185.jpeg"
 excerpt: "Доклад Марка Шевченко о социальных навыках для программистов."
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/6785b515-7f66-4437-a910-abe000f7e635"
+videos:
+  - "https://www.youtube.com/embed/kV72tWlBJEA"
 ---
 
 Хорошим программистом быть нетрудно — надо всего лишь постоянно учиться. Фреймворки и языки обновляются каждый год, и время не ждёт.
@@ -30,8 +32,4 @@ excerpt: "Доклад Марка Шевченко о социальных на�
 
 Приглашаем программистов, которых интересует профессиональное развитие, а также наших любимых смежников — проджект-менеджеров, тестировщиков, системных администраторов, деврелов и эйчаров.
 
-[Слайды](/downloads/whole-truth-about-soft-skills.pdf)
-
-<div class="video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/kV72tWlBJEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+[Слайды в формате PDF](https://github.com/progmsk/progmsk.github.io/files/14731631/whole-truth-about-soft-skills.pdf).
