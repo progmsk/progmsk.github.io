@@ -4,12 +4,13 @@ timezone: Europe/Moscow
 
 url: https://prog.msk.ru
 title: Московский клуб программистов
+image: /assets/images/post/default.png
 
 permalink: pretty
 highlighter: rouge
 markdown: kramdown
 input: GFM
-logo_location: "/assets/logo.jpeg"
+logo_location: "/assets/images/logo.svg"
 
 plugins:
   - jekyll-paginate

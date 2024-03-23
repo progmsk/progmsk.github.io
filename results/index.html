@@ -12,11 +12,7 @@ excerpt: Конспекты, презентации, видео со встре�
       <div class="card bg-transparent border-0">
         <div class="row g-3 pt-3">
           <div class="col-4">
-            {% if post.image %}
-            <img class="rounded" src="{{ post.image }}" alt="{{ post.title }}">
-            {% else %}
-            <img class="rounded" src="assets/images/post/4by3/04.jpg" alt="{{ post.title }}">
-            {% endif %}
+            <img class="rounded" src="{{ post.image | site.image }}" alt="{{ post.title }}">
           </div>
           <div class="col-8">
             <h5><a href="{{ post.url }}" class="btn-link stretched-link text-reset fw-bold">{{ post.title }}</a></h5>
