@@ -3,7 +3,9 @@ layout: post
 date: 2021-03-04 19:00:00
 title: Быстрые веб-сервисы
 excerpt: "Доклад Романа Ромадина."
-image: "https://secure.meetupstatic.com/photos/event/c/a/1/8/highres_494751736.jpeg"
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/287b066c-0596-41aa-bc4b-c39f98ad9a4f"
+videos:
+  - "https://www.youtube.com/embed/AMh8tR730q0"
 ---
 
 В начале девяностых годов мы работали на компьютерах с процессорами 80386 и 80486. Они казались сверхбыстрыми по сравнению с персоналками предыдущего поколения. На машине с мозгами модели 80386 запускался и работал Doom, что казалось невероятным.
@@ -18,8 +20,4 @@ image: "https://secure.meetupstatic.com/photos/event/c/a/1/8/highres_494751736.j
 
 Роман опытный бекенд-разработчик, писавший на PHP и на Go.
 
-[Слайды](/downloads/fast-web-services.pdf)
-
-<div class="video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/AMh8tR730q0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+[Слайды в формате PDF](https://github.com/progmsk/progmsk.github.io/files/14731689/fast-web-services.pdf).
