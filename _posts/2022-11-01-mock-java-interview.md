@@ -4,9 +4,9 @@ date: 2022-11-01 19:00:00
 title: "Моковое cобеседование на Java Junior"
 excerpt: "Совместный проект клуба программистов и компании Solvery."
 image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/d4cc6932-6971-4994-89a3-fc7d35f019c0"
+videos:
+  - "https://www.youtube.com/embed/OUll3psBdtU"
 ---
-
-![Моковое cобеседование на Java Junior](/assets/images/banners/2022-11-01-solvery.jpg){: style="float: left; width: 100%; margin-right: 2em; margin-bottom: 2em" }
 
 ## Tech Interview Fest ✊
 
@@ -29,9 +29,3 @@ Python / Java / Go / .NET / iOS / Android / React / Angular / Data Science / QA 
 👉 [Сайт феста](https://events.solvery.io/tech-interview-fest?utm_source=telegram&utm_medium=referral&utm_term=MKP_partner&utm_term=MKP_partner&utm_campaign=MKP_partner) 👈
 
 [Solvery](https://solvery.io/?utm_source=telegram&utm_medium=referral&utm_term=MKP_partner&utm_term=MKP_partner&utm_campaign=MKP_partner) — крупнейший в РФ маркет-плейс технических менторов из IT. Через ребят новички учатся и устраиваются на работу, а работающие специалисты ускоряют рост карьеры. 
-
-## Видео
-
-<div class="video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/OUll3psBdtU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>

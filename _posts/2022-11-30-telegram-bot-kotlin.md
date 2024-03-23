@@ -4,6 +4,10 @@ date: 2022-11-30 20:00:00
 title: "Пишем веб-приложение и Telegram-бота на Kotlin"
 excerpt: "Три воркшопа Вячеслава Аксёнова."
 image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/e686a584-a995-43d8-927f-7375b4bcad33"
+videos:
+  - "https://www.youtube.com/embed/Lx_Hii0EYDs"
+  - "https://www.youtube.com/embed/JGmKGyxr8xo"
+  - "https://www.youtube.com/embed/vmL3uxPoy6A"
 ---
 
 Мы в клубе программистов часто делаем доклады и воркшопы на разные интересные темы. К сожалению, самые интересные темы обычно достаточно сложны, чтобы их можно было осветить за полчаса или даже за полтора.
@@ -17,17 +21,3 @@ image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/e686a584-a9
 ## Исходный код
 
 [GitHub](https://github.com/v-aksenov/reminder-bot-meetup)
-
-## Видео
-
-<div class="video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Lx_Hii0EYDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-<div class="video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/JGmKGyxr8xo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-<div class="video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/vmL3uxPoy6A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>

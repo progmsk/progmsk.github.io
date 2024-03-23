@@ -3,6 +3,8 @@ layout: post
 date: 2022-07-14 19:00:00
 title: "Бэк для профессионалов"
 excerpt: "Родион Мостовой и Сергей Кирьяков о тонкостях разработки бэкенда."
+videos:
+  - "https://www.youtube.com/embed/MqO1iMVbdOs"
 ---
 
 Давно клуб программистов не собирался в классическом антураже. Во-первых, оффлайн; и во-вторых, с двумя полновесными докладами.
@@ -15,10 +17,4 @@ excerpt: "Родион Мостовой и Сергей Кирьяков о то
 
 ## Слайды
 
-[Рецепты здоровой многопоточности PDF](/downloads/multithreading-of-healthy-person.pdf)
-
-## Видео
-
-<div class="video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/MqO1iMVbdOs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+[Рецепты здоровой многопоточности PDF](/downloads/multithreading-of-healthy-person.pdf){:target="_blank"}

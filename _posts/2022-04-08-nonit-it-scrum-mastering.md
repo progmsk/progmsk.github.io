@@ -4,9 +4,9 @@ date: 2022-04-08 19:00:00
 title: "Неайтишные айти: скрам-мастерство"
 excerpt: "Обсудили со скрам-мастером Светланой Кривенко способы войти в айти без изучения программирования."
 image: "/assets/images/banners/2022-04-08-nonit-it-scrum-mastering.png"
+videos:
+  - "https://www.youtube.com/embed/MErGf1z-IGE"
 ---
-
-![Неайтишные айти: скрам-мастерство](/assets/images/banners/2022-04-08-nonit-it-scrum-mastering.png){: style="float: left; width: 100%; margin-right: 2em; margin-bottom: 2em" }
 
 Московский клуб программистов упорно занимается популяризацией программирования. Настолько упорно, что иногда вообще ничего вокруг не замечает. А там — вокруг — между тем, столько прекрасного!
 
@@ -28,9 +28,3 @@ image: "/assets/images/banners/2022-04-08-nonit-it-scrum-mastering.png"
 * Эстер Дерби, Диана Ларсен ["Agile ретроспектива. Как превратить хорошую команду в великую"](https://www.ozon.ru/product/agile-retrospektiva-kak-prevratit-horoshuyu-komandu-v-velikuyu-139141848/)
 * Зузи Шорохова ["Путь Скрам-Мастера"](https://www.mann-ivanov-ferber.ru/books/put-skram-mastera/)
 * Максим Ильяхов, Людмила Сарычева ["Пиши, сокращай"](https://alpinabook.ru/catalog/book-pishi-sokrashchay/)
-
-## Видео
-
-<div class="video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/MErGf1z-IGE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>

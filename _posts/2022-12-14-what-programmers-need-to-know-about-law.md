@@ -4,6 +4,8 @@ date: 2022-12-14 20:00:00
 title: "Что программистам надо знать о законах: лицензии, персональные данные, работодатели"
 excerpt: "Интервью с юристом Ольгой Щербаковой."
 image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/14cb4208-ebca-4cc9-a583-5b5507096f8e"
+videos:
+  - "https://www.youtube.com/embed/4kiqhUzmp8I"
 ---
 
 Программисты знают всё. Любой вопрос экономики, медицины и квантовой механики без сопротивления поддаётся глубокому уму программиста.
@@ -23,7 +25,3 @@ image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/14cb4208-eb
 Ольга работает, как в России, так и в Европе, окончила магистратуру по направлению «Юриспруденция в сфере новых технологий» в Мадриде, так что разбирается в этих непростых вопросах профессионально.
 
 Юридическое бюро Ольги Щербаковой: https://legal-bureau1.com/
-
-<div class="video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/4kiqhUzmp8I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
