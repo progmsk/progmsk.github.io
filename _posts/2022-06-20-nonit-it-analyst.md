@@ -3,7 +3,7 @@ layout: post
 date: 2022-06-20 19:00:00
 title: "Неайтишные айти: аналитика"
 excerpt: "Обсудили с Алёной Ангилоповой способы войти в айти без изучения программирования."
-image: "/assets/images/banners/2022-06-20-nonit-it-analyst.png"
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/efd177d6-eb0c-4e5f-88b0-6ffa7a9d8e6d"
 ---
 
 ![Неайтишные айти: аналитика](/assets/images/banners/2022-06-20-nonit-it-analyst.png){: style="float: left; width: 100%; margin-right: 2em; margin-bottom: 2em" }
