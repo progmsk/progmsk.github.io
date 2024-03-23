@@ -17,4 +17,4 @@ videos:
 
 ## Слайды
 
-[Рецепты здоровой многопоточности PDF](/downloads/multithreading-of-healthy-person.pdf){:target="_blank"}
+[Рецепты здоровой многопоточности PDF]([/downloads/multithreading-of-healthy-person.pdf](https://github.com/progmsk/progmsk.github.io/files/14731344/multithreading-of-healthy-person.pdf)https://github.com/progmsk/progmsk.github.io/files/14731344/multithreading-of-healthy-person.pdf){:target="_blank"}
