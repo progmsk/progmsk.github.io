@@ -3,7 +3,7 @@ layout: post
 date: 2022-12-08 20:00:00
 title: "Разработка DSL в Kotlin"
 excerpt: "Доклад Фёдора Ярёменко."
-image: "/assets/images/banners/2022-12-08.jpg"
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/cc762555-32ab-4c83-b830-d0aa60b1343d"
 ---
 
 Программисты постоянно спорят о том, какой язык самый лучший. Когда то мы сравнивали C и Pascal, но время идёт, и позади уже остались баталии Python/Ruby и Java/C#.
