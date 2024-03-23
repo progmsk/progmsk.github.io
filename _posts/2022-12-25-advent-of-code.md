@@ -3,7 +3,9 @@ layout: post
 date: 2022-12-25 09:00:00
 title: "Advent of Code 2022"
 excerpt: "Приняли участие в международном программистском марафоне."
-image: "/assets/images/banners/2023-01-19-advent-of-code.jpg"
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/24a6e968-1afe-42f2-bbd0-afbc09e64f8a"
+videos:
+  - "https://www.youtube.com/embed/E12WNSXR15A?si=1yFkTTQX9-GJ1yBO"
 ---
 
 В декабре в восьмой раз пройдёт месячник безудержного предновогоднего программирования — Advent of Code.
@@ -36,8 +38,4 @@ Advent of Code — программистское прочтение запад�
 
 ## Видео
 
-Собрались в новом году 19 января, чтобы обсудить свои решения.
-
-<div class="video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/E12WNSXR15A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
+Собрались в новом году 19 января, чтобы обсудить свои решения. Обсуждение записали и выложили в сеть.

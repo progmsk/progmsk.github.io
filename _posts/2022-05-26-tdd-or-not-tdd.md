@@ -3,14 +3,13 @@ layout: post
 date: 2022-05-26 19:00:00
 title: "TDD or not TDD?"
 excerpt: "Сакральные знания о Разработке через Тестирование (Test Driven Development)."
-image: "https://secure.meetupstatic.com/photos/event/7/1/7/4/highres_504209044.jpeg"
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/0bcf6099-5803-4e6a-b265-2661e45e2973"
 ---
-
-![TDD or not TDD?](https://secure.meetupstatic.com/photos/event/7/1/7/4/highres_504209044.jpeg){: style="float: left; width: 100%; margin-right: 2em; margin-bottom: 2em" }
 
 26 мая в четверг прошла оффлайн встреча нашего клуба на территории [онлайн-магазина Утконос](https://www.utkonos.ru/).
 
-Светлана Кривенко попыталась дать ответ на вечный философский вопрос о Test-driven development (TDD): TDD или не TDD?
+**Светлана Кривенко** попыталась дать ответ на вечный философский вопрос о Test-driven development (TDD): TDD или не TDD?
+
 * Что это и зачем?
 * Что такое хороший тест?
 * Какие есть сложности и мифы про TDD?
@@ -20,12 +19,13 @@ image: "https://secure.meetupstatic.com/photos/event/7/1/7/4/highres_504209044.j
 А после доклада мы подискутировали с теми, кто еще не перешел на светлую сторону.
 
 Коротко о докладчике:
+
 * 4,5 года как сертифицированный Scrum Master (Raiffeisen, Tutu.ru)
 * в прошлом 11 лет как Java Full Stack/Team Lead (Outsource)
 * со-организатор TDD практик и митапов
 
-В гостях у Утконоса мы были в первый раз, поэтому не успели организовать видеозапись. К сожалению, этот доклад остался без видео, но у нас остались слайды.
+В гостях у Утконоса мы были в первый раз, поэтому не успели организовать видеозапись. К сожалению, этот доклад остался без видео, но у нас есть слайды.
 
-[Слайды в формате PDF](/downloads/tdd-or-not-tdd.pdf).
+[Слайды в формате PDF](https://github.com/progmsk/progmsk.github.io/files/14731439/tdd-or-not-tdd.pdf){:target="_blank"}.
 
 Обещаем исправиться. Очень жаль, доклад и правда был очень хороший.

@@ -3,7 +3,9 @@ layout: post
 date: 2022-12-08 20:00:00
 title: "Разработка DSL в Kotlin"
 excerpt: "Доклад Фёдора Ярёменко."
-image: "/assets/images/banners/2022-12-08.jpg"
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/cc762555-32ab-4c83-b830-d0aa60b1343d"
+videos:
+ - "https://www.youtube.com/embed/8Js9WtiN2kg"
 ---
 
 Программисты постоянно спорят о том, какой язык самый лучший. Когда то мы сравнивали C и Pascal, но время идёт, и позади уже остались баталии Python/Ruby и Java/C#.
@@ -17,7 +19,3 @@ image: "/assets/images/banners/2022-12-08.jpg"
 Современные языки имеют гораздо более выразительные средства расширения. Одним из таких языков является Котлин.
 
 Фёдор Ярёменко рассказал о его возможностях и о том, как создавать DSL (domain-specific languages или предметно-ориентированные языки) для своих нужд без существенных затрат времени. Фёдор пишет на Java более десяти лет и уже около четырёх лет на Kotlin.
-
-<div class="video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/8Js9WtiN2kg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>

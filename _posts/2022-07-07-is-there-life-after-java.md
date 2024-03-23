@@ -3,6 +3,8 @@ layout: post
 date: 2022-07-07 19:00:00
 title: "Бэкенд и Kotlin. Есть ли жизнь после Java?"
 excerpt: "Вячеслав Аксёнов делится опытом Kotlin-разработки."
+videos:
+  - "https://www.youtube.com/embed/GF8Cy1AEmMU"
 ---
 
 Ковид, несмотря на все минусы, привнёс в IT-жизнь и плюсы — сейчас мы гораздо проще относимся к удалённой коммуникации.
@@ -17,10 +19,5 @@ excerpt: "Вячеслав Аксёнов делится опытом Kotlin-р�
 
 ## Слайды
 
-[Скачать в формате PDF](/downloads/is-there-life-after-java.pdf)
+[Скачать в формате PDF](https://github.com/progmsk/progmsk.github.io/files/14731416/is-there-life-after-java.pdf){:target="_blank"}
 
-## Видео
-
-<div class="video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/GF8Cy1AEmMU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>

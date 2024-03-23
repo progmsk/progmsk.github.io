@@ -3,10 +3,10 @@ layout: post
 date: 2022-06-20 19:00:00
 title: "Неайтишные айти: аналитика"
 excerpt: "Обсудили с Алёной Ангилоповой способы войти в айти без изучения программирования."
-image: "/assets/images/banners/2022-06-20-nonit-it-analyst.png"
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/efd177d6-eb0c-4e5f-88b0-6ffa7a9d8e6d"
+videos:
+  - "https://www.youtube.com/embed/wJcTYHydXjQ"
 ---
-
-![Неайтишные айти: аналитика](/assets/images/banners/2022-06-20-nonit-it-analyst.png){: style="float: left; width: 100%; margin-right: 2em; margin-bottom: 2em" }
 
 Всем привет. Московский клуб программистов упорно занимается популяризацией программирования. Настолько упорно, что иногда вообще ничего вокруг не замечает. А там — вокруг — между тем, столько прекрасного!
 
@@ -25,9 +25,3 @@ image: "/assets/images/banners/2022-06-20-nonit-it-analyst.png"
 [Разработка требований к программному обеспечению. Карл Вигерс, Джой Битти](https://www.ozon.ru/product/razrabotka-trebovaniy-k-programmnomu-obespecheniyu-221778297/?sh=rVtbOs03xQ&utm_campaign=productpage_link&utm_medium=share_button&utm_source=smm).
 
 Это та книга, которую показывала Алёна.
-
-## Видео
-
-<div class="video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/wJcTYHydXjQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>

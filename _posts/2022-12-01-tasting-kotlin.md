@@ -3,7 +3,9 @@ layout: post
 date: 2022-12-01 20:00:00
 title: "Пробуем Kotlin на вкус"
 excerpt: "Воркшоп Алексея Пирогова."
-image: "/assets/images/banners/2022-12-01.jpg"
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/6543d971-15e6-4547-9903-c888bea202d1"
+videos:
+  - "https://www.youtube.com/embed/V2YqLtD3HoU"
 ---
 
 Знакомство с языками программирования бывает разным. Можно погрузиться в серьёзных проект, в котором, помимо языка, нужно держать в голове тестирование, архитектуру, системную библиотеку и даже, вероятно, такие штуки, как HTTP, JSON и SQL.
@@ -19,7 +21,3 @@ image: "/assets/images/banners/2022-12-01.jpg"
 ## Исходный код проекта
 
 [GitHub](https://github.com/astynax/game2048.kt)
-
-<div class="video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/V2YqLtD3HoU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>

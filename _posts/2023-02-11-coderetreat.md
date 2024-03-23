@@ -3,14 +3,67 @@ layout: post
 date: 2023-02-11 10:30:00
 title: "Код-ретрит про парное программирование и разработку через тестирование"
 excerpt: "Итоги."
-image: "/assets/images/banners/2023-01-18-coderetreat.png"
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/f9a65a9b-1b2b-40eb-9aab-5069e2fa92f2"
+videos:
+  - "https://www.youtube.com/embed/ZUNi_IcaVIg?si=ErcORj-FBK13w6VA"
+gallery_images:
+  - "https://user-images.githubusercontent.com/10639110/219047776-80688f56-d3cc-4f21-8476-c8364a95a39e.jpg"
+  - "https://user-images.githubusercontent.com/10639110/219047804-5d0a4256-c7cb-49d0-9e1d-5f52f51ea88a.jpg"
+  - "https://user-images.githubusercontent.com/10639110/219047862-60e9e4e8-5dcb-4f0d-b090-5aea2f8a1b8b.jpg"
+  - "https://user-images.githubusercontent.com/10639110/219047909-1a2971d1-a588-42c2-9706-7407eed10936.jpg"
+  - "https://user-images.githubusercontent.com/10639110/219047956-85b8cd9c-b7ee-4b66-b94f-1d405fcfaf72.jpg"
+  - "https://user-images.githubusercontent.com/10639110/219048029-1fcddbbe-79ba-49db-8642-93d973b02c4d.jpg"
+  - "https://user-images.githubusercontent.com/10639110/219048069-9d3ea819-b279-4022-ace8-90a59684ca1f.jpg"
+  - "https://user-images.githubusercontent.com/10639110/219048107-c6aa62ac-4706-4483-98a0-2d303de41aaf.jpg"
+  - "https://user-images.githubusercontent.com/10639110/219048152-babf3ba2-422c-4c7b-9e9c-51f7dcccea23.jpg"
+  - "https://user-images.githubusercontent.com/10639110/219048171-147fee8b-943a-40b4-90e3-d660a73fc7a7.jpg"
+  - "https://user-images.githubusercontent.com/10639110/219048194-17e1ba51-a018-469a-a0bb-8fc92bc27431.jpg"
+  - "https://user-images.githubusercontent.com/10639110/219048215-62090dea-a46b-4ef6-ab5b-d3b1daba0dd4.jpg"
+  - "https://user-images.githubusercontent.com/10639110/219048270-16aa2349-3bc1-419d-ba33-05d39b7eb082.jpg"
+  - "https://user-images.githubusercontent.com/10639110/219048286-4d4eb2f6-9f50-4c23-b435-d3f0090d97c9.jpg"
+  - "https://user-images.githubusercontent.com/10639110/219048310-54708cf7-33b1-438e-bf07-76d925532d78.jpg"
+  - "https://user-images.githubusercontent.com/10639110/219048342-21ebd48e-d098-437c-9de2-d53c148dd19c.jpg"
+  - "https://user-images.githubusercontent.com/10639110/219048379-f7f7928c-7854-4329-9965-36fd854e4c68.jpg"
+  - "https://user-images.githubusercontent.com/10639110/219048396-4356bfc2-c3d3-4ad1-a187-64e8a95f191d.jpg"
+  - "https://user-images.githubusercontent.com/10639110/219048441-a166d24a-d665-468b-b469-988cf69e11cc.jpg"
+  - "https://user-images.githubusercontent.com/10639110/219048472-b457e052-8005-4dfb-b9cf-fc3c6c6f468f.jpg"
+  - "https://user-images.githubusercontent.com/10639110/219048503-c8532c31-7dc2-45b2-b3ce-b7924bec02a5.jpg"
+  - "https://user-images.githubusercontent.com/10639110/219048517-0ad1e911-75f9-4f0b-a11b-52dea6e72589.jpg"
+  - "https://user-images.githubusercontent.com/10639110/219048538-eab992ee-aa30-4076-bdb7-9f7a2f9aa9b0.jpg"
+  - "https://user-images.githubusercontent.com/10639110/219048573-48c7bf48-d298-4238-87e3-ca81631da47b.jpg"
+  - "https://user-images.githubusercontent.com/10639110/219048611-194474c6-0b6c-41d0-b82e-20b951ed143e.jpg"
+  - "https://user-images.githubusercontent.com/10639110/219048640-d7b6a2ad-8b82-4a1d-8648-608e46da57ba.jpg"
+  - "https://user-images.githubusercontent.com/10639110/219048659-be8ca592-cc59-4070-8c95-9c64b86301d8.jpg"
+  - "https://user-images.githubusercontent.com/10639110/219048679-b96353c5-b623-44e2-8d96-143eb3bd24e2.jpg"
+  - "https://user-images.githubusercontent.com/10639110/220340710-c74c436d-c3fc-4843-9ba9-ceed40a157d6.jpg"
+  - "https://user-images.githubusercontent.com/10639110/220340723-54924a8e-d91d-4655-b568-138f251e49d4.jpg"
+  - "https://user-images.githubusercontent.com/10639110/220340770-ea6c576e-3f1b-4892-840a-bab5037bbfca.jpg"
+  - "https://user-images.githubusercontent.com/10639110/220340788-f730bd04-ef78-403b-9d97-a95cd3b9ce6c.jpg"
+  - "https://user-images.githubusercontent.com/10639110/220340801-705b9a48-8bff-4d6a-a96a-26242486f8e2.jpg"
+  - "https://user-images.githubusercontent.com/10639110/220340814-c1b022e8-0439-4b28-bf89-bc44a620c4e1.jpg"
+  - "https://user-images.githubusercontent.com/10639110/220340839-174f286c-8d73-49ba-9533-4024738a72b8.jpg"
+  - "https://user-images.githubusercontent.com/10639110/220340867-84988a73-114e-4654-bd4c-12b707b7926f.jpg"
+  - "https://user-images.githubusercontent.com/10639110/220340965-4e75e257-2f2e-495b-8d9f-6a0dffcf5aaa.jpg"
+  - "https://user-images.githubusercontent.com/10639110/220340980-72a70da0-68e1-414f-8321-c39d4a5aa81b.jpg"
+  - "https://user-images.githubusercontent.com/10639110/220340992-d6a07472-1c04-4b24-adf2-37f7729d61d3.jpg"
+  - "https://user-images.githubusercontent.com/10639110/220341008-a85409c5-33e1-43a4-871f-f0da6cac6f32.jpg"
+  - "https://user-images.githubusercontent.com/10639110/220341046-ef34b900-97d3-4466-b442-74ad31e27eb1.jpg"
+  - "https://user-images.githubusercontent.com/10639110/220341069-d3ed69f5-56a2-480b-9cef-f662bea9af79.jpg"
+  - "https://user-images.githubusercontent.com/10639110/220341081-494e8288-a83b-4de1-a445-d34b38bf83ac.jpg"
+  - "https://user-images.githubusercontent.com/10639110/220341119-47853856-e2b0-438c-adea-a0ab49768779.jpg"
+  - "https://user-images.githubusercontent.com/10639110/220341249-eebb599e-cb2d-4acb-a6b1-fb36faf67fea.jpg"
+  - "https://user-images.githubusercontent.com/10639110/220341258-0c5492f0-ce8f-43f2-972b-843a61d1f448.jpg"
+  - "https://user-images.githubusercontent.com/10639110/220341283-6cb65143-e434-4c10-982b-bc2e5c4330dd.jpg"
+  - "https://user-images.githubusercontent.com/10639110/220341304-506d55d6-9da9-4886-81e9-faa3e25e91bf.jpg"
+  - "https://user-images.githubusercontent.com/10639110/220341344-e5857f4a-59e8-42bd-97c4-4b04537751f3.jpg"
+  - "https://user-images.githubusercontent.com/10639110/220341357-ff2249fd-18ac-47d3-b954-07b2e27a49a9.jpg"
+  - "https://user-images.githubusercontent.com/10639110/220341383-39345f8b-e422-4759-8acb-262184ebe51c.jpg"
+  - "https://user-images.githubusercontent.com/10639110/220341400-ebfa9c01-26c5-4a04-8634-335399245848.jpg"
+  - "https://user-images.githubusercontent.com/10639110/220341424-3e38bb7f-cf10-44de-bacb-8e5c7f908089.jpg"
+  - "https://user-images.githubusercontent.com/10639110/220341496-d86a8b51-c18b-48e9-a490-6f1f3bf2c897.jpg"
 ---
 
 Код-ретрит, который мы анонсировали три недели назад, состоялся.
-
-<div class="video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/ZUNi_IcaVIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
 
 Каждую сессию участники начинали с нуля, стирая весь написанный код. Тем не менее, благодаря чудесам git, можно посмотреть, [что у них получалось](https://github.com/anton0xf/code-retreat-2023).
 
@@ -111,65 +164,3 @@ image: "/assets/images/banners/2023-01-18-coderetreat.png"
 * Во всей организации чувствовались ответственный подход и огромный вложенный
   труд, мне сложно представить лучше. Разве только мандарины заменить на бананы (их просто есть удобней).
 * Может быть в Яндексе попробовать провести.
-
-### Фото
-
-Порядка пятисот фото лежат на [странице Авито в VK](https://vk.com/album-152990965_291394522).
-
-Фото, которые делала команда фасилитаторов, здесь:
-
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219047776-80688f56-d3cc-4f21-8476-c8364a95a39e.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219047804-5d0a4256-c7cb-49d0-9e1d-5f52f51ea88a.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219047862-60e9e4e8-5dcb-4f0d-b090-5aea2f8a1b8b.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219047909-1a2971d1-a588-42c2-9706-7407eed10936.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219047956-85b8cd9c-b7ee-4b66-b94f-1d405fcfaf72.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219048029-1fcddbbe-79ba-49db-8642-93d973b02c4d.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219048069-9d3ea819-b279-4022-ace8-90a59684ca1f.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219048107-c6aa62ac-4706-4483-98a0-2d303de41aaf.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219048152-babf3ba2-422c-4c7b-9e9c-51f7dcccea23.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219048171-147fee8b-943a-40b4-90e3-d660a73fc7a7.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219048194-17e1ba51-a018-469a-a0bb-8fc92bc27431.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219048215-62090dea-a46b-4ef6-ab5b-d3b1daba0dd4.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219048270-16aa2349-3bc1-419d-ba33-05d39b7eb082.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219048286-4d4eb2f6-9f50-4c23-b435-d3f0090d97c9.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219048310-54708cf7-33b1-438e-bf07-76d925532d78.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219048342-21ebd48e-d098-437c-9de2-d53c148dd19c.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219048379-f7f7928c-7854-4329-9965-36fd854e4c68.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219048396-4356bfc2-c3d3-4ad1-a187-64e8a95f191d.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219048441-a166d24a-d665-468b-b469-988cf69e11cc.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219048472-b457e052-8005-4dfb-b9cf-fc3c6c6f468f.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219048503-c8532c31-7dc2-45b2-b3ce-b7924bec02a5.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219048517-0ad1e911-75f9-4f0b-a11b-52dea6e72589.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219048538-eab992ee-aa30-4076-bdb7-9f7a2f9aa9b0.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219048573-48c7bf48-d298-4238-87e3-ca81631da47b.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219048611-194474c6-0b6c-41d0-b82e-20b951ed143e.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219048640-d7b6a2ad-8b82-4a1d-8648-608e46da57ba.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219048659-be8ca592-cc59-4070-8c95-9c64b86301d8.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/219048679-b96353c5-b623-44e2-8d96-143eb3bd24e2.jpg){: .large-figure}
-
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/220340710-c74c436d-c3fc-4843-9ba9-ceed40a157d6.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/220340723-54924a8e-d91d-4655-b568-138f251e49d4.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/220340770-ea6c576e-3f1b-4892-840a-bab5037bbfca.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/220340788-f730bd04-ef78-403b-9d97-a95cd3b9ce6c.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/220340801-705b9a48-8bff-4d6a-a96a-26242486f8e2.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/220340814-c1b022e8-0439-4b28-bf89-bc44a620c4e1.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/220340839-174f286c-8d73-49ba-9533-4024738a72b8.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/220340867-84988a73-114e-4654-bd4c-12b707b7926f.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/220340965-4e75e257-2f2e-495b-8d9f-6a0dffcf5aaa.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/220340980-72a70da0-68e1-414f-8321-c39d4a5aa81b.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/220340992-d6a07472-1c04-4b24-adf2-37f7729d61d3.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/220341008-a85409c5-33e1-43a4-871f-f0da6cac6f32.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/220341046-ef34b900-97d3-4466-b442-74ad31e27eb1.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/220341069-d3ed69f5-56a2-480b-9cef-f662bea9af79.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/220341081-494e8288-a83b-4de1-a445-d34b38bf83ac.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/220341119-47853856-e2b0-438c-adea-a0ab49768779.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/220341249-eebb599e-cb2d-4acb-a6b1-fb36faf67fea.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/220341258-0c5492f0-ce8f-43f2-972b-843a61d1f448.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/220341283-6cb65143-e434-4c10-982b-bc2e5c4330dd.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/220341304-506d55d6-9da9-4886-81e9-faa3e25e91bf.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/220341344-e5857f4a-59e8-42bd-97c4-4b04537751f3.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/220341357-ff2249fd-18ac-47d3-b954-07b2e27a49a9.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/220341383-39345f8b-e422-4759-8acb-262184ebe51c.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/220341400-ebfa9c01-26c5-4a04-8634-335399245848.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/220341424-3e38bb7f-cf10-44de-bacb-8e5c7f908089.jpg){: .large-figure}
-![Код-ретрит 11 февраля 2023](https://user-images.githubusercontent.com/10639110/220341496-d86a8b51-c18b-48e9-a490-6f1f3bf2c897.jpg){: .large-figure}
