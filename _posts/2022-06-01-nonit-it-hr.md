@@ -3,7 +3,7 @@ layout: post
 date: 2022-06-01 19:00:00
 title: "Неайтишные айти: управление кадрами"
 excerpt: "Обсудили с эйчаром Алёной Самойленко способы войти в айти без изучения программирования."
-image: "/assets/images/banners/2022-06-01-nonit-it-hr.png"
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/5b953e7a-e6c7-44dc-9fc8-88c805f191ac"
 ---
 
 ![Неайтишные айти: управление кадрами](/assets/images/banners/2022-06-01-nonit-it-hr.png){: style="float: left; width: 100%; margin-right: 2em; margin-bottom: 2em" }
