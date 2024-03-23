@@ -3,7 +3,7 @@ layout: post
 date: 2022-10-27 19:00:00
 title: "Language Server Protocol, TreeSitter, зачем это всё"
 excerpt: "Алексей Пирогов рассказал про устройство современных IDE."
-image: "/assets/images/banners/2022-10-27-lsp.png"
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/07664735-aecd-4941-b834-9ab420c000eb"
 ---
 
 ![Алексей Пирогов рассказал про устройство современных IDE](/assets/images/banners/2022-10-27-lsp.png){: style="float: left; width: 100%; margin-right: 2em; margin-bottom: 2em" }
