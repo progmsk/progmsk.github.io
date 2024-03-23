@@ -4,7 +4,7 @@ date: 2023-09-07 19:00:00+03:00
 title: "RUST — современный язык программирования"
 excerpt: "Доклады Егора Ивкова и Винсента Амбо."
 image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/0ddda351-1d83-4a10-9664-ed15479fae5c"
-gallery_images:
+gallery:
   - "https://github.com/progmsk/progmsk.github.io/assets/10639110/33ab994c-b68a-4fec-8f8b-69153b043bbe"
   - "https://github.com/progmsk/progmsk.github.io/assets/10639110/bf1885ae-a39e-4edd-a4e5-5a7e8f43436a"
   - "https://github.com/progmsk/progmsk.github.io/assets/10639110/48de2c44-5777-4ef1-9231-873257262f6a"

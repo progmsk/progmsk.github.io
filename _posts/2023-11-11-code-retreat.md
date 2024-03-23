@@ -4,7 +4,7 @@ date: 2023-11-11 10:00:00+03:00
 title: "Осваиваем парное программирование и разработку через тестирование"
 excerpt: "Субботний интенсив."
 image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/7c8fba9d-8d22-4883-922d-c7739acd66da"
-gallery_images:
+gallery:
   - "https://github.com/progmsk/progmsk.github.io/assets/10639110/379cf666-cce9-471b-a9ad-f6d083ffea10"
   - "https://github.com/progmsk/progmsk.github.io/assets/10639110/aed7a6bc-8c4d-4c8b-9442-274effa1cd38"
   - "https://github.com/progmsk/progmsk.github.io/assets/10639110/edc45f3f-1f63-4e7b-81df-680e4451d2c8"

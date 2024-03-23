@@ -6,7 +6,7 @@ excerpt: "Итоги."
 image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/f9a65a9b-1b2b-40eb-9aab-5069e2fa92f2"
 videos:
   - "https://www.youtube.com/embed/ZUNi_IcaVIg?si=ErcORj-FBK13w6VA"
-gallery_images:
+gallery:
   - "https://user-images.githubusercontent.com/10639110/219047776-80688f56-d3cc-4f21-8476-c8364a95a39e.jpg"
   - "https://user-images.githubusercontent.com/10639110/219047804-5d0a4256-c7cb-49d0-9e1d-5f52f51ea88a.jpg"
   - "https://user-images.githubusercontent.com/10639110/219047862-60e9e4e8-5dcb-4f0d-b090-5aea2f8a1b8b.jpg"
