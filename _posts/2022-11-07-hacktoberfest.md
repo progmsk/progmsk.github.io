@@ -57,11 +57,11 @@ image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/7090c5cc-a1
 
 Наши пулреквесты:
 
-* https://github.com/TheAlgorithms/F-Sharp/pull/24
-* https://github.com/apache/arrow-datafusion/pull/3771
-* https://github.com/liquibase/liquibase/pull/3350
-* https://github.com/TheAlgorithms/Rust/pull/408
-* https://github.com/apache/arrow-datafusion/pull/3782
-* https://github.com/rahuldkjain/github-profile-readme-generator/pull/629
-* https://github.com/liquibase/liquibase/pull/3377
-* https://github.com/liquibase/liquibase/pull/3397
+* [TheAlgorithms/F-Sharp](https://github.com/TheAlgorithms/F-Sharp/pull/24)
+* [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust/pull/408)
+* [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion/pull/3771)
+* [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion/pull/3782)
+* [liquibase/liquibase](https://github.com/liquibase/liquibase/pull/3350)
+* [liquibase/liquibase](https://github.com/liquibase/liquibase/pull/3377)
+* [liquibase/liquibase](https://github.com/liquibase/liquibase/pull/3397)
+* [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator/pull/629)
