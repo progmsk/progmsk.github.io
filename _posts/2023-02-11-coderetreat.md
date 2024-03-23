@@ -4,6 +4,8 @@ date: 2023-02-11 10:30:00
 title: "Код-ретрит про парное программирование и разработку через тестирование"
 excerpt: "Итоги."
 image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/f9a65a9b-1b2b-40eb-9aab-5069e2fa92f2"
+videos:
+  - "https://www.youtube.com/embed/ZUNi_IcaVIg?si=ErcORj-FBK13w6VA"
 ---
 
 Код-ретрит, который мы анонсировали три недели назад, состоялся.

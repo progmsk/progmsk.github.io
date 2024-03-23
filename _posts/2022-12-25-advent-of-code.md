@@ -4,6 +4,8 @@ date: 2022-12-25 09:00:00
 title: "Advent of Code 2022"
 excerpt: "Приняли участие в международном программистском марафоне."
 image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/24a6e968-1afe-42f2-bbd0-afbc09e64f8a"
+videos:
+  - "https://www.youtube.com/embed/E12WNSXR15A?si=1yFkTTQX9-GJ1yBO"
 ---
 
 В декабре в восьмой раз пройдёт месячник безудержного предновогоднего программирования — Advent of Code.
