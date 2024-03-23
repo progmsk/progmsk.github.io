@@ -3,7 +3,7 @@ layout: post
 date: 2022-04-08 19:00:00
 title: "Неайтишные айти: скрам-мастерство"
 excerpt: "Обсудили со скрам-мастером Светланой Кривенко способы войти в айти без изучения программирования."
-image: "/assets/images/banners/2022-04-08-nonit-it-scrum-mastering.png"
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/42f4249c-237f-43ad-977d-c6c714c91fc0"
 videos:
   - "https://www.youtube.com/embed/MErGf1z-IGE"
 ---
