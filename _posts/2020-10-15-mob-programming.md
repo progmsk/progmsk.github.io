@@ -1,9 +1,11 @@
 ---
 layout: post
 date: 2020-10-15 19:00:00
-image: "https://secure.meetupstatic.com/photos/event/9/3/a/2/highres_492217794.jpeg"
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/3ba61511-840c-4e70-9590-64ed25a2a090"
 title: Кодинг додзё. Практический семинар по TDD и чистому коду
 excerpt: "Семинар Дмитрия Поливаева."
+videos:
+  - "https://www.youtube.com/embed/DFbnykItaAE"
 ---
 
 Московский клуб программистов продолжает работу в онлайн-режиме. Мы присоединились к семинару Дмитрия Поливаева, программиста из Мюнхена, который занимается организацией коллективного взаимообучения.
@@ -22,7 +24,3 @@ excerpt: "Семинар Дмитрия Поливаева."
   онлайн-среда для проведения додзё с выбором языка.
 * https://gist.github.com/dpolivaev/2f3f72e915f28b8bbcb460c6fc2df605<br />
   описание задачи на русском языке.
-
-<div class="video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/DFbnykItaAE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
