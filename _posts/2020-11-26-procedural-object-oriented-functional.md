@@ -1,4 +1,4 @@
-[procedural-object-oriented-functional.txt](https://github.com/progmsk/progmsk.github.io/files/14817238/procedural-object-oriented-functional.txt)---
+---
 layout: post
 date: 2020-11-26 19:00:00
 title: Процедурное, объектно-ориентированное, функциональное. Зачем?
