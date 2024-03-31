@@ -1,9 +1,11 @@
 ---
 layout: post
 date: 2020-04-09 19:00:00
-image: "https://secure.meetupstatic.com/photos/event/7/c/1/e/highres_489991774.jpeg"
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/77b1a94b-030b-4203-a0f0-5f058df7c5ba"
 title: Программисты ищут работу.
 excerpt: "Эйчары и рекрутеры рассказывают, как найм выглядит с их точки зрения."
+videos:
+  - "https://www.youtube.com/embed/fxD2k_jFPIk"
 ---
 
 Москва сидит на карантине, но рабочая суета не утихает ни на секунду. Программисты, не выходя из дома, умудряются решать задачи, просматривать вакансии, проходить собеседования, увольняться и искать работу.
@@ -16,8 +18,4 @@ excerpt: "Эйчары и рекрутеры рассказывают, как н
 
 В дискуссии приняли участие эйчар Ирина Грачёва и рекрутер Дарья Жукова.
 
-[Чат](/downloads/programmers-look-for-work.txt)
-
-<div class="video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/fxD2k_jFPIk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+[Чат](https://github.com/progmsk/progmsk.github.io/files/14817949/programmers-look-for-work.txt)
