@@ -1,9 +1,11 @@
 ---
 layout: post
 date: 2020-04-23 19:00:00
-image: "https://secure.meetupstatic.com/photos/event/b/1/9/b/highres_490185467.jpeg"
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/849a7269-6903-4ded-8dcc-5f614f5bc4b3"
 title: Bitmap Index
 excerpt: "Ускоряем поиск."
+videos:
+  - "https://www.youtube.com/embed/eg1jVNLPW3s"
 ---
 
 Чем заняться на карантине? Можно смотреть сериалы. Можно учиться. Московский клуб программистов предлагает учиться.
@@ -12,8 +14,4 @@ excerpt: "Ускоряем поиск."
 
 Немного о нашем митапе. Ситуация с изоляцией для всех новая, поэтому мы экспериментируем с форматом. На онлайн-встрече Дмитрий Некрасов рассказал о битмап индексах и показал реализацию на C#. После доклада мы поговорили на общие темы.
 
-[Слайды](/downloads/bitmap-index.pdf)
-
-<div class="video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/eg1jVNLPW3s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+[Слайды в формате PDF](https://github.com/progmsk/progmsk.github.io/files/14817946/bitmap-index.pdf)
