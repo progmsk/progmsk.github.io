@@ -3,13 +3,11 @@ layout: post
 date: 2020-09-10 20:00:00
 title: Про функциональное программирование вообще и язык Haskell в частности
 excerpt: "Видеочат с Алексеем Пироговым."
+videos:
+  - "https://www.youtube.com/embed/ZPL3a4ASUMY"
 ---
 
 Зачем изучать функциональное программирование? С чего начинать? Как изучать Haskell?
-
-<div class="video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/ZPL3a4ASUMY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 ### Книги из видеочата
 
