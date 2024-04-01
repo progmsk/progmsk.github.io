@@ -8,6 +8,11 @@ videos:
   - "https://www.youtube.com/embed/fLYPWFfpvfA"
   - "https://www.youtube.com/embed/Z5dUxH4PqYM"
   - "https://www.youtube.com/embed/FZGeuGaUOQc"
+gallery:
+  - "https://github.com/progmsk/progmsk.github.io/assets/10639110/4ab8e6ac-3193-4e30-b2d3-2c33c33d0c03"
+  - "https://github.com/progmsk/progmsk.github.io/assets/10639110/da848278-59f9-4966-8b95-d3a2c4cd1a38"
+  - "https://github.com/progmsk/progmsk.github.io/assets/10639110/0e2cf0ae-032c-4e97-924c-c35e5a63aa04"
+  - "https://github.com/progmsk/progmsk.github.io/assets/10639110/ca89bead-511f-4076-bc95-6e2e9686dbf5"
 ---
 
 Компания [tutu.ru](https://www.tutu.ru/) пригласила наш клуб провести совместную встречу. Мы, москвичи, отправляясь в Подмосковье, неизменно сверяемся с расписанием электричек на сайте **tutu.ru**. Вместо с нами ежедневно также поступают шестьсот тысяч россиян.
@@ -51,16 +56,3 @@ videos:
 [Слайды](https://airwatch.andmed.org/airwatch/pub/presentation/)
 
 [Программа Airwatch в Apple Store](https://apps.apple.com/app/id1458144886)
-
-### Фото
-
-![highres_485839001](https://github.com/progmsk/progmsk.github.io/assets/10639110/4ab8e6ac-3193-4e30-b2d3-2c33c33d0c03)
-![highres_485839004](https://github.com/progmsk/progmsk.github.io/assets/10639110/da848278-59f9-4966-8b95-d3a2c4cd1a38)
-![highres_485839009](https://github.com/progmsk/progmsk.github.io/assets/10639110/0e2cf0ae-032c-4e97-924c-c35e5a63aa04)
-![highres_485839011](https://github.com/progmsk/progmsk.github.io/assets/10639110/ca89bead-511f-4076-bc95-6e2e9686dbf5)
-
-
-![Tutu.ru](https://secure.meetupstatic.com/photos/event/4/a/4/3/highres_485839011.jpeg){: .large-figure}
-![Tutu.ru](https://secure.meetupstatic.com/photos/event/4/a/4/1/highres_485839009.jpeg){: .large-figure}
-![Tutu.ru](https://secure.meetupstatic.com/photos/event/4/a/3/c/highres_485839004.jpeg){: .large-figure}
-![Tutu.ru](https://secure.meetupstatic.com/photos/event/4/a/3/9/highres_485839001.jpeg){: .large-figure}
