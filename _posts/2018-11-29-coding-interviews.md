@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2018-11-29 19:00:00
-image: "https://secure.meetupstatic.com/photos/event/9/4/c/0/highres_476378080.jpeg"
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/7d8e0376-cc64-4a5b-bb49-4e768bbf8ca3"
 title: Подготовка к суровым собеседованиям; Подготовка суровых собеседований
 excerpt: Узнаем, как готовиться к собеседованиям в крупные IT-компании. Поговорим о том, как проводить собеседования.
 ---
