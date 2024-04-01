@@ -1,10 +1,16 @@
 ---
 layout: post
 date: 2019-09-05 19:00:00
-image: "https://secure.meetupstatic.com/photos/event/8/e/e/6/highres_484416582.jpeg"
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/6b19ddc3-59fe-41ca-845e-b18034120b60"
 title: git и технический долг
 excerpt: "Вводим в git, обсуждаем технический долг."
 ---
+
+![highres_484623543](https://github.com/progmsk/progmsk.github.io/assets/10639110/0e79cff8-0f0f-4cc4-ba06-a2a2ad1ba553)
+![highres_484623541](https://github.com/progmsk/progmsk.github.io/assets/10639110/ef812e53-2d18-4d6e-97da-bbd73c6dcd91)
+![highres_484620504](https://github.com/progmsk/progmsk.github.io/assets/10639110/26f3ff57-06a8-4b16-b29d-d08bad1a2934)
+![highres_484623546](https://github.com/progmsk/progmsk.github.io/assets/10639110/190cf331-4747-43ce-a444-5d62a5e6a4c4)
+
 
 ## git
 
