@@ -1,9 +1,18 @@
 ---
 layout: post
 date: 2019-03-28 19:00:00
-image: "https://secure.meetupstatic.com/photos/event/5/7/4/6/highres_479662342.jpeg"
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/b8b41b69-c8ae-474f-8923-f211b8d20018"
 title: ПЛК и полезная саморефлексия
 excerpt: "Доклад о Программируемых Логических Контроллерах и модерируемая дискуссия о полезной и вредной саморефлексии."
+gallery:
+  - "https://github.com/progmsk/progmsk.github.io/assets/10639110/b595abbf-6afc-4ee7-a664-9b73bd522306"
+  - "https://github.com/progmsk/progmsk.github.io/assets/10639110/7430d1e1-fd03-49fe-9f31-8603516bdc2c"
+  - "https://github.com/progmsk/progmsk.github.io/assets/10639110/d54b1c5c-6035-483b-9f36-9a5a43fbd86d"
+  - "https://github.com/progmsk/progmsk.github.io/assets/10639110/5086487e-aedb-45ba-a9bc-eae1c97265e9"
+  - "https://github.com/progmsk/progmsk.github.io/assets/10639110/88d0c7bd-dff4-44c2-b4c3-a8c5b663c4a4"
+  - "https://github.com/progmsk/progmsk.github.io/assets/10639110/e5607e79-adc3-49d8-a7cc-b76c849a2315"
+  - "https://github.com/progmsk/progmsk.github.io/assets/10639110/9b1c18dd-12c9-4c21-90b6-670c3685f3fc"
+  - "https://github.com/progmsk/progmsk.github.io/assets/10639110/d471eada-fb07-4b5c-8150-8c1c7ed1f3b3"
 ---
 
 Компания Леруа Мерлен в лице DevRel Анны Бочаровой предложила свои площадки для проведения встреч нашего клуба. В учебных аудиториях есть проекторы и флип-чарты, поэтому мы надеемся, что наши доклады станут и понятней, и интересней.
@@ -17,12 +26,6 @@ excerpt: "Доклад о Программируемых Логических К
 Если же говорить о реальном применении, оказалось, что ПЛК используют и на буровых вышках, и на кораблях дальнего плавания, и даже в атомных реакторах. Вещь эта очень надёжная, особенно в промышленном исполнении.
 
 Программируются контроллеры с помощью несложных языков, в том числе графических. Это означает, что простые схемы может смонтировать сотрудник, не обладающий профильным программистским образованием.
-
-![Программируемые Логические Контроллеры](https://secure.meetupstatic.com/photos/event/4/e/0/c/highres_479899980.jpeg){: .large-figure}
-
-![Программируемые Логические Контроллеры](https://secure.meetupstatic.com/photos/event/4/e/2/1/highres_479900001.jpeg){: .large-figure}
-
-![Программируемые Логические Контроллеры](https://secure.meetupstatic.com/photos/event/5/2/6/2/highres_479901090.jpeg){: .large-figure}
 
 ## Полезная и вредная саморефлексия
 
@@ -41,13 +44,3 @@ excerpt: "Доклад о Программируемых Логических К
 Третий кейс касается депрессивного коллеги, или, скорее, подчинённого.
 
 Результаты работы с кейсами представлены на фото.
-
-![Полезная и вредная саморефлексия](https://secure.meetupstatic.com/photos/event/5/b/f/e/highres_479903550.jpeg){: .large-figure}
-
-![Полезная и вредная саморефлексия](https://secure.meetupstatic.com/photos/event/5/c/0/d/highres_479903565.jpeg){: .large-figure}
-
-![Полезная и вредная саморефлексия](https://secure.meetupstatic.com/photos/event/5/c/1/3/highres_479903571.jpeg){: .large-figure}
-
-![Полезная и вредная саморефлексия](https://secure.meetupstatic.com/photos/event/5/c/2/6/highres_479903590.jpeg){: .large-figure}
-
-![Полезная и вредная саморефлексия](https://secure.meetupstatic.com/photos/event/5/c/2/b/highres_479903595.jpeg){: .large-figure}

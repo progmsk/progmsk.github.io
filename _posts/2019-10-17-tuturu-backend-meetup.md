@@ -1,9 +1,18 @@
 ---
 layout: post
 date: 2019-10-17 19:00:00
-image: "https://secure.meetupstatic.com/photos/event/2/0/a/8/highres_485588360.jpeg"
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/e3683180-ea19-421f-9826-3509ca5e11d2"
 title: Бэкенд-митап в гостях у Туту.ру
 excerpt: "Доклады про PHP, паттерны, микросервисы, Casbin и домашних проект на Go и Swift."
+videos:
+  - "https://www.youtube.com/embed/fLYPWFfpvfA"
+  - "https://www.youtube.com/embed/Z5dUxH4PqYM"
+  - "https://www.youtube.com/embed/FZGeuGaUOQc"
+gallery:
+  - "https://github.com/progmsk/progmsk.github.io/assets/10639110/4ab8e6ac-3193-4e30-b2d3-2c33c33d0c03"
+  - "https://github.com/progmsk/progmsk.github.io/assets/10639110/da848278-59f9-4966-8b95-d3a2c4cd1a38"
+  - "https://github.com/progmsk/progmsk.github.io/assets/10639110/0e2cf0ae-032c-4e97-924c-c35e5a63aa04"
+  - "https://github.com/progmsk/progmsk.github.io/assets/10639110/ca89bead-511f-4076-bc95-6e2e9686dbf5"
 ---
 
 Компания [tutu.ru](https://www.tutu.ru/) пригласила наш клуб провести совместную встречу. Мы, москвичи, отправляясь в Подмосковье, неизменно сверяемся с расписанием электричек на сайте **tutu.ru**. Вместо с нами ежедневно также поступают шестьсот тысяч россиян.
@@ -22,11 +31,7 @@ excerpt: "Доклады про PHP, паттерны, микросервисы,
 
 В самом начале встречи Павел Иванов рассказал о том, как паттерны проектирования применяются в PHP-проектах, опираясь на реальные примеры из своей практики. Он участвует в разработке проекта на основе движка Laravel, где многие паттерны используются прямо из коробки.
 
-[Презентация](/downloads/laravel-php-patterns.pdf) доклада в формате PDF.
-
-<div class="video">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/fLYPWFfpvfA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+[Слайды в формате PDF](https://github.com/progmsk/progmsk.github.io/files/14818166/laravel-php-patterns.pdf)
 
 ### Система контроля доступа пользователей в микросервисной архитектуре
 
@@ -34,11 +39,7 @@ excerpt: "Доклады про PHP, паттерны, микросервисы,
 
 Ольга рассказала о трудностях, которые возникают у программистов при авторизации в микросервисах и о причинах, побудивших команду обратить внимание на casbin. Особой изюминкой доклада можно считать рассказ о проблемах, возникавших при внедрении casbin, и о том, как разработчики с ними справились.
 
-[Презентация](/downloads/casbin.pdf) доклада в формате PDF.
-
-<div class="video">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Z5dUxH4PqYM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+[Слайды в формате PDF](https://github.com/progmsk/progmsk.github.io/files/14818170/casbin.pdf)
 
 ### Airwatch
 
@@ -55,14 +56,3 @@ excerpt: "Доклады про PHP, паттерны, микросервисы,
 [Слайды](https://airwatch.andmed.org/airwatch/pub/presentation/)
 
 [Программа Airwatch в Apple Store](https://apps.apple.com/app/id1458144886)
-
-<div class="video">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/FZGeuGaUOQc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-### Фото
-
-![Tutu.ru](https://secure.meetupstatic.com/photos/event/4/a/4/3/highres_485839011.jpeg){: .large-figure}
-![Tutu.ru](https://secure.meetupstatic.com/photos/event/4/a/4/1/highres_485839009.jpeg){: .large-figure}
-![Tutu.ru](https://secure.meetupstatic.com/photos/event/4/a/3/c/highres_485839004.jpeg){: .large-figure}
-![Tutu.ru](https://secure.meetupstatic.com/photos/event/4/a/3/9/highres_485839001.jpeg){: .large-figure}

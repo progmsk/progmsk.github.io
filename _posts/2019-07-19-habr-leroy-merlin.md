@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-07-19 19:00:00
-image: "https://habrastorage.org/webt/bl/td/so/bltdsone5ewlnnqa_aamnii9rl8.jpeg"
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/dc8521b7-0276-4734-8948-a5f1b27d1c2f"
 title: Леруа Мерлен пишет о трудностях разработки
 excerpt: "Секреты организации работы программистов из первых рук."
 ---

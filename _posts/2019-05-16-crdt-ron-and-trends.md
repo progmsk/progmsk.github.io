@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-05-16 19:00:00
-image: "https://secure.meetupstatic.com/photos/event/e/0/8/9/highres_481317481.jpeg"
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/40392927-a344-43f7-b82b-3723af2deb2e"
 title: Бесконфликтные реплицированные типы данных (CRDT) и тенденции современного IT
 excerpt: "Доклад Юрия Сыровецкого и новости из мира IT."
 ---
@@ -23,8 +23,6 @@ excerpt: "Доклад Юрия Сыровецкого и новости из м
 * [Telegram swarmsync](https://t.me/swarmsync) Чат разработчиков [Swarm RON](https://github.com/gritzko/swarm-ron-docs).
 
 ## Приглашение на [C++ CoreHard Conference](https://corehard.by/)
-
-![C++ CoreHard Conference](/assets/images/banners/2019-05-16-corehard.jpg){: .large-figure}
 
 Сообщество CoreHard приглашает на конференцию для С++ разработчиков CoreHard Spring 2019.
 
@@ -52,9 +50,3 @@ excerpt: "Доклад Юрия Сыровецкого и новости из м
 
 Для участников Московского клуба программистов скидка 15% по промокоду `COREHARD_MKP`.
 Скидка распространяется на второй день конференции.
-
-## У нас теперь есть логотип
-
-Собрали предложения наших программистов и провели голосование. Победил с мега-отрывом в 93% логотип, нарисованный Алексеем Пироговым.
-
-![Логотип Московского клуба программистов](/assets/img/logo.svg){: .large-figure}
