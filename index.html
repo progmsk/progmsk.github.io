@@ -152,6 +152,9 @@ excerpt: Доклады, воркшопы, дискуссии и просто р
               const startDateTimeAfter = `${currentYear}-${currentMonth}-${currentDay}`;
 
               async function fetchFutureEvents() {
+                const header = document.getElementById('cardFutureEventsTitle');
+                const content = document.getElementById('cardFutureEventsBody');
+
                 try {
                   const fetchResponse = await fetch(`https://networkly.app/api/community/${communityId}/events?order[start_datetime]=desc&start_datetime[before]=${startDateTimeAfter}`);
 
@@ -161,9 +164,6 @@ excerpt: Доклады, воркшопы, дискуссии и просто р
                     if (response["hydra:totalItems"] === 0 || !response["hydra:member"].length) {
                       throw new Error('empty response');
                     }
-
-                    const header = document.getElementById('cardFutureEventsTitle');
-                    const content = document.getElementById('cardFutureEventsBody');
 
                     if (header) {
                       header.innerText = 'Предстоящие события';
@@ -192,6 +192,10 @@ excerpt: Доклады, воркшопы, дискуссии и просто р
                     throw new Error('fetch error');
                   }
                 } catch (error) {
+                  // если пришла ошибка или у нас нет предстоящих мероприятий, то нужно показать пустой текст и заголовок
+                  header.innerText = 'Нет предстоящих событий';
+                  content.innerText= '';
+
                   console.error('getFutureEvents error:', error) 
                 }
               }
