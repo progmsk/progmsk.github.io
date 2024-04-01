@@ -137,23 +137,23 @@ excerpt: Доклады, воркшопы, дискуссии и просто р
   <div class="col-lg-3">
     <div class="row g-4">
       <div class="col-sm-6 col-lg-12 gap-4 vstack">
-        <div class="card">
+        <div class="card" id="cardFutureEvents">
           <div class="card-header pb-0 border-0">
-            <h5 class="card-title mb-0" id="cardFutureEvents">Нет предстоящих событий</h5>
+            <h5 class="card-title mb-0" id="cardFutureEventsTitle">Нет предстоящих событий</h5>
           </div>
-          <div class="card-body">
+          <div class="card-body" id="cardFutureEventsBody">
             <script>
               const communityId = 2;
               const currentDate = new Date();
               const currentYear = currentDate.getFullYear();
-              const currentMonth = currentDate.getMonth();
+              const currentMonth = String(currentDate.getMonth()).padStart(2, '0');
               const currentDay = String(currentDate.getDate()).padStart(2, '0');
               const startDateTimeAfter = `${currentYear}-${currentMonth}-${currentDay}`;
 
               async function fetchFutureEvents() {
                 try {
                   // для теста отправляю параметр start_datetime[before], после успешного тестирования заменить на start_datetime[after]
-                  const fetchResponse = await fetch(`https://networkly.app/api/community/${communityId}/events?start_datetime[before]=${startDateTimeAfter}`);
+                  const fetchResponse = await fetch(`https://networkly.app/api/community/${communityId}/events?order[start_datetime]=desc&start_datetime[before]=${startDateTimeAfter}`);
 
                   if(fetchResponse.ok) {
                     const response = await fetchResponse.json();
@@ -162,13 +162,17 @@ excerpt: Доклады, воркшопы, дискуссии и просто р
                       throw new Error('empty response');
                     }
 
-                    const header = document.getElementById('cardFutureEvents');
+                    const header = document.getElementById('cardFutureEventsTitle');
+                    const content = document.getElementById('cardFutureEventsBody');
 
                     if (header) {
                       header.innerText = 'Предстоящие события';
                     }
 
-                    for(const event of response["hydra:member"]) {
+                    if (content) {
+                      const eventsArr = [];
+
+                      for(const event of response["hydra:member"]) {
                       const eventDate = new Date(event.startDatetime);
                       const year = eventDate.getFullYear();
                       const month = eventDate.getMonth();
@@ -177,11 +181,13 @@ excerpt: Доклады, воркшопы, дискуссии и просто р
                       const minutes = eventDate.getMinutes();
                       const formattedEventDate = `${currentDay}.${currentMonth}.${currentYear}`;
                       const formattedEventTime = `${hours}:${minutes}`;
-                      document.writeln('<div class="mb-3">');
-                      document.writeln('<h6 class="mb-0"><a href="' + event.url + '">' + event.name + '</a></h6>');
-                      document.writeln('<small>' + formattedEventDate + ' ' + formattedEventTime + '</small>');
-                      document.writeln('</div>');
+                      const eventContent = `<div class="mb-3"> <h6 class="mb-0"><a href="${event.url}">${event.name}</a></h6><small>${formattedEventDate} ${formattedEventTime}</small></div>`
+                      eventsArr.push(eventContent);
                     }
+
+                    content.innerHTML = eventsArr.join('');
+                    }
+
                   } else {
                     throw new Error('fetch error');
                   }
@@ -193,7 +199,7 @@ excerpt: Доклады, воркшопы, дискуссии и просто р
               async function fetchEventsEveryHour() {
                 while (true) {
                   await fetchFutureEvents();
-                  await new Promise(resolve => setTimeout(resolve, 1 * 60 * 1000)); // ждать 1 минуту
+                  await new Promise(resolve => setTimeout(resolve, 2 * 60 * 1000)); // ждать 1 минуту
                 }
               }
 
