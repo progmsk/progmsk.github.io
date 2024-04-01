@@ -1,19 +1,17 @@
 ---
 layout: post
 date: 2018-02-01 19:00:00
-image: "https://secure.meetupstatic.com/photos/event/5/a/b/8/highres_467723224.jpeg"
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/4d3e02ea-1f56-4e9e-86c7-1469abf93004"
 title: Публичные выступления и критерии качества работы
 excerpt: Чем иногда занимаются программисты-экстраверты
+videos:
+  - "https://www.youtube.com/embed/IEcxTJ_gja8"
 ---
 
 Известно, что программист-экстраверт отличается от программиста-интроверта тем, что во время разговора с вами
 всё-таки смотрит вам на ботинки.
 
 Нина Пакшина рассказала нам о том, можно ли это исправить.
-
-<div class="video">
-    <iframe width="560" height="351" src="https://www.youtube.com/embed/IEcxTJ_gja8" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
 
 Вячеслав Мацнев анонсировал [митап по учёту времени](https://www.meetup.com/time-management-moscow).
 

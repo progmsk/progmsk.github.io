@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2018-04-26 19:00:00
-image: "https://secure.meetupstatic.com/photos/event/5/3/a/3/highres_470121411.jpeg"
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/ebf4fb5f-f415-41c8-a8a8-78ccbea12f66"
 title: Как нанимать программистов, как валидировать качество их работы
 excerpt: Обсудили и записали на видео способы управления удалёнными программистами.
 ---

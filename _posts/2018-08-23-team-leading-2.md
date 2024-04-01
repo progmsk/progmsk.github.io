@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2018-08-23 19:00:00
-image: "https://secure.meetupstatic.com/photos/event/6/5/f/3/highres_473246099.jpeg"
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/c5b56815-a221-43a9-ac9c-e1eadc23b3da"
 title: Организация процесса разработки, встреча №2
 excerpt: Оценка эффективности программистов, Уровень кандидатов на собеседованиях
 ---
