@@ -1,9 +1,12 @@
 ---
 layout: post
 date: 2020-01-30 19:00:00
-image: "https://secure.meetupstatic.com/photos/event/4/6/1/7/highres_488177943.jpeg"
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/fcf6768e-51c5-4ec6-be67-3b267efdf661"
 title: 1) Магистратура или второе высшее? 2) DDD
 excerpt: "Модерируемая дискуссия и доклад."
+videos:
+  - "https://www.youtube.com/embed/_9ANSi31ZHc"
+  - "https://www.youtube.com/embed/WwRXloRVh74"
 ---
 
 ## Магистратура или второе высшее?
@@ -14,14 +17,6 @@ excerpt: "Модерируемая дискуссия и доклад."
 
 Ведущий Павел Иванов.
 
-<div class="video">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/_9ANSi31ZHc" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ## DDD
 
 Марк Шевченко подготовил доклад для дружественного сообщества [DDDevotion](https://www.facebook.com/groups/dddevotion) ([@dddevotion](https://t.me/dddevotion)). По устоявшейся традиции, генеральную репетицию Марк сделал в клубе, сначала «для своих».
-
-<div class="video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/WwRXloRVh74" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
