@@ -14,13 +14,14 @@ videos:
 * [Запись предыдущей встречи](https://youtu.be/eLEK0uLBLHc)
 
 Мы практиковались в написании понятного и элегантного кода. Цель мероприятия — взаимодействуя с коллегами, улучшить своё понимание чистого кода и тестов.
- 
+
 На этом онлайн-мероприятии мы решали классическую кату программирования "Боулинг ката" (Bowling kata).
 
 Ссылки по теме:
-* https://youtu.be/jgx5QvRS6j0<br />
+
+* https://youtu.be/jgx5QvRS6j0\\
   Роберт "Дядя Боб" Мартин демонстрирует ката Простые числа на Ruby.
-* https://cyber-dojo.org/creator/kata_language_choose?exercise_name=Bowling%20Game<br />
+* https://cyber-dojo.org/creator/kata_language_choose?exercise_name=Bowling%20Game\\
   онлайн-среда для проведения додзё с выбором языка.
-* https://gist.github.com/dpolivaev/2f3f72e915f28b8bbcb460c6fc2df605<br />
+* https://gist.github.com/dpolivaev/2f3f72e915f28b8bbcb460c6fc2df605\\
   описание задачи на русском языке.
