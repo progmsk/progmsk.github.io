@@ -3,6 +3,8 @@ layout: post
 date: 2020-10-22 19:00:00
 title: TypeScript. Зачем?
 excerpt: "Доклад Никиты Стариченко."
+videos:
+  - "https://www.youtube.com/embed/GUfuujA08mo"
 ---
 
 Наше сообщество отличается от других IT-сообществ своей широкой специализацией. Мы не обсуждаем только JavaScript, или только .NET, мы объединяем программистов вообще.
@@ -19,8 +21,4 @@ excerpt: "Доклад Никиты Стариченко."
 
 Никита рассказал о причинах появления языка и его основных особенностях.
 
-[Слайды](/downloads/typescript.pdf)
-
-<div class="video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/GUfuujA08mo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+[Слайды в формате PDF](https://github.com/progmsk/progmsk.github.io/files/14817253/typescript.pdf)

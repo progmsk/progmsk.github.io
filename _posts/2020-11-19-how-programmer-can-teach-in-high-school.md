@@ -3,6 +3,8 @@ layout: post
 date: 2020-11-19 20:00:00
 title: Как программисту преподавать в вузе
 excerpt: "Видеочат с преподавателями МГИМО-Одинцово Евгением Погребняком и Ларисой Притчиной."
+videos:
+  - "https://www.youtube.com/embed/FviRhcCwDqg"
 ---
 
 Куда развиваться программисту, когда он становится старше? Очевидное направление роста это менеджмент, однако, программисты не очень то его и любят.
@@ -92,7 +94,3 @@ excerpt: "Видеочат с преподавателями МГИМО-Один
 [e.pogrebnyak@odin.mgimo.ru](mailto:e.pogrebnyak@odin.mgimo.ru)
 
 [Канал в Telegram](https://t.me/teach_cs), где собираются преподаватели в сфере IT.
-
-<div class="video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/FviRhcCwDqg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>

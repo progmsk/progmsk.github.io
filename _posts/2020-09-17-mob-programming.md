@@ -1,9 +1,11 @@
 ---
 layout: post
 date: 2020-09-20 19:00:00
-image: "https://secure.meetupstatic.com/photos/event/9/3/a/2/highres_492217794.jpeg"
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/3ba61511-840c-4e70-9590-64ed25a2a090"
 title: Программирование в ансамбле, практический вебинар по ТДД и моб программированию
 excerpt: "Семинар Дмитрия Поливаева."
+videos:
+  - "https://www.youtube.com/embed/eLEK0uLBLHc"
 ---
 
 Московский клуб программистов участвовал в coding dojo — семинаре Дмитрия Поливаева, программиста из Мюнхена. Дмитрий занимается коллективным взаимообучением программистов (подробности на [видео](https://youtu.be/9SWTNsKj0ms)).
@@ -13,7 +15,3 @@ excerpt: "Семинар Дмитрия Поливаева."
 Второй подход — Mob Programming, также называемый Ensemble Programming - программирование в ансамбле. Это — развитие парного программирования, которое помогает команде быстрее приходить к общему мировоззрению.
 
 TDD и Mob Programming просты и понятны в описании, но их неожиданно трудно освоить самостоятельно. Хорошо, что мы живём в XXI века и имеем возможность встречаться и осваивать методологии онлайн.
-
-<div class="video">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/eLEK0uLBLHc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
