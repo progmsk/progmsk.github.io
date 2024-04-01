@@ -153,7 +153,6 @@ excerpt: Доклады, воркшопы, дискуссии и просто р
 
               async function fetchFutureEvents() {
                 try {
-                  // для теста отправляю параметр start_datetime[before], после успешного тестирования заменить на start_datetime[after]
                   const fetchResponse = await fetch(`https://networkly.app/api/community/${communityId}/events?order[start_datetime]=desc&start_datetime[before]=${startDateTimeAfter}`);
 
                   if(fetchResponse.ok) {
