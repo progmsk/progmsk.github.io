@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2018-09-20 19:00:00
-image: "https://secure.meetupstatic.com/photos/event/3/3/d/2/highres_474373266.jpeg"
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/7198dc62-5f31-417c-a0dc-c70447ac378b"
 title: Математика в программировании
 excerpt: Что почитать, чтобы не уволили.
 ---
