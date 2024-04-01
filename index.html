@@ -130,6 +130,71 @@ excerpt: Доклады, воркшопы, дискуссии и просто р
       <div class="col-sm-6 col-lg-12">
         <div class="card">
           <div class="card-header pb-0 border-0">
+            <h5 class="card-title mb-0" id="cardFutureEvents">Нет предстоящих событий</h5>
+          </div>
+          <div class="card-body">
+            <script>
+              const communityId = 2;
+              const currentDate = new Date();
+              const currentYear = currentDate.getFullYear();
+              const currentMonth = currentDate.getMonth();
+              const currentDay = currentDate.getDate();
+              const startDateTimeAfter = `${currentYear}-${currentMonth}-${currentDay}`;
+
+              async function fetchFutureEvents() {
+                try {
+                  // для теста отправляю параметр start_datetime[before], после успешного тестирования заменить на start_datetime[after]
+                  const fetchResponse = await fetch(`https://networkly.app/api/community/${communityId}/events?start_datetime[before]=${startDateTimeAfter}`);
+
+                  if(fetchResponse.ok) {
+                    const response = await fetchResponse.json();
+
+                    if (response["hydra:totalItems"] === 0 || !response["hydra:member"].length) {
+                      throw new Error('empty response');
+                    }
+
+                    const header = document.getElementById('cardFutureEvents');
+
+                    if (header) {
+                      header.innerText = 'Предстоящие события';
+                    }
+
+                    for(const event of response["hydra:member"]) {
+                      const eventDate = new Date(event.startDatetime);
+                      const year = eventDate.getFullYear();
+                      const month = eventDate.getMonth();
+                      const day = eventDate.getDate();
+                      const hours = eventDate.getHours();
+                      const minutes = eventDate.getMinutes();
+                      const formattedEventDate = `${currentDay}.${currentMonth}.${currentYear}`;
+                      const formattedEventTime = `${hours}:${minutes}`;
+                      document.writeln('<div class="mb-3">');
+                      document.writeln('<h6 class="mb-0"><a href="' + event.url + '">' + event.name + '</a></h6>');
+                      document.writeln('<small>' + formattedEventDate + ' ' + formattedEventTime + '</small>');
+                      document.writeln('</div>');
+                    }
+                  } else {
+                    throw new Error('fetch error');
+                  }
+                } catch (error) {
+                  console.error('getFutureEvents error:', error) 
+                }
+              }
+
+              async function fetchEventsEveryHour() {
+                while (true) {
+                  await fetchFutureEvents();
+                  await new Promise(resolve => setTimeout(resolve, 1 * 60 * 1000)); // ждать 1 минуту
+                }
+              }
+
+
+              fetchEventsEveryHour();
+            </script>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-header pb-0 border-0">
             <h5 class="card-title mb-0">События</h5>
           </div>
           <div class="card-body">
