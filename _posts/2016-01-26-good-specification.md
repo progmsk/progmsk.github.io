@@ -5,6 +5,4 @@ title: Что такое хорошее Техническое задание?
 excerpt: Мусор на входе — мусор на выходе!
 ---
 
-[Конспект](https://docs.google.com/document/d/1DXeciUUKXfj-bKloucv9frIgYsEWDkIoLgGte78eKRo/) затравки обсуждения про хорошее техническое задание.
-
-[Результаты обсуждения](https://www.meetup.com/ru-RU/progmsk/photos/27572591/?photoId=&photoAlbumId=27572591).
+[Конспект затравки обсуждения про хорошее ТЗ](https://github.com/progmsk/progmsk.github.io/files/14818814/default.pdf).
