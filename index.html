@@ -51,15 +51,6 @@ excerpt: Доклады, воркшопы, дискуссии и просто р
               </div>
               <div class="hstack gap-2 mb-3">
                 <div class="avatar">
-                  <a href="https://networkly.app/community/progmsk" target="_blank"> <img class="avatar-img rounded-circle" src="assets/images/icon/networkly.png" alt="Networkly.App"> </a>
-                </div>
-                <div class="overflow-hidden">
-                  <a class="h6 mb-0" href="https://networkly.app/community/progmsk" target="_blank">Networkly.App</a>
-                  <p class="mb-0 small text-truncate">Анонсы, регистрация</p>
-                </div>
-              </div>
-              <div class="hstack gap-2 mb-3">
-                <div class="avatar">
                   <a href="https://vk.com/progmsk" target="_blank"> <img class="avatar-img rounded-circle" src="assets/images/icon/vk.svg" alt="VK"> </a>
                 </div>
                 <div class="overflow-hidden">
@@ -136,7 +127,7 @@ excerpt: Доклады, воркшопы, дискуссии и просто р
   <!-- Начало правой панели -->
   <div class="col-lg-3">
     <div class="row g-4">
-      <div class="col-sm-6 col-lg-12">
+      <div class="col-sm-6 col-lg-12 gap-4 vstack">
         <div class="card">
           <div class="card-header pb-0 border-0">
             <h5 class="card-title mb-0" id="cardFutureEvents">Нет предстоящих событий</h5>
@@ -147,7 +138,7 @@ excerpt: Доклады, воркшопы, дискуссии и просто р
               const currentDate = new Date();
               const currentYear = currentDate.getFullYear();
               const currentMonth = currentDate.getMonth();
-              const currentDay = currentDate.getDate();
+              const currentDay = String(currentDate.getDate()).padStart(2, '0');
               const startDateTimeAfter = `${currentYear}-${currentMonth}-${currentDay}`;
 
               async function fetchFutureEvents() {
