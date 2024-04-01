@@ -136,7 +136,7 @@ excerpt: Доклады, воркшопы, дискуссии и просто р
   <!-- Начало правой панели -->
   <div class="col-lg-3">
     <div class="row g-4">
-      <div class="col-sm-6 col-lg-12">
+      <div class="col-sm-6 col-lg-12 gap-4 vstack">
         <div class="card">
           <div class="card-header pb-0 border-0">
             <h5 class="card-title mb-0" id="cardFutureEvents">Нет предстоящих событий</h5>
@@ -147,7 +147,7 @@ excerpt: Доклады, воркшопы, дискуссии и просто р
               const currentDate = new Date();
               const currentYear = currentDate.getFullYear();
               const currentMonth = currentDate.getMonth();
-              const currentDay = currentDate.getDate();
+              const currentDay = String(currentDate.getDate()).padStart(2, '0');
               const startDateTimeAfter = `${currentYear}-${currentMonth}-${currentDay}`;
 
               async function fetchFutureEvents() {
