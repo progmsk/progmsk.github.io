@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-06-13 19:00:00
-image: "https://secure.meetupstatic.com/photos/event/8/a/3/8/highres_482015384.jpeg"
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/55eaa2fc-457b-4a0b-808d-21499213a1e4"
 title: Проблемы преподавания архитектуры и Soft skills
 excerpt: "Доклад Евгения Погребняка и Дмитрия Лимашова о преподавании архитектуры и групповое обсуждение soft skills."
 ---
