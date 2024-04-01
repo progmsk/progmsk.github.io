@@ -146,7 +146,8 @@ excerpt: Доклады, воркшопы, дискуссии и просто р
               const communityId = 2;
               const currentDate = new Date();
               const currentYear = currentDate.getFullYear();
-              const currentMonth = String(currentDate.getMonth()).padStart(2, '0');
+              const month = currentDate.getMonth();
+              const currentMonth = String(month + 1).padStart(2, '0');
               const currentDay = String(currentDate.getDate()).padStart(2, '0');
               const startDateTimeAfter = `${currentYear}-${currentMonth}-${currentDay}`;
 
@@ -174,12 +175,12 @@ excerpt: Доклады, воркшопы, дискуссии и просто р
 
                       for(const event of response["hydra:member"]) {
                       const eventDate = new Date(event.startDatetime);
-                      const year = eventDate.getFullYear();
-                      const month = eventDate.getMonth();
-                      const day = eventDate.getDate();
-                      const hours = eventDate.getHours();
-                      const minutes = eventDate.getMinutes();
-                      const formattedEventDate = `${currentDay}.${currentMonth}.${currentYear}`;
+                      const year = eventDate.getFullYear();                      
+                      const month = String(eventDate.getMonth() + 1).padStart(2, '0');
+                      const day = String(eventDate.getDate()).padStart(2, '0');
+                      const hours = String(eventDate.getHours()).padStart(2, '0');
+                      const minutes = String(eventDate.getMinutes()).padStart(2, '0');
+                      const formattedEventDate = `${day}.${month}.${year}`;
                       const formattedEventTime = `${hours}:${minutes}`;
                       const eventContent = `<div class="mb-3"> <h6 class="mb-0"><a href="${event.url}">${event.name}</a></h6><small>${formattedEventDate} ${formattedEventTime}</small></div>`
                       eventsArr.push(eventContent);
@@ -199,7 +200,7 @@ excerpt: Доклады, воркшопы, дискуссии и просто р
               async function fetchEventsEveryHour() {
                 while (true) {
                   await fetchFutureEvents();
-                  await new Promise(resolve => setTimeout(resolve, 2 * 60 * 1000)); // ждать 1 минуту
+                  await new Promise(resolve => setTimeout(resolve, 10 * 60 * 1000)); // ждать 10 минут
                 }
               }
 
