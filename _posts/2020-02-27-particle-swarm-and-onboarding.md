@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-02-27 19:00:00
-image: "https://secure.meetupstatic.com/photos/event/6/1/f/e/highres_489145086.jpeg"
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/cfcb9f90-51f7-4bac-98ed-4ee69fff6c3b"
 title: 1) Алгоритм роя частиц; 2) Onboarding
 excerpt: "Доклад об оптимизации функций методом роя частиц и модерируемая дискуссия на тему включения новичка в команду."
 videos:
