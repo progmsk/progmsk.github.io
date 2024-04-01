@@ -1,25 +1,20 @@
 ---
 layout: post
 date: 2019-11-14 19:00:00
-image: "https://secure.meetupstatic.com/photos/event/9/8/1/0/highres_486398928.jpeg"
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/0512d9ba-c7fd-4e2d-90d2-9da0c1e0fa21"
 title: "1) ИИ: просто о сложном и 2) микросервисы на C#"
 excerpt: "Осень перешла в финальную стадию. Скоро зима, но программисты не прекращают программировать и обсуждать своё любимое программирование. Вот и сейчас."
+videos:
+  - "https://www.youtube.com/embed/EopTGygaVC0"
+  - "https://www.youtube.com/embed/HHQbRDX7g8k"
 ---
 
 14 ноября мы провели два доклада. Первый прочитала Екатерина Козина, которая разбиралась с обучающими моделями, и незаметно для себя подготовила целое выступление. Мы узнали, что такое нейрон и как он работает. Попытались дать определение интеллекту и попробовали проверить его у детей. Разобрали сложную нейросеть для игры в ГО. Узнали, может ли нейросеть обучаться на собственных ошибках. Рассмотрели пример из жизни, озаглавленный «поход в гости к знакомому».
 
-[Презентация доклада про ИИ](/downloads/ai-1.pdf) в формате PDF.
-
-<div class="video">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/EopTGygaVC0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+[Слайды в формате PDF](https://github.com/progmsk/progmsk.github.io/files/14818146/ai-1.pdf)
 
 Второй доклад сделал Марк Шевченко, который последние четыре года пилил микросервисы на C#. Ему регулярно приходиться отвечать на вопрос «почему C#, ведь существуют PHP, Python, JavaScript и Go?» Похоже, пришло время развеять некоторые заблуждения про .NET. Доклад естественным образом разбит на две половины: что такого остолбеняющего есть в C# и преимущества монолита, по которым мы скучаем.
 
-[Презентация доклада про микросервисы](/downloads/microservices-on-csharp.pdf) в формате PDF.
+[Слайды в формате PDF](https://github.com/progmsk/progmsk.github.io/files/14818150/microservices-on-csharp.pdf)
 
 Марк готовил этот доклад для дружественного тверского сообщества [Tver.io](http://tver.io/). Видео — оттуда.
-
-<div class="video">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/HHQbRDX7g8k" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
