@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-03-28 19:00:00
-image: "https://secure.meetupstatic.com/photos/event/5/7/4/6/highres_479662342.jpeg"
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/b8b41b69-c8ae-474f-8923-f211b8d20018"
 title: ПЛК и полезная саморефлексия
 excerpt: "Доклад о Программируемых Логических Контроллерах и модерируемая дискуссия о полезной и вредной саморефлексии."
 ---
@@ -51,3 +51,14 @@ excerpt: "Доклад о Программируемых Логических К
 ![Полезная и вредная саморефлексия](https://secure.meetupstatic.com/photos/event/5/c/2/6/highres_479903590.jpeg){: .large-figure}
 
 ![Полезная и вредная саморефлексия](https://secure.meetupstatic.com/photos/event/5/c/2/b/highres_479903595.jpeg){: .large-figure}
+
+![highres_479903595](https://github.com/progmsk/progmsk.github.io/assets/10639110/b595abbf-6afc-4ee7-a664-9b73bd522306)
+![highres_479903590](https://github.com/progmsk/progmsk.github.io/assets/10639110/7430d1e1-fd03-49fe-9f31-8603516bdc2c)
+![highres_479903571](https://github.com/progmsk/progmsk.github.io/assets/10639110/d54b1c5c-6035-483b-9f36-9a5a43fbd86d)
+![highres_479903565](https://github.com/progmsk/progmsk.github.io/assets/10639110/5086487e-aedb-45ba-a9bc-eae1c97265e9)
+![highres_479903550](https://github.com/progmsk/progmsk.github.io/assets/10639110/88d0c7bd-dff4-44c2-b4c3-a8c5b663c4a4)
+![highres_479901090](https://github.com/progmsk/progmsk.github.io/assets/10639110/e5607e79-adc3-49d8-a7cc-b76c849a2315)
+![highres_479900001](https://github.com/progmsk/progmsk.github.io/assets/10639110/9b1c18dd-12c9-4c21-90b6-670c3685f3fc)
+![highres_479899980](https://github.com/progmsk/progmsk.github.io/assets/10639110/d471eada-fb07-4b5c-8150-8c1c7ed1f3b3)
+
+
