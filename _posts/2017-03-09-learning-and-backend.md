@@ -7,10 +7,10 @@ excerpt: Собрались обсудить, как наплодить себе
 
 Обсудили тему обучения программистов. Доклад сделала [Дарья Колодзей](https://vk.com/d.kolodzey), одна из создательниц курсов [Учите Питон](http://pythontutor.ru/).
 
-[Презентацию](https://docs.google.com/presentation/d/1XDoHM7zUTu2z6xoiiN_y2y7Fjml0Z7fYWaWE2Pm3ZP4/) прилагаем.
+[Слайды в формате PDF](https://github.com/progmsk/progmsk.github.io/files/14818805/tech.education.pdf)
 
 [Сервис DailyDrip](https://www.dailydrip.com/) помогает изучать программирование через Email-рассылку.
 
 Обсудили серверные технологии. Марк Шевченко делал доклад о реализации микросервисов в Azure.
 
-[Конспект доклада](https://docs.google.com/document/d/1SEoK-1oiEI4wNmw3uWBMUxSjMh6VxnQ7v-zfngbRCi8/) прилагаем.
+[Конспект доклада](https://github.com/progmsk/progmsk.github.io/files/14818806/Azure.pdf).
