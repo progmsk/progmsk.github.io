@@ -181,7 +181,7 @@ excerpt: Доклады, воркшопы, дискуссии и просто р
                       const minutes = String(eventDate.getMinutes()).padStart(2, '0');
                       const formattedEventDate = `${day}.${month}.${year}`;
                       const formattedEventTime = `${hours}:${minutes}`;
-                      const eventContent = `<div class="mb-3"> <h6 class="mb-0"><a href="${event.url}">${event.name}</a></h6><small>${formattedEventDate} ${formattedEventTime}</small></div>`
+                      const eventContent = `<div class="mb-3"> <h6 class="mb-0"><a target="_blank" href="https://networkly.app/event/${event.canonical}_${event.id}">${event.name}</a></h6><small>${formattedEventDate} ${formattedEventTime}</small></div>`
                       eventsArr.push(eventContent);
                     }
 
