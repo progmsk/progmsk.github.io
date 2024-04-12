@@ -3,7 +3,7 @@ layout: post
 date: 2024-04-12 19:00:00+03:00
 title: "Кто может быть программистом?"
 excerpt: "Нина Пакшина и Марк Шевченко рассуждают, нужно ли родиться программистом или всему можно научиться."
-image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/c3c7fd24-5997-43f3-a088-fe19fdfa4f75"
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/2ce82f7e-41fe-415e-ba2d-347bc9d27a00"
 videos:
   - "https://www.youtube.com/embed/P62o92fqMxs?si=_2EQkTzUCApLJgFZ"
 ---
