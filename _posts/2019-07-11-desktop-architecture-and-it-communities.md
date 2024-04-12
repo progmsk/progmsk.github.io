@@ -14,7 +14,8 @@ videos:
 
 Лекция оказалась насыщенной и полезной.
 
-[Слайды в формате PDF](https://github.com/progmsk/progmsk.github.io/files/14818275/ui-1.pdf)
+[Слайды в формате PDF (часть 1)](https://github.com/progmsk/progmsk.github.io/files/14818275/ui-1.pdf)
+[Слайды в формате PDF (часть 2)](https://github.com/progmsk/progmsk.github.io/files/14963448/ui-2.pdf)
 
 ## IT-сообщество своими руками
 

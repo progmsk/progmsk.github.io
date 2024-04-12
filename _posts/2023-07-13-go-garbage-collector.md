@@ -14,6 +14,6 @@ videos:
 
 В докладе освещены полезные инструменты для анализа динамической памяти, а также рассказано, как можно вручную аллоцировать память с помощью новой экспериментальной фичи Arena из свежей версии Go.
 
-[Слайды](https://prog.msk.ru/downloads/go-garbage-collection.pdf)
+[Слайды в формате PDF](https://github.com/progmsk/progmsk.github.io/files/14963281/go-garbage-collection.pdf)
 
 [Репозиторий](https://github.com/PakshNina/gc)

@@ -16,4 +16,4 @@ videos:
 
 На эти вопросы нам ответил Александр Гузенко из компании IT_ONE. Он рассказал об альтернативах Redux, о плюсах и минусах других решений, и дал советы, в каких случаях какую библиотеку использовать.
 
-[Слайды](https://prog.msk.ru/downloads/frontend-state-management.pdf)
+[Слайды в формате PDF](https://github.com/progmsk/progmsk.github.io/files/14963266/frontend-state-management.pdf)
