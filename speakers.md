@@ -39,8 +39,8 @@ excerpt: Докладчики, их доклады, слайды и видео.
 [@taganrog7897](tg://resolve?domain=taganrog7897){: .telegram}
 
 * Магистратура или второе высшее? [Видео](https://youtu.be/_9ANSi31ZHc){: .youtube}
-* Laravel и шаблоны проектирования. [Слайды](/downloads/laravel-php-patterns.pdf){: .pdf}
-* Линейная алгебра в компьютерных науках. [Слайды](/downloads/la-in-cs.pdf){: .pdf}
+* Laravel и шаблоны проектирования. [Слайды](https://github.com/progmsk/progmsk.github.io/files/14818166/laravel-php-patterns.pdf){: .pdf}
+* Линейная алгебра в компьютерных науках. [Слайды](https://github.com/progmsk/progmsk.github.io/files/14818355/la-in-cs.pdf){: .pdf}
 
 
 ### [Ильин Евгений](#iliin)
@@ -50,8 +50,8 @@ excerpt: Докладчики, их доклады, слайды и видео.
 
 [@jenyay](tg://resolve?domain=jenyay){: .telegram}
 
-* Генетические алгоритмы. [Видео](https://youtu.be/89Wk0kNnbJQ){: .youtube} [Слайды](/downloads/genetic-algorithms.pdf){: .pdf}
-* Алгоритм роя частиц. [Видео](https://youtu.be/57YBBIwnkQU){: .youtube} [Слайды](/downloads/particle-swarm.pdf){: .pdf}
+* Генетические алгоритмы. [Видео](https://youtu.be/89Wk0kNnbJQ){: .youtube} [Слайды](https://github.com/progmsk/progmsk.github.io/files/14818180/genetic-algorithms.pdf){: .pdf}
+* Алгоритм роя частиц. [Видео](https://youtu.be/57YBBIwnkQU){: .youtube} [Слайды](https://github.com/progmsk/progmsk.github.io/files/14817969/particle-swarm.pdf){: .pdf}
 
 
 ### [Козина Екатерина](#kozina)
@@ -60,9 +60,9 @@ excerpt: Докладчики, их доклады, слайды и видео.
 
 [@Kotmarvell](tg://resolve?domain=Kotmarvell){: .telegram}
 
-* Интересный git. [Видео](https://youtu.be/GrPkMhZ_C9w){: .youtube} [Слайды](/downloads/advanced-git.pdf){: .pdf}
-* Сокеты «под капотом». [Слайды](/downloads/sockets-under-bonnet.pdf){: .pdf}
-* Машинное обучение. [Видео](https://youtu.be/pgwnDcKua_M){: .youtube} [Слайды](/downloads/machine-learning.pdf)
+* Интересный git. [Видео](https://youtu.be/GrPkMhZ_C9w){: .youtube} [Слайды](https://github.com/progmsk/progmsk.github.io/files/14818203/advanced-git.pdf){: .pdf}
+* Сокеты «под капотом». [Слайды](https://github.com/progmsk/progmsk.github.io/files/14818252/sockets-under-bonnet.pdf){: .pdf}
+* Машинное обучение. [Видео](https://youtu.be/pgwnDcKua_M){: .youtube} [Слайды](https://github.com/progmsk/progmsk.github.io/files/14817992/machine-learning.pdf)
 
 
 ### [Пакшина Нина](#pakshina)
@@ -74,7 +74,7 @@ excerpt: Докладчики, их доклады, слайды и видео.
 
 [@ninakou](tg://resolve?domain=ninakou){: .telegram}
 
-* Топ 10 уязвимостей веб-приложений. [Слайды](/downloads/owasp.pdf){: .pdf} 
+* Топ 10 уязвимостей веб-приложений. [Слайды](https://github.com/progmsk/progmsk.github.io/files/14818318/owasp.pdf){: .pdf} 
 * Публичные выступления. [Видео](https://youtu.be/IEcxTJ_gja8){: .youtube}
 * Встраиваемые системы. [Статья](https://habr.com/post/358340/){: .hyperlink}
 * Новый контроллер CPM723. Особенности среды программирования CODESYS V3. [Видео](https://youtu.be/9rdh4dBSRzc){: .youtube}
@@ -122,8 +122,8 @@ excerpt: Докладчики, их доклады, слайды и видео.
 
 [@AnatoliySeverin](tg://resolve?domain=AnatoliySeverin){: .telegram}
 
-* Архитектура desktop-приложений, часть I. [Слайды](/downloads/ui-1.pdf){: .pdf}
-* Архитектура desktop-приложений, часть II. [Слайды](/downloads/ui-2.pdf){: .pdf}
+* Архитектура desktop-приложений, часть I. [Слайды](https://github.com/progmsk/progmsk.github.io/files/14818275/ui-1.pdf){: .pdf}
+* Архитектура desktop-приложений, часть II. [Слайды](https://github.com/progmsk/progmsk.github.io/files/14963448/ui-2.pdf){: .pdf}
 
 
 ### [Сыровецкий Юрий](#syrovetskiy)
@@ -147,8 +147,8 @@ excerpt: Докладчики, их доклады, слайды и видео.
 
 [@ne2pit](tg://resolve?domain=ne2pit){: .telegram}
 
-* Docker. Что нужно знать каждому в 2020 [Видео](https://youtu.be/fXRCQpb0R0g){: .youtube} [Слайды](/downloads/docker-2020.pdf){: .pdf}
-* Kubernetes. Что нужно знать каждому в 2020 [Видео](https://youtu.be/0IfkDIlHRA8){: .youtube} [Слайды](/downloads/kubernetes-2020.pdf){: .pdf}
+* Docker. Что нужно знать каждому в 2020 [Видео](https://youtu.be/fXRCQpb0R0g){: .youtube} [Слайды](https://github.com/progmsk/progmsk.github.io/files/14817940/docker-2020.pdf){: .pdf}
+* Kubernetes. Что нужно знать каждому в 2020 [Видео](https://youtu.be/0IfkDIlHRA8){: .youtube} [Слайды](https://github.com/progmsk/progmsk.github.io/files/14817933/kubernetes-2020.pdf){: .pdf}
 
 
 ### [Шевченко Марк](#shevchenko)
