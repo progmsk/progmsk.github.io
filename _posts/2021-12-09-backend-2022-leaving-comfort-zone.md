@@ -32,4 +32,4 @@ videos:
 
 Спикер: Юрий Сыровецкий, разработчик на Haskell в Input Output Global.
 
-[Слайды](/downloads/why-functional-programming/index.html).
+[Слайды](/slides/why-functional-programming/index.html).
