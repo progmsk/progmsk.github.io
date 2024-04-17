@@ -1,4 +1,6 @@
 User-agent: *
 Disallow: /assets/
 Disallow: /2021/01/25/jug-ru/
+Disallow: /downloads/owasp.pdf
+Disallow: /downloads/bitmap-index.pdf
 Allow: /
