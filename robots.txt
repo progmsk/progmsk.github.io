@@ -5,4 +5,6 @@ Disallow: /downloads/owasp.pdf
 Disallow: /downloads/bitmap-index.pdf
 Disallow: /downloads/ui-1.pdf
 Disallow: /downloads/curse-of-knowledge.pdf
+Disallow: /downloads/exchange-of-experience-in-programming.pdf
+Disallow: /downloads/dr-rpa.pdf
 Allow: /
