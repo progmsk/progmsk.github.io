@@ -7,4 +7,6 @@ Disallow: /downloads/ui-1.pdf
 Disallow: /downloads/curse-of-knowledge.pdf
 Disallow: /downloads/exchange-of-experience-in-programming.pdf
 Disallow: /downloads/dr-rpa.pdf
+Disallow: /downloads/machine-learning.pdf
+Disallow: /downloads/components.pdf
 Allow: /
