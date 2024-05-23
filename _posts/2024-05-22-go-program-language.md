@@ -3,7 +3,7 @@ layout: post
 date: 2024-05-22 19:00:00+03:00
 title: "Движение вперёд: язык Go"
 excerpt: "Нина Пакшина и Александр Ковалёв рассказывают про HTTP3 и асинхронные коммуникации."
-image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/561e8f6c-350d-4a0d-b91b-2acf225fd77b"
+image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/fa657063-d462-44e0-a463-5686ec6a1808"
 videos:
   - "https://www.youtube.com/embed/5BTrGM5ElAA?si=qq5_dfNC1Vv2G5FQ"
 ---
