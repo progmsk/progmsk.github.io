@@ -9,4 +9,5 @@ Disallow: /downloads/exchange-of-experience-in-programming.pdf
 Disallow: /downloads/dr-rpa.pdf
 Disallow: /downloads/machine-learning.pdf
 Disallow: /downloads/components.pdf
+Disallow: /downloads/tdd-or-not-tdd.pdf
 Allow: /
