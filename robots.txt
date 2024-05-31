@@ -10,4 +10,5 @@ Disallow: /downloads/dr-rpa.pdf
 Disallow: /downloads/machine-learning.pdf
 Disallow: /downloads/components.pdf
 Disallow: /downloads/tdd-or-not-tdd.pdf
+Disallow: /downloads/highload-and-c++.pdf
 Allow: /
