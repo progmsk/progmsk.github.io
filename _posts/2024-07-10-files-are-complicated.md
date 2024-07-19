@@ -3,7 +3,7 @@ layout: post
 date: 2024-07-10 19:00:00+03:00
 title: "Файлы — это сложно"
 excerpt: "Доклад Дмитрия Родионова."
-image: "https://github.com/progmsk/progmsk.github.io/assets/10639110/bcba4635-2c03-4e42-9416-c57c0e9f8d5d"
+image: "https://github.com/user-attachments/assets/f946d20e-71bb-490a-98fb-42ae2b2d5f7e"
 videos:
   - "https://www.youtube.com/embed/drYwquUaJOs"
 ---
