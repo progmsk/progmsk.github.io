@@ -16,6 +16,7 @@ gallery:
   - "https://github.com/user-attachments/assets/70be6d27-fd25-4fa3-a047-23b8d5d7911b"
   - "https://github.com/user-attachments/assets/745abd6c-ed93-486a-92e4-a676a65bb615"
   - "https://github.com/user-attachments/assets/53ba8ffa-2125-4025-b9e4-1f9b9b7663fd"
+---
 
 Московский клуб программистов принял участие во всемирном хакатоне [Browser Jam](https://github.com/BrowserJam/browserjam). Не пишем никакой финансовой фигни, пишем браузер за выходные.
 
