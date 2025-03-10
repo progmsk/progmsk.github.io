@@ -2,13 +2,8 @@
 layout: post
 date: 2024-12-07 11:00:00+03:00
 title: "Архитектурная ката"
-<<<<<<< HEAD
 excerpt: "Групповое упражнение, которое помогают развивать навыки проектирования программ."
 image: "https://github.com/user-attachments/assets/6e45866f-9bdd-4284-8616-323c784f4341"
-=======
-excerpt: "Групповое упражнение, которое помогают развивать навыки проектирования программ. ."
-image: "https://github.com/user-attachments/assets/bad9f5ea-6a4f-47ea-85ab-b15fa5aafcbd"
->>>>>>> 4f46ccfd15d5b507e45d8d0d2b3ae358dc7e0753
 gallery:
   - "https://github.com/user-attachments/assets/bad9f5ea-6a4f-47ea-85ab-b15fa5aafcbd"
   - "https://github.com/user-attachments/assets/86f0e2e5-cc0e-482c-86db-abe2f0f0d370"
@@ -116,7 +111,7 @@ gallery:
   * Идемпотентность
   * Распределённые транзакции
   * Конкурентность
-  * Горизонтальное, вертикальное 
+  * Горизонтальное, вертикальное
 * Кэширование
   * Объём дисковой и оперативной памяти
   * Инвалидация
