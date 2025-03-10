@@ -3,7 +3,7 @@ layout: post
 date: 2024-12-07 11:00:00+03:00
 title: "Архитектурная ката"
 excerpt: "Групповое упражнение, которое помогают развивать навыки проектирования программ."
-image: "https://github.com/user-attachments/assets/6e45866f-9bdd-4284-8616-323c784f4341"
+image: "https://github.com/user-attachments/assets/bad9f5ea-6a4f-47ea-85ab-b15fa5aafcbd"
 gallery:
   - "https://github.com/user-attachments/assets/bad9f5ea-6a4f-47ea-85ab-b15fa5aafcbd"
   - "https://github.com/user-attachments/assets/86f0e2e5-cc0e-482c-86db-abe2f0f0d370"
