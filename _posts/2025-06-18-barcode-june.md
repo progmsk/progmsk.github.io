@@ -3,7 +3,7 @@ layout: post
 date: 2025-06-18 19:00:00+03:00
 title: "Bar Code, июнь 2025"
 excerpt: "Митап в баре."
-image: "https://github.com/user-attachments/assets/e27f0f33-9931-4202-b9a1-6594aad19d6d"
+image: "https://github.com/user-attachments/assets/094ecf0d-0e21-48f6-b707-1c905811bcda"
 gallery:
   - "https://github.com/user-attachments/assets/4b98e5df-0ca0-433f-a640-c7fd7a9d310e"
   - "https://github.com/user-attachments/assets/f3b26f2b-1c2f-40fe-896d-e3e1ee40a8cb"
