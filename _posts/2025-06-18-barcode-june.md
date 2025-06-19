@@ -3,21 +3,16 @@ layout: post
 date: 2025-06-18 19:00:00+03:00
 title: "Bar Code, июнь 2025"
 excerpt: "Митап в баре."
-image: "https://github.com/user-attachments/assets/e6fc67ce-b358-49a9-8081-d066fcf0420d"
+image: "https://github.com/user-attachments/assets/e27f0f33-9931-4202-b9a1-6594aad19d6d"
 gallery:
-  - "https://github.com/user-attachments/assets/c9b9900c-2bc6-48d5-8ecd-86436440e0ad"
-  - "https://github.com/user-attachments/assets/fafb5aa4-cade-4b56-a85f-4c1c6801b6a6"
-  - "https://github.com/user-attachments/assets/1a0bb1e6-d642-4c5a-a604-d931b70ba67d"
-  - "https://github.com/user-attachments/assets/c3dda50b-40c8-4922-85b4-0f5c06c69cb6"
-  - "https://github.com/user-attachments/assets/e61dc9b4-49e9-4c37-b3ed-3d4ed69b39b2"
-  - "https://github.com/user-attachments/assets/013d19d8-83ce-4125-95b1-4e95be011116"
-  - "https://github.com/user-attachments/assets/e6fc67ce-b358-49a9-8081-d066fcf0420d"
-  - "https://github.com/user-attachments/assets/b825b9d1-0c3b-4da9-96bf-66969ffa4aa9"
-  - "https://github.com/user-attachments/assets/fa67a536-a5b2-4acf-9b48-be15b568a02c"
-  - "https://github.com/user-attachments/assets/27b6bf56-f6f1-4083-a892-814d47c2084a"
-  - "https://github.com/user-attachments/assets/45bd975b-cde0-410d-8783-f87d2a1ae3e2"
-  - "https://github.com/user-attachments/assets/47906d50-8de8-481b-92ca-05286c49b602"
-  - "https://github.com/user-attachments/assets/e087f04b-7322-47a8-b213-d48dd551da6c"
+  - "https://github.com/user-attachments/assets/4b98e5df-0ca0-433f-a640-c7fd7a9d310e"
+  - "https://github.com/user-attachments/assets/f3b26f2b-1c2f-40fe-896d-e3e1ee40a8cb"
+  - "https://github.com/user-attachments/assets/e27f0f33-9931-4202-b9a1-6594aad19d6d"
+  - "https://github.com/user-attachments/assets/b497539f-0065-4bcb-b21a-94c814eb03de"
+  - "https://github.com/user-attachments/assets/ed1da40a-00f8-493c-91c0-adbc4e01f095"
+  - "https://github.com/user-attachments/assets/094ecf0d-0e21-48f6-b707-1c905811bcda"
+  - "https://github.com/user-attachments/assets/a88b1386-a15d-46ed-9ced-791f87a7b7b5"
+  - "https://github.com/user-attachments/assets/48f5961c-cd67-4b03-9b60-fd8ac29d0714"
 ---
 
 На протяжении многих лет, отвечая на вопрос «на чём пишешь?», мы называем разные языки программирования: Go, Java, C#.
