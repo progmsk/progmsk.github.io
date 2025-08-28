@@ -3,15 +3,12 @@ layout: post
 date: 2025-08-27 19:00:00+03:00
 title: "Bar Code, август 2025"
 excerpt: "Rust-митап в баре."
-image: "https://github.com/user-attachments/assets/0a448fa3-329a-45af-8ddd-1d84134c85ef"
+image: "https://github.com/user-attachments/assets/4f63c99f-e4b6-4e88-ae86-d348a259d303"
 videos:
 - https://vk.com/video_ext.php?oid=-215542858&id=456239167
 - https://vk.com/video_ext.php?oid=-215542858&id=456239169
 - https://vk.com/video_ext.php?oid=-215542858&id=456239168
 ---
-
-📍 Москва
-⏰ ср, 27 август 2025, 19:30 (+0300)
 
 В августе собрались в традиционном уже [Freedom Bar](https://yandex.ru/maps/org/freedom/177480110426/?ll=37.585403%2C55.805867&z=17) 🍺 на Дмитровской. Тема митапа — язык программирования **Rust**.
 
