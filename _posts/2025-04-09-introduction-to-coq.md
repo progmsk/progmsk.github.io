@@ -4,6 +4,15 @@ date: 2025-04-09 19:00:00+03:00
 title: "Введение в Coq"
 excerpt: "Серия воркшопов по доказательству корректности программ и языку Coq."
 image: "https://github.com/user-attachments/assets/9955f4f1-9395-443d-b59e-e6576f220f67"
+videos:
+- https://vkvideo.ru/video_ext.php?oid=-215542858&id=456239155
+- https://vkvideo.ru/video_ext.php?oid=-215542858&id=456239156
+- https://vkvideo.ru/video_ext.php?oid=-215542858&id=456239157
+- https://vkvideo.ru/video_ext.php?oid=-215542858&id=456239158
+- https://vkvideo.ru/video_ext.php?oid=-215542858&id=456239159
+- https://vkvideo.ru/video_ext.php?oid=-215542858&id=456239160
+- https://vkvideo.ru/video_ext.php?oid=-215542858&id=456239161
+- https://vkvideo.ru/video_ext.php?oid=-215542858&id=456239162
 ---
 
 Каждый программист знает, что тесты не спасают от ошибок. (Некоторые при этом делают ошибочный вывод, что тесты писать не надо).
