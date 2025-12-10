@@ -3,7 +3,7 @@ layout: post
 date: 2025-12-09 19:00:00+03:00
 title: "Современный фронтенд"
 excerpt: "Интервью с Дмитрием Шмаковым."
-image: "https://github.com/user-attachments/assets/f946d20e-71bb-490a-98fb-42ae2b2d5f7e"
+image: "https://github.com/user-attachments/assets/b4cee1de-2dda-4d36-916d-dc10570ade15"
 videos:
   - "https://vk.com/video_ext.php?oid=-215542858&id=456239171"
 ---
