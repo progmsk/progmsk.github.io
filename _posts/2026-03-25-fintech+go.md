@@ -3,7 +3,7 @@ layout: post
 date: 2026-03-25 19:00:00+03:00
 title: "Финтех+Go"
 excerpt: "Доклад Степана Ляхова"
-# image: "https://github.com/user-attachments/assets/b4cee1de-2dda-4d36-916d-dc10570ade15"
+image: "https://github.com/user-attachments/assets/0f070f33-4bab-466b-afe7-27a766156a3f"
 videos:
   - "https://vk.com/video_ext.php?oid=-215542858&id=456239177"
 ---
