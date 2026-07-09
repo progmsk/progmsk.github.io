@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2026-05-27 19:00:00+03:00
-title: "Аохитектурный митап"
+title: "Архитектурный митап"
 excerpt: "Совместный митап с Т1"
 image: "https://github.com/user-attachments/assets/f3eaffe1-e7b7-4c90-b704-26d3848e93a5"
 gallery:
