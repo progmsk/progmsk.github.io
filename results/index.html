@@ -26,30 +26,41 @@ excerpt: Конспекты, презентации, видео со встре�
       {% endfor %}
 
       <div class="mt-4">
-        <nav aria-label="navigation">
+        <nav aria-label="Навигация по страницам">
+          {% if paginator.total_pages > 1 %}
           <ul class="pagination pagination-light d-inline-block d-md-flex justify-content-center">
-            {% if paginator.previous_page %}
-            <li class="page-item"><a href="{{ paginator.previous_page_path }}" class="page-link">&laquo;</a></li>
-            {% else %}
-            <li class="page-item disabled"><a href="{{ paginator.previous_page_path }}" class="page-link">&laquo;</a></li>
-            {% endif %}
-          
-            {% for page in (1..paginator.total_pages) %}
-              {% if page == paginator.page %}
-            <li class="page-item active"><a href="{{ site.paginate_path | relative_url | replace: ':num', page }}" class="page-link">{{ page }}</a></li>
-              {% elsif page == 1 %}
-            <li class="page-item"><a href="{{ site.paginate_path | replace: ':num/', '' | relative_url }}" class="page-link">{{ page }}</a></li>
+            <li class="page-item{% unless paginator.previous_page %} disabled{% endunless %}">
+              {% if paginator.previous_page %}
+              <a class="page-link" href="{{ paginator.previous_page_path }}" aria-label="Предыдущая страница">&laquo;</a>
               {% else %}
-            <li class="page-item"><a href="{{ site.paginate_path | relative_url | replace: ':num', page }}" class="page-link">{{ page }}</a></li>
+              <span class="page-link" aria-hidden="true">&laquo;</span>
               {% endif %}
-            {% endfor %}
-          
-            {% if paginator.next_page %}
-            <li class="page-item"><a href="{{ paginator.next_page_path }}" class="page-link">&raquo;</a></li>
-            {% else %}
-            <li class="page-item disabled"><a href="{{ paginator.next_page_path }}" class="page-link">&raquo;</a></li>
+            </li>
+            <li class="page-item{% if paginator.page == 1 %} active{% endif %}">
+              <a class="page-link" href="{{ site.paginate_path | relative_url | replace: ':num/', '' }}">1</a>
+            </li>
+            {% if paginator.page > 2 %}
+            <li class="page-item disabled"><span class="page-link">&hellip;</span></li>
             {% endif %}
+            {% if paginator.page != 1 and paginator.page != paginator.total_pages %}
+            <li class="page-item active"><span class="page-link" aria-current="page">{{ paginator.page }}</span></li>
+            {% endif %}
+            {% assign last_prev = paginator.total_pages | minus: 1 %}
+            {% if paginator.page < last_prev %}
+            <li class="page-item disabled"><span class="page-link">&hellip;</span></li>
+            {% endif %}
+            <li class="page-item{% if paginator.page == paginator.total_pages %} active{% endif %}">
+              <a class="page-link" href="{{ site.paginate_path | relative_url | replace: ':num', paginator.total_pages }}">{{ paginator.total_pages }}</a>
+            </li>
+            <li class="page-item{% unless paginator.next_page %} disabled{% endunless %}">
+              {% if paginator.next_page %}
+              <a class="page-link" href="{{ paginator.next_page_path }}" aria-label="Следующая страница">&raquo;</a>
+              {% else %}
+              <span class="page-link" aria-hidden="true">&raquo;</span>
+              {% endif %}
+            </li>
           </ul>
+          {% endif %}
         </nav>
       </div>
     </div>
