@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang }}">
+  <head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+  <meta name="yandex-verification" content="782d995c127ba2df" />
+  {% if page.image %}
+  <meta property="og:image" content="{{ page.image | absolute_url }}" />
+  {% endif %}
+
+  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/icon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/icon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/icon/favicon-16x16.png">
+  <link rel="icon" type="image/svg+xml" href="/assets/images/logo.svg">
+  <link rel="manifest" href="/site.webmanifest">
+  <meta name="theme-color" content="#ffffff">
+  {% feed_meta %}
+
+  <link rel="stylesheet" type="text/css" href="/assets/css/style.css">
+  <link rel="stylesheet" type="text/css" href="/assets/css/site.css">
+<body>
+
+<header class="navbar-light fixed-top header-static bg-mode">
+  <nav class="navbar navbar-expand-lg">
+    <div class="container">
+      <!-- Логотип -->
+      <a class="navbar-brand" href="/">
+        <img class="navbar-brand-item" src="/assets/images/logo.svg" alt="Московский клуб программистов">
+      </a>
+
+      <!-- Кнопка выпадающего меню для мобильной версии -->
+      <button class="navbar-toggler ms-auto icon-md btn btn-light p-0" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-animation">
+					<span></span>
+					<span></span>
+					<span></span>
+				</span>
+			</button>
+
+      <div class="collapse navbar-collapse" id="navbarCollapse">
+        <!-- Поиск -->
+        <div class="nav mt-3 mt-lg-0 flex-nowrap align-items-center px-4 px-lg-0">
+          <div class="nav-item w-100">
+            <form class="rounded position-relative" action="https://www.google.com/search">
+              <input class="form-control ps-5 bg-light" name="q" type="search" placeholder="Искать&hellip;" aria-label="Search">
+              <input type="hidden" name="as_sitesearch" value="prog.msk.ru">
+              <button class="btn bg-transparent px-2 py-0 position-absolute top-50 start-0 translate-middle-y" type="submit"><svg xmlns="http://www.w3.org/2000/svg" class="fs-5" width="1em" height="1em" fill="currentColor" viewBox="0 0 16 16" aria-hidden="true"><path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"/></svg></button>
+            </form>
+          </div>
+        </div>
+
+        <!-- Меню -->
+        <ul class="navbar-nav navbar-nav-scroll ms-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="/results/">События</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/coc/">Правила</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/history/">История</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+</header>
+
+<main>
+	<div class="container">
+		{{ content }}
+	</div>
+</main>
+
+<footer class="bg-mode py-3">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <p class="text-center mb-0">© 2015–2026 Московский клуб программистов. © 2023 <a class="text-body" target="_blank" href="https://www.webestica.com">Webestica</a>.</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="/assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+</body>
+</html>
